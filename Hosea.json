@@ -1,0 +1,864 @@
+{
+   "book": "Hosea",
+   "chapter-count": "14",
+   "chapters": [
+      {
+         "chapter": 1,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The word of the Lord that came vnto Hosea, the sonne of Beeri, in the dayes of Uzziah, Iotham, Ahaz, and Hezekiah kings of Iudah, and in the dayes of Ieroboam the sonne of Ioash king of Israel."
+            },
+            {
+               "verse": 2,
+               "text": "The beginning of the word of the Lord by Hosea: and the Lord sayd to Hosea, Goe, take vnto thee a wife of whoredomes, and children of whoredomes: for the land hath committed great whoredome, departing from the Lord."
+            },
+            {
+               "verse": 3,
+               "text": "So he went and tooke Gomer the daughter of Diblaim, which conceiued and bare him a sonne."
+            },
+            {
+               "verse": 4,
+               "text": "And the Lord said vnto him, Call his name Iezreel; for yet a little while, and I will auenge the blood of Iezreel vpon the house of Iehu, and will cause to cease the kingdome of the house of Israel."
+            },
+            {
+               "verse": 5,
+               "text": "And it shall come to passe at that day, that I will breake the bow of Israel in the valley of Iezreel."
+            },
+            {
+               "verse": 6,
+               "text": "¶ And shee conceiued againe and bare a daughter, and God sayd vnto him, Call her name Lo-ruhamah: for I will no more haue mercy vpon the house of Israel: but I will vtterly take them away."
+            },
+            {
+               "verse": 7,
+               "text": "But I will haue mercy vpon the house of Iudah, and will saue them by the Lord their God, and will not saue them by vow, nor by sword, nor by battell, by horses nor by horsemen."
+            },
+            {
+               "verse": 8,
+               "text": "¶ Now when shee had weaned Lo-ruhamah, she couceiued and bare a sonne."
+            },
+            {
+               "verse": 9,
+               "text": "Then sayde God, Call his name Lo-ammi: for yee are not my people, and I will not be your God."
+            },
+            {
+               "verse": 10,
+               "text": "¶ Yet the number of the children of Israel shall be as the sand of the sea, which cannot bee measured nor numbred, and it shall come to passe, that in the place where it was said vnto them, Yee are not my people, there it shall be said vnto them, Ye are the sonnes of the liuing God."
+            },
+            {
+               "verse": 11,
+               "text": "Then shall the children of Iudah and the children of Israel be gathered together, and appoint themselues one head, and they shall come vp out of the land: for great shalbe the day of Iezreel."
+            }
+         ]
+      },
+      {
+         "chapter": 2,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Say ye vnto your brethren, Ammi, & to your sisters, Ruhamah:"
+            },
+            {
+               "verse": 2,
+               "text": "Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whordomes out of her sight, and her adulteries from betweene her breasts;"
+            },
+            {
+               "verse": 3,
+               "text": "Lest I strip her naked, and set her as in the day that shee was borne, and make her as a wildernesse, and set her like a drie land, and slay her with thirst."
+            },
+            {
+               "verse": 4,
+               "text": "And I will not haue mercy vpon her children, for they be the children of whordomes."
+            },
+            {
+               "verse": 5,
+               "text": "For their mother hath played the harlot: shee that conceiued them hath done shamefully: for shee sayd, I will goe after my louers, that giue me my bread and my water, my wooll and my flaxe, mine oyle, and my drinke."
+            },
+            {
+               "verse": 6,
+               "text": "¶ Therefore behold, I will hedge vp thy way with thornes, and make a wall, that she shall not find her pathes."
+            },
+            {
+               "verse": 7,
+               "text": "And she shall follow after her louers, but she shall not ouertake them, and she shall seeke them, but shall not find them: then shall she say, I will goe and returne to my first husband, for then was it better with me then now."
+            },
+            {
+               "verse": 8,
+               "text": "For she did not know that I gaue her corne, and wine, and oyle, and multiplied her siluer and gold, which they prepared for Baal."
+            },
+            {
+               "verse": 9,
+               "text": "Therefore will I returne, and take away my Corne in the time thereof, and my wine in the season thereof, and wil recouer my wooll and my flaxe giuen to couer her nakednesse."
+            },
+            {
+               "verse": 10,
+               "text": "And now will I discouer her lewdnesse in the sight of her louers, and none shall deliuer her out of mine hand."
+            },
+            {
+               "verse": 11,
+               "text": "I will also cause all her mirth to cease, her feast daies, her new moones, and her Sabbaths, and all her solemne feasts."
+            },
+            {
+               "verse": 12,
+               "text": "And I will destroy her vines and her figge trees, whereof she hath said; These are my rewards that my louers haue giuen me: and I will make them a forrest, and the beasts of the field shall eate them."
+            },
+            {
+               "verse": 13,
+               "text": "And I will visite vpon her the daies of Baalim, wherein she burnt incense to them, and she decked her selfe with her eare-rings, and her Iewels, and she went after her louers, and forgate me, saith the Lord."
+            },
+            {
+               "verse": 14,
+               "text": "¶ Therefore behold, I will allure her, and bring her into the wildernesse, and speake comfortably vnto her."
+            },
+            {
+               "verse": 15,
+               "text": "And I wil giue her, her vineyards from thence, and the valley of Achor for a doore of hope, and she shall sing there, as in the dayes of her youth, and as in the day when she came vp out of the land of Egypt."
+            },
+            {
+               "verse": 16,
+               "text": "And it shall be at that day, saith the Lord, that thou shalt call mee Ishi; and shalt call mee no more Baali."
+            },
+            {
+               "verse": 17,
+               "text": "For I will take away the names of Baalim out of her mouth, & they shal no more be remembred by their name."
+            },
+            {
+               "verse": 18,
+               "text": "And in that day will I make a couenant for them with the beasts of the field, and with the foules of heauen, and with the creeping things of the ground: and I will breake the bow and the sword, and the battell out of the earth, and will make them to lie downe safely."
+            },
+            {
+               "verse": 19,
+               "text": "And I will betroth thee vnto me for euer; yea, I will betroth thee vnto me in righteousnesse, and in iudgement, and in louing kindnesse, and in mercies."
+            },
+            {
+               "verse": 20,
+               "text": "I will euen betroth thee vnto me in faithfulnesse, and thou shalt know the Lord."
+            },
+            {
+               "verse": 21,
+               "text": "And it shall come to passe in that day, I will heare, saith the Lord, I will heare the heauens, and they shall heare the earth,"
+            },
+            {
+               "verse": 22,
+               "text": "And the earth shall heare the corne, and the wine, and the oyle, and they shall heare Iezreel."
+            },
+            {
+               "verse": 23,
+               "text": "And I will sow her vnto me in the earth, and I will haue mercy vpon her that had not obtained mercy, and I will say to them which were not my people; Thou art my people, and they shallsay, Thou art my God."
+            }
+         ]
+      },
+      {
+         "chapter": 3,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Then said the Lord vnto me, Goe yet, loue a woman (beloued of her friend, yet an adulteresse) according to the loue of the Lord toward the children of Israel, who looke to other gods, and loue flagons of wine."
+            },
+            {
+               "verse": 2,
+               "text": "So I bought her to me for fifteene pieces of siluer, and for an homer of barley and an halfe homer of barley."
+            },
+            {
+               "verse": 3,
+               "text": "And I said vnto her, Thou shalt abide for me many dayes, thou shalt not play the harlot, & thou shalt not be for an other man, so will I also be for thee."
+            },
+            {
+               "verse": 4,
+               "text": "For the children of Israel shall abide many dayes without a King, and without a Prince, and without a sacrifice, and without an image, and without an Ephod, and without Teraphim."
+            },
+            {
+               "verse": 5,
+               "text": "Afterward shall the children of Israel returne, and seeke the Lord their God, and Dauid their King, and shall feare the Lord, and his goodnesse in the latter dayes."
+            }
+         ]
+      },
+      {
+         "chapter": 4,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Heare the worde of the Lord, yee children of Israel: for the Lord hath a controuersie with the inhabitants of the land, because there is no trueth, nor mercie, nor knowledge of God in the land."
+            },
+            {
+               "verse": 2,
+               "text": "By swearing, and lying, and killing, and stealing, and committing adulterie, they breake out, and blood toucheth blood."
+            },
+            {
+               "verse": 3,
+               "text": "Therefore shall the land mourne, and euery one that dwelleth therein shall languish, with the beastes of the field, and with the foules of heauen, yea the fishes of the Sea also shall be taken away."
+            },
+            {
+               "verse": 4,
+               "text": "Yet let no man striue, nor reproue another: for this people are as they that striue with the priest."
+            },
+            {
+               "verse": 5,
+               "text": "Therefore shalt thou fall in the day, and the prophet also shall fall with thee in the night, and I will destroy thy mother."
+            },
+            {
+               "verse": 6,
+               "text": "¶ My people are destroyed for lacke of knowledge: because thou hast reiected knowledge, I will also reiect thee, that thou shalt be no priest to me: seeing thou hast forgotten the lawe of thy God, I wil also forget thy children."
+            },
+            {
+               "verse": 7,
+               "text": "As they were increased, so they sinned against me: therfore wil I change their glory into shame."
+            },
+            {
+               "verse": 8,
+               "text": "They eate vp the sinne of my people, and they set their heart on their iniquitie."
+            },
+            {
+               "verse": 9,
+               "text": "And there shall be like people, like priest: and I will punish them for their wayes, and reward them their doings."
+            },
+            {
+               "verse": 10,
+               "text": "For they shall eate, and not haue enough: they shall commit whordome, and shall not increase, because they haue left off to take heed to the Lord."
+            },
+            {
+               "verse": 11,
+               "text": "Whoredome, and wine, and newe wine take away the heart."
+            },
+            {
+               "verse": 12,
+               "text": "¶ My people aske counsel at their stocks, and their staffe declareth vnto them: for the spirit of whordomes hath caused them to erre, and they haue gone a whoring from vnder their God."
+            },
+            {
+               "verse": 13,
+               "text": "They sacrifice vpon the tops of the mountaines, and burne incense vpon the hilles vnder okes and poplars, and elmes, because the shadowe thereof is good: therefore your daughters shall commit whoredome, and your spouses shall commit adulterie."
+            },
+            {
+               "verse": 14,
+               "text": "I will not punish your daughters when they commit whordome, nor your spouses when they commit adulterie: for themselues are separated with whores, and they sacrifice with harlots: therfore the people that doth not vnderstand, shall fall."
+            },
+            {
+               "verse": 15,
+               "text": "¶ Though thou Israel play the harlot, yet let not Iudah offend, and come not ye vnto Gilgal, neither goe ye vp to Beth-auen, nor sweare, The Lord liueth:"
+            },
+            {
+               "verse": 16,
+               "text": "For Israel slideth backe, as a backe sliding heifer: now the Lord will feede them as a lambe in a large place."
+            },
+            {
+               "verse": 17,
+               "text": "Ephraim is ioyned to idoles: let him alone."
+            },
+            {
+               "verse": 18,
+               "text": "Their drinke is sowre: they haue committed whordome continually: her rulers with shame doe loue, Giue ye."
+            },
+            {
+               "verse": 19,
+               "text": "The wind hath bound her vp in her wings, and they shall be ashamed because of their sacrifices."
+            }
+         ]
+      },
+      {
+         "chapter": 5,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Heare yee this, O priests, and hearken, ye house of Israel, and giue yee eare, O house of the king: for iudgement is toward you, because yee haue beene a snare on Mizpah, and a net spread vpon Tabor."
+            },
+            {
+               "verse": 2,
+               "text": "And the reuolters are profound to make slaughter, though I haue bene a rebuker of them all."
+            },
+            {
+               "verse": 3,
+               "text": "I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whordome, and Israel is defiled."
+            },
+            {
+               "verse": 4,
+               "text": "They will not frame their doings to turne vnto their God: for the spirit of whoredomes is in the midst of them, and they haue not knowen the Lord."
+            },
+            {
+               "verse": 5,
+               "text": "And the pride of Israel doth testifie to his face: therefore shall Israel and Ephraim fall in their iniquity: Iudah also shall fall with them."
+            },
+            {
+               "verse": 6,
+               "text": "They shall goe with their flocks, and with their heards to seeke the Lord: but they shall not finde him, he hath withdrawen himselfe from them."
+            },
+            {
+               "verse": 7,
+               "text": "They haue dealt treacherously against the Lord: for they haue begotten strange children, now shall a moneth deuoure them with their portions."
+            },
+            {
+               "verse": 8,
+               "text": "Blow yee the cornet in Gibeah, and the trumpet in Ramah: cry alowd at Beth-auen: after thee, O Beniamin."
+            },
+            {
+               "verse": 9,
+               "text": "Ephraim shall be desolate in the day of rebuke: among the tribes of Israel haue I made knowen that which shall surely be."
+            },
+            {
+               "verse": 10,
+               "text": "The Princes of Iudah were like them that remooue the bound: therefore I will powre out my wrath vpon them like water."
+            },
+            {
+               "verse": 11,
+               "text": "Ephraim is oppressed, and broken in iudgement: because he willingly walked after the commandement."
+            },
+            {
+               "verse": 12,
+               "text": "Therefore wil I be vnto Ephraim as a moth: and to the house of Iudah as rottennesse."
+            },
+            {
+               "verse": 13,
+               "text": "When Ephraim saw his sicknesse, and Iudah saw his wound: then went Ephraim to the Assyrian, and sent to king Iareb; yet could he not heale you, nor cure you of your wound."
+            },
+            {
+               "verse": 14,
+               "text": "For I will bee vnto Ephraim as a Lion, and as a yong Lion to the house of Iudah: I, euen I wil teare and goe away: I will take away, and none shall rescue him."
+            },
+            {
+               "verse": 15,
+               "text": "¶ I will goe and returne to my place, till they acknowledge their offence, and seeke my face: in their affliction they will seeke me early."
+            }
+         ]
+      },
+      {
+         "chapter": 6,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Come, and let vs returne vnto the Lord: for hee hath torne, and hee will heale vs: he hath smitten, and he will binde vs vp."
+            },
+            {
+               "verse": 2,
+               "text": "After two daies will he reuiue vs, in the third day he will raise vs vp, and we shall liue in his sight."
+            },
+            {
+               "verse": 3,
+               "text": "Then shal we know, if we follow on to know the Lord: his going forth is prepared, as the morning; & he shall come vnto vs, as the raine; as the latter and former raine vnto the earth."
+            },
+            {
+               "verse": 4,
+               "text": "¶ O Ephraim, what shall I doe vnto thee? O Iudah, what shall I do vnto thee? for your goodnesse is as a morning cloud, and as the early dew it goeth away."
+            },
+            {
+               "verse": 5,
+               "text": "Therefore haue I shewed them by the Prophets: I haue slaine them by the wordes of my mouth, and thy iudgements are as the light that goeth foorth."
+            },
+            {
+               "verse": 6,
+               "text": "For I desired mercie, and not sacrifice; and the knowledge of God more then burnt offerings."
+            },
+            {
+               "verse": 7,
+               "text": "But they like men haue transgressed the Couenant: there haue they dealt treacherously against me."
+            },
+            {
+               "verse": 8,
+               "text": "Gilead is a city of them that worke iniquitie; and is polluted with blood."
+            },
+            {
+               "verse": 9,
+               "text": "And as troupes of robbers waite for a man, so the company of priestes murther in the way by consent: for they commit lewdnesse."
+            },
+            {
+               "verse": 10,
+               "text": "I haue seene an horrible thing in the house of Israel: there is the whoredome of Ephraim, Israel is defiled."
+            },
+            {
+               "verse": 11,
+               "text": "Also O Iudah, hee hath set an haruest for thee, when I returned the captiuitie of my people."
+            }
+         ]
+      },
+      {
+         "chapter": 7,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "When I would haue healed Israel, then the iniquitie of Ephraim was discouered, and the wickednesse of Samaria: for they commit falsehood: and the thiefe commeth in, and the troupe of robbers spoileth without."
+            },
+            {
+               "verse": 2,
+               "text": "And they consider not in their hearts that I remember al their wickednesse: now their owne doings haue beset them about, they are before my face."
+            },
+            {
+               "verse": 3,
+               "text": "They make the king glad with their wickednesse, and the princes with their lies."
+            },
+            {
+               "verse": 4,
+               "text": "They are al adulterers, as an ouen heated by the baker: who ceaseth from raising after he hath kneaded the dough, vntill it be leauened."
+            },
+            {
+               "verse": 5,
+               "text": "In the day of our King, the princes haue made him sicke with bottels of wine, he stretched out his hand with scorners."
+            },
+            {
+               "verse": 6,
+               "text": "For they haue made ready their heart like an ouen, whiles they lie in wait: their baker sleepeth all the night, in the morning it burneth as a flaming fire."
+            },
+            {
+               "verse": 7,
+               "text": "They are all hot as an ouen, and haue deuoured their Iudges; all their Kings are fallen, there is none among them that calleth vnto me."
+            },
+            {
+               "verse": 8,
+               "text": "Ephraim, he hath mixed himselfe among the people, Ephraim is a cake not turned."
+            },
+            {
+               "verse": 9,
+               "text": "Strangers haue deuoured his strength, and hee knoweth it not: yea, gray haires are here and there vpon him, yet he knoweth not."
+            },
+            {
+               "verse": 10,
+               "text": "And the pride of Israel testifieth to his face, and they doe not returne to the Lord their God, nor seeke him for all this."
+            },
+            {
+               "verse": 11,
+               "text": "¶ Ephraim also is like a silly doue, without heart: they call to Egypt; they goe to Assyria."
+            },
+            {
+               "verse": 12,
+               "text": "When they shall goe, I wil spread my net vpon them, I will bring them downe as the foules of the heauen: I will chastise them as their congregation hath heard."
+            },
+            {
+               "verse": 13,
+               "text": "Woe vnto them, for they haue fled from me: destruction vnto them, because they haue transgressed against me, though I haue redeemed them, yet they haue spoken lies against me."
+            },
+            {
+               "verse": 14,
+               "text": "And they haue not cryed vnto me with their heart, when they howled vpon their beds: they assemble themselues for corne and wine, and they rebell against me."
+            },
+            {
+               "verse": 15,
+               "text": "Though I haue bound, and strengthened their armes, yet doe they imagine mischiefe against me."
+            },
+            {
+               "verse": 16,
+               "text": "They returne, but not to the most High: they are like a deceitfull bow: their princes shall fall by the sword, for the rage of their tongue: this shall be their derision in the land of Egypt."
+            }
+         ]
+      },
+      {
+         "chapter": 8,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Set the Trumpet to thy mouth: hee shall come as an Eagle against the house of the Lord, because they haue transgressed my Couenant, and trespassed against my Lawe."
+            },
+            {
+               "verse": 2,
+               "text": "Israel shall crie vnto me, My God, we know thee."
+            },
+            {
+               "verse": 3,
+               "text": "Israel hath cast off the thing that is good: the enemie shall pursue him."
+            },
+            {
+               "verse": 4,
+               "text": "They haue set vp Kings, but not by me: they haue made Princes, and I knew it not: of their siluer and their golde haue they made them idoles, that they may be cut off."
+            },
+            {
+               "verse": 5,
+               "text": "¶ Thy calfe, O Samaria, hath cast thee off: mine anger is kindled against them: how long will it bee ere they attaine to innocencie?"
+            },
+            {
+               "verse": 6,
+               "text": "For from Israel was it also, the workeman made it, therefore it is not God: but the calfe of Samaria shall be broken in pieces."
+            },
+            {
+               "verse": 7,
+               "text": "For they haue sowen the winde, and they shall reape the whirlewinde: it hath no stalke: the budde shall yeeld no meale: if so be it yeeld, the strangers shall swallow it vp."
+            },
+            {
+               "verse": 8,
+               "text": "Israel is swallowed vp, now shal they be among the Gentiles, as a vessell wherein is no pleasure."
+            },
+            {
+               "verse": 9,
+               "text": "For they are gone vp to Assyria, a wilde Asse alone by himselfe; Ephraim hath hired louers."
+            },
+            {
+               "verse": 10,
+               "text": "Yea, though they haue hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the King of princes."
+            },
+            {
+               "verse": 11,
+               "text": "Because Ephraim hath made many altars to sinne, altars shall be vnto him to sinne."
+            },
+            {
+               "verse": 12,
+               "text": "I haue written to him the great things of my Law, but they were counted as a strange thing."
+            },
+            {
+               "verse": 13,
+               "text": "They sacrifice flesh for the sacrifices of mine offerings, and eate it; but the Lord accepteth them not: now will he remember their iniquitie, and visite their sinnes: they shal returne to Egypt."
+            },
+            {
+               "verse": 14,
+               "text": "For Israel hath forgotten his maker, and buildeth temples; and Iudah hath multiplied fenced cities: but I will send a fire vpon his cities, and it shall deuoure the palaces thereof."
+            }
+         ]
+      },
+      {
+         "chapter": 9,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Reioyce not, O Israel, for ioy as other people: for thou hast gone a whoring from thy God, thou hast loued a reward vpon euery corne floore."
+            },
+            {
+               "verse": 2,
+               "text": "The floore and the winepresse shall not feede them, and the new wine shall faile in her."
+            },
+            {
+               "verse": 3,
+               "text": "They shal not dwel in &thorn; Lords land: but Ephraim shall returne to Egypt, and they shall eat vncleane things in Assyria."
+            },
+            {
+               "verse": 4,
+               "text": "They shall not offer wine offrings to the Lord: neither shall they be pleasing vnto him: their sacrifices shalbe vnto them as the bread of mourners: all that eate thereof shall be polluted: for their bread for their soule shall not come into the house of the Lord."
+            },
+            {
+               "verse": 5,
+               "text": "What will yee doe in the solemne day, and in the day of the feast of the Lord ?"
+            },
+            {
+               "verse": 6,
+               "text": "For loe they are gone, because of destruction: Egypt shall gather them vp, Memphis shall burie them: the pleasant places for their siluer, netles shal possesse them: thornes shall be in their Tabernacles."
+            },
+            {
+               "verse": 7,
+               "text": "The dayes of visitation are come, the dayes of recompence are come, Israel shall know it; the Prophet is a foole, the spirituall man is madde, for the multitude of thine iniquitie and the great hatred."
+            },
+            {
+               "verse": 8,
+               "text": "The watchman of Ephraim was with my God: but the Prophet is a snare of a fouler in all his wayes, and hatred in the house of his God."
+            },
+            {
+               "verse": 9,
+               "text": "They haue deeply corrupted themselues as in the dayes of Gibeah: therefore he will remember their iniquitie, he will visite their sinnes."
+            },
+            {
+               "verse": 10,
+               "text": "I found Israel like grapes in the wildernesse: I saw your fathers as the first ripe in the fig tree at her first time: but they went to Baalpeor, and separated themselues vnto that shame, and their abominations were according as they loued."
+            },
+            {
+               "verse": 11,
+               "text": "As for Ephraim, their glory shall flee away like a bird: from the birth and from the wombe, and from the conception."
+            },
+            {
+               "verse": 12,
+               "text": "Though they bring vp their children, yet wil I bereaue them that there shall not be a man left: yea, woe also to them when I depart from them."
+            },
+            {
+               "verse": 13,
+               "text": "Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring foorth his children to the murderer."
+            },
+            {
+               "verse": 14,
+               "text": "Giue them, O Lord: what wilt thou giue? giue them a miscarying wombe, and drie breasts."
+            },
+            {
+               "verse": 15,
+               "text": "All their wickednesse is in Gilgal: for there I hated them: for the wickednesse of their doings I will driue them out of mine house, I will loue them no more: all their princes are reuolters."
+            },
+            {
+               "verse": 16,
+               "text": "Ephraim is smitten, their roote is dried vp, they shall beare no fruite: yea though they bring foorth, yet wil I slay euen the beloued fruite of their wombe."
+            },
+            {
+               "verse": 17,
+               "text": "My God will cast them away, because they did not hearken vnto him: and they shalbe wanderers among the nations."
+            }
+         ]
+      },
+      {
+         "chapter": 10,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Israel is an empty vine, he bringeth forth fruite vnto himselfe: according to the multitude of his fruite, he hath increased the altars, according to the goodnesse of his land, they haue made goodly images."
+            },
+            {
+               "verse": 2,
+               "text": "Their heart is diuided: now shall they be found faultie: hee shall breake downe their altars: he shall spoile their images."
+            },
+            {
+               "verse": 3,
+               "text": "For now they shall say, We haue no King, because we feared not the Lord, What then should a King doe to vs?"
+            },
+            {
+               "verse": 4,
+               "text": "They haue spoken words, swearing falsely in making a couenant: thus iudgement springeth vp as hemlocke in the furrowes of the field."
+            },
+            {
+               "verse": 5,
+               "text": "The inhabitants of Samaria shall feare, because of the calues of Bethauen: for the people thereof shall mourne ouer it, and the priests thereof that reioyced on it, for the glory thereof, because it is departed from it."
+            },
+            {
+               "verse": 6,
+               "text": "It shall be also caried vnto Assyria for a present to King Iareb: Ephraim shall receiue shame, and Israel shall be ashamed of his owne counsell."
+            },
+            {
+               "verse": 7,
+               "text": "As for Samaria, her King is cut off as the fome vpon the water."
+            },
+            {
+               "verse": 8,
+               "text": "The high places also of Auen, the sinne of Israel, shall be destroyed: the thorne and the thistle shall come vp on their altars; and they shall say to the mountaines, Couer vs; and to the hilles, Fall on vs."
+            },
+            {
+               "verse": 9,
+               "text": "O Israel, thou hast sinned from the dayes of Gibeah: there they stood: the battell in Gibeah against the children of iniquitie did not ouertake them."
+            },
+            {
+               "verse": 10,
+               "text": "It is in my desire that I should chastise them, and the people shall be gathered against them, when they shall bind themselues in their two furrowes."
+            },
+            {
+               "verse": 11,
+               "text": "And Ephraim is as an heifer that is taught and loueth to tread out the corne, but I passed ouer vpon her faire necke: I will make Ephraim to ride: Iudah shall plow, and Iacob shall breake his clods."
+            },
+            {
+               "verse": 12,
+               "text": "Sow to your selues in righteousnesse, reape in mercie: breake vp your fallow ground: for it is time to seeke the Lord, till he come and raine righteousnesse vpon you."
+            },
+            {
+               "verse": 13,
+               "text": "Ye haue plowed wickednesse, yee haue reaped iniquitie, ye haue eaten the fruite of lies: because thou didst trust in thy way, in the multitude of thy mightie men."
+            },
+            {
+               "verse": 14,
+               "text": "Therefore shall a tumult arise among thy people, and all thy fortresses shall bee spoiled, as Shalman spoiled Beth-arbel in the day of battell: the mother was dashed in pieces vpon her children."
+            },
+            {
+               "verse": 15,
+               "text": "So shall Bethel doe vnto you, because of your great wickednesse: in a morning shall the king of Israel be vtterly cut off."
+            }
+         ]
+      },
+      {
+         "chapter": 11,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "When Israel was a childe, then I loued him, and called my sonne out of Egypt."
+            },
+            {
+               "verse": 2,
+               "text": "As they called them, so they went from them: they sacrificed vnto Baalim, and burnt incense to grauen images."
+            },
+            {
+               "verse": 3,
+               "text": "I taught Ephraim also to goe, taking them by their armes: but they knew not that I healed them."
+            },
+            {
+               "verse": 4,
+               "text": "I drew them with cords of a man, with bands of loue, and I was to them as they that take off the yoke on their iawes, and I laid meat vnto them."
+            },
+            {
+               "verse": 5,
+               "text": "¶ He shall not returne into the land of Egypt; but the Assyrian shall be his king, because they refused to returne"
+            },
+            {
+               "verse": 6,
+               "text": "And the sword shall abide on his cities, and shall consume his branches, and deuoure them, because of their own counsels."
+            },
+            {
+               "verse": 7,
+               "text": "And my people are bent to backesliding from mee: though they called them to the most High, none at all would exalt him."
+            },
+            {
+               "verse": 8,
+               "text": "How shall I giue thee vp, Ephraim? how shall I deliuer thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within mee, my repentings are kindled together."
+            },
+            {
+               "verse": 9,
+               "text": "I will not execute the fiercenes of mine anger, I will not returne to destroy Ephraim, for I am God, and not man, the Holy One in the midst of thee, and I will not enter into the citie."
+            },
+            {
+               "verse": 10,
+               "text": "They shal walke after the Lord: he shall roare like a lyon: when he shall roare, then the children shall tremble from the West."
+            },
+            {
+               "verse": 11,
+               "text": "They shall tremble as a bird out of Egypt, and as a doue out of the land of Assyria: and I will place them in their houses, saith the Lord."
+            },
+            {
+               "verse": 12,
+               "text": "Ephraim compasseth mee about with lies, and the house of Israel with deceit: but Iudah yet ruleth with God, and is faithfull with the Saints."
+            }
+         ]
+      },
+      {
+         "chapter": 12,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Ephraim feedeth on winde, and followeth after the East winde: hee daily increaseth lies and desolation, and they doe make a couenant with the Assyrians, and oyle is caried into Egypt."
+            },
+            {
+               "verse": 2,
+               "text": "The Lord hath also a controuersie with Iudah, and will punish Iacob according to his wayes, according to his doings will he recompense him."
+            },
+            {
+               "verse": 3,
+               "text": "¶ Hee tooke his brother by the heele in the wombe, and by his strength he had power with God."
+            },
+            {
+               "verse": 4,
+               "text": "Yea, he had power ouer the Angel and preuailed: hee wept and made supplication vnto him: he found him in Bethel, and there he spake with vs."
+            },
+            {
+               "verse": 5,
+               "text": "Euen the Lord God of hosts, the Lord is his memoriall."
+            },
+            {
+               "verse": 6,
+               "text": "Therefore turne thou to thy God: keepe mercie and iudgement, and wait on thy God continually."
+            },
+            {
+               "verse": 7,
+               "text": "¶ He is a merchant, the balances of deceit are in his hand: hee loueth to oppresse."
+            },
+            {
+               "verse": 8,
+               "text": "And Ephraim said, Yet I am become rich, I haue found mee out substance: in all my labours they shall finde none iniquitie in mee, that were sinne."
+            },
+            {
+               "verse": 9,
+               "text": "And I that am the Lord thy God from the lande of Egypt, will yet make thee to dwell in tabernacles, as in the dayes of the solemne feast."
+            },
+            {
+               "verse": 10,
+               "text": "I haue also spoken by the prophets, and I haue multiplied visions, and vsed similitudes, by the ministerie of the prophets."
+            },
+            {
+               "verse": 11,
+               "text": "Is there iniquitie in Gilead? surely they are vanitie, they sacrifice bullocks in Gilgal, yea their altars are as heapes in the furrowes of the fields."
+            },
+            {
+               "verse": 12,
+               "text": "And Iacob fled into the countrey of Syria, and Israel serued for a wife, and for a wife he kept sheepe."
+            },
+            {
+               "verse": 13,
+               "text": "And by a Prophet the Lord brought Israel out of Egypt, and by a Prophet was he preserued."
+            },
+            {
+               "verse": 14,
+               "text": "Ephraim prouoked him to anger, most bitterly: therefore shall he leaue his blood vpon him, and his reproch shall his Lord returne vnto him."
+            }
+         ]
+      },
+      {
+         "chapter": 13,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "When Ephraim spake, trembling, he exalted himselfe in Israel, but, when he offended in Baal, he died."
+            },
+            {
+               "verse": 2,
+               "text": "And now they sinne more and more, and haue made them molten images of their siluer, and idoles according to their owne vnderstanding, all of it the worke of the craftesmen: they say of them, Let the men that sacrifice, kisse the calues."
+            },
+            {
+               "verse": 3,
+               "text": "Therefore they shalbe as the morning cloud, and as the early dew it passeth away, as the chaffe that is driuen with a whirlewinde out of the floore, and as the smoke out of the chimney."
+            },
+            {
+               "verse": 4,
+               "text": "Yet I am the Lord thy God from the land of Egypt, and thou shalt know no God, but me: for there is no sauiour beside me."
+            },
+            {
+               "verse": 5,
+               "text": "¶ I did know thee in the wildernesse, in the land of great drought."
+            },
+            {
+               "verse": 6,
+               "text": "According to their pasture, so were they filled: they were filled, and their heart was exalted: therefore haue they forgotten me."
+            },
+            {
+               "verse": 7,
+               "text": "Therefore I will bee vnto them as a Lion, as a Leopard by the way will I obserue them."
+            },
+            {
+               "verse": 8,
+               "text": "I will meet them as a beare that is bereaued of her whelpes, and will rent the kall of their heart, and there will I deuoure them like a Lion: the wilde beast shall teare them."
+            },
+            {
+               "verse": 9,
+               "text": "¶ O Israel, thou hast destroied thy selfe, but in me is thine helpe."
+            },
+            {
+               "verse": 10,
+               "text": "I will be thy King: where is any other that may saue thee in all thy cities? and thy Iudges of whom thou saidst, Giue me a King and Princes?"
+            },
+            {
+               "verse": 11,
+               "text": "I gaue thee a king in mine anger, and tooke him away in my wrath."
+            },
+            {
+               "verse": 12,
+               "text": "The iniquitie of Ephraim is bound vp: his sinne is hid."
+            },
+            {
+               "verse": 13,
+               "text": "The sorrowes of a traueiling woman shall come vpon him, he is an vnwise sonne, for he should not stay long in the place of the breaking foorth of children."
+            },
+            {
+               "verse": 14,
+               "text": "I will ransome them from the power of the graue: I will redeeme them from death: O death, I will be thy plagues, O graue, I will be thy destruction; repentance shall be hid from mine eyes."
+            },
+            {
+               "verse": 15,
+               "text": "¶ Though he be fruitfull among his brethren, an East winde shall come, the winde of the Lord shall come vp from the wildernesse, and his spring shall become drie, and his fountaine shalbe dried vp: he shall spoile the treasure of all pleasant vessels."
+            },
+            {
+               "verse": 16,
+               "text": "Samaria shall become desolate, for she hath rebelled against her God: they shall fall by the sword: their infants shalbe dashed in pieces, and their women with childe shalbe ript vp."
+            }
+         ]
+      },
+      {
+         "chapter": 14,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "O Israel, returne vnto the Lord thy God; for thou hast fallen by thine iniquitie."
+            },
+            {
+               "verse": 2,
+               "text": "Take with you words, and turne to the Lord, say vnto him, Take away all iniquitie, and receiue vs graciously: so will wee render the calues of our lips."
+            },
+            {
+               "verse": 3,
+               "text": "Asshur shall not saue vs, we will not ride vpon horses, neither will wee say any more to the work of our hands, Yee are our gods: for in thee the fatherlesse findeth mercie."
+            },
+            {
+               "verse": 4,
+               "text": "¶ I will heale their backsliding, I will loue them freely: for mine anger is turned away from him."
+            },
+            {
+               "verse": 5,
+               "text": "I wil be as the dew vnto Israel: hee shall grow as the lillie, and cast foorth his rootes as Lebanon."
+            },
+            {
+               "verse": 6,
+               "text": "His branches shall spread, and his beautie shalbe as the oliue tree, and his smell as Lebanon."
+            },
+            {
+               "verse": 7,
+               "text": "They that dwell vnder his shadow shall returne: they shall reuiue as the corne, & grow as the vine, the sent thereof shalbe as the wine of Lebanon."
+            },
+            {
+               "verse": 8,
+               "text": "Ephraim shall say, What haue I to doe any more with idoles? I haue heard him, and obserued him: I am like a greene firre tree, from me is thy fruite found."
+            },
+            {
+               "verse": 9,
+               "text": "Who is wise, and hee shall vnderstand these things? prudent, and hee shall know them? for the wayes of the Lord are right, and the iust shall walke in them: but the transgressours shall fall therein."
+            }
+         ]
+      }
+   ]
+}

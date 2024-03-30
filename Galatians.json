@@ -1,0 +1,632 @@
+{
+   "book": "Galatians",
+   "chapter-count": "6",
+   "chapters": [
+      {
+         "chapter": 1,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Paul an Apostle, not of men, neither by man, but by Iesus Christ, and God the Father, who raised him fr&#333; the dead,"
+            },
+            {
+               "verse": 2,
+               "text": "And all the brethren which are with mee, vnto the Churches of Galatia:"
+            },
+            {
+               "verse": 3,
+               "text": "Grace bee to you and peace, from God the Father, and from our Lord Iesus Christ,"
+            },
+            {
+               "verse": 4,
+               "text": "Who gaue himselfe for our sinnes, that he might deliuer vs from this present euill world, according to the will of God, and our Father,"
+            },
+            {
+               "verse": 5,
+               "text": "To whom bee glorie for euer and euer, Amen."
+            },
+            {
+               "verse": 6,
+               "text": "I marueile, that you are so soone remoued from him, that called you into the grace of Christ, vnto an other Gospel:"
+            },
+            {
+               "verse": 7,
+               "text": "Which is not another; but there bee some that trouble you, and would peruert the Gospel of Christ."
+            },
+            {
+               "verse": 8,
+               "text": "But though we, or an Angel from heauen, preach any other Gospel vnto you, then that which wee haue preached vnto you, let him be accursed."
+            },
+            {
+               "verse": 9,
+               "text": "As we said before, so say I now againe, If any man preach any other Gospel vnto you, then that yee haue receiued, let him be accursed."
+            },
+            {
+               "verse": 10,
+               "text": "For doe I now perswade men, or God? or doe I seeke to please men? For if I yet pleased men, I should not bee the seruant of Christ."
+            },
+            {
+               "verse": 11,
+               "text": "But I certifie you, brethren, that the Gospel which was preached of me, is not after man."
+            },
+            {
+               "verse": 12,
+               "text": "For I neither receiued it of man, neither was I taught it, but by the reuelation of Iesus Christ."
+            },
+            {
+               "verse": 13,
+               "text": "For yee haue heard of my couuersation in time past, in the Iewes Religion, how that beyond measure I persecuted the Church of God, and wasted it:"
+            },
+            {
+               "verse": 14,
+               "text": "And profited in the Iewes Religion, aboue many my equals in mine owne nation, being more exceedingly zealous of the traditions of my fathers."
+            },
+            {
+               "verse": 15,
+               "text": "But when it pleased God, who separated me from my mothers wombe, and called me by his grace,"
+            },
+            {
+               "verse": 16,
+               "text": "To reueale his sonne in mee, that I might preach him among the heathen, immediatly I conferred not with flesh and blood:"
+            },
+            {
+               "verse": 17,
+               "text": "Neither went I vp to Ierusalem, to them which were Apostles before me, but I went into Arabia, and returned againe vnto Damascus."
+            },
+            {
+               "verse": 18,
+               "text": "Then after three yeeres, I went vp to Ierusalem to see Peter, and abode with him fifteene dayes."
+            },
+            {
+               "verse": 19,
+               "text": "But other of the Apostles saw I none, saue Iames the Lords brother."
+            },
+            {
+               "verse": 20,
+               "text": "Now the things which I write vnto you, behold, before God I lye not."
+            },
+            {
+               "verse": 21,
+               "text": "Afterwards I came into the regions of Syria and Cilicia,"
+            },
+            {
+               "verse": 22,
+               "text": "And was vnknowen by face vnto the Churches of Iudea, which were in Christ."
+            },
+            {
+               "verse": 23,
+               "text": "But they had heard onely, that he which persecuted vs in times past, now preacheth the faith, which once hee destroyed."
+            },
+            {
+               "verse": 24,
+               "text": "And they glorified God in me."
+            }
+         ]
+      },
+      {
+         "chapter": 2,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Then fourteene yeeres after, I went vp againe to Ierusalem with Barnabas, and tooke Titus with me also."
+            },
+            {
+               "verse": 2,
+               "text": "And I went vp by reuelation, and communicated vnto them that Gospel, which I preach among the Gentiles, but priuately to them which were of reputation, lest by any meanes I should runne, or had runne in vaine."
+            },
+            {
+               "verse": 3,
+               "text": "But neither Titus, who was with me, being a Greeke, was compelled to be circumcised:"
+            },
+            {
+               "verse": 4,
+               "text": "And that because of false brethren vnawares brought in, who came in priuily to spie out our libertie, which wee haue in Christ Iesus, that they might bring vs into bondage."
+            },
+            {
+               "verse": 5,
+               "text": "To whom wee gaue place by subiection, no not for an houre, that the trueth of the Gospel might continue with you."
+            },
+            {
+               "verse": 6,
+               "text": "But of these, who seemed to bee somewhat, (whatsoeuer they were, it maketh no matter to mee, God accepteth no mans person,) for they who seemed to be somewhat, in conference added nothing to me."
+            },
+            {
+               "verse": 7,
+               "text": "But contrariwise, when they saw that the Gospel of the vncircumcision was committed vnto me, as the Gospel of the circumcision was vnto Peter:"
+            },
+            {
+               "verse": 8,
+               "text": "(For he that wrought effectually in Peter to the Apostleship of the circumcision, the same was mightie in me towards the Gentiles.)"
+            },
+            {
+               "verse": 9,
+               "text": "And when Iames, Cephas and Iohn, who seemed to bee pillars, perceiued the grace that was giuen vnto me, they gaue to me and Barnabas the right hands of fellowship, that wee should goe vnto the heathen, and they vnto the circumcision."
+            },
+            {
+               "verse": 10,
+               "text": "Onely they would that wee should remember the poore, the same which I also was forward to doe."
+            },
+            {
+               "verse": 11,
+               "text": "But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed."
+            },
+            {
+               "verse": 12,
+               "text": "For before that certaine came from Iames, he did eate with the Gentiles: but when they were come, hee withdrew, and separated himselfe, fearing them which were of the Circumcisi&#333;."
+            },
+            {
+               "verse": 13,
+               "text": "And the other Iewes dissembled likewise with him, insomuch that Barnabas also was caried away with their dissimulation."
+            },
+            {
+               "verse": 14,
+               "text": "But when I saw that they walked not vprightly according to the truth of the Gospel, I said vnto Peter before them al, If thou, being a Iew, liuest after the maner of Gentiles, and not as doe the Iewes, why compellest thou the Gentiles to liue as do the Iewes?"
+            },
+            {
+               "verse": 15,
+               "text": "We who are Iewes by nature, and not sinners of the Gentiles,"
+            },
+            {
+               "verse": 16,
+               "text": "Knowing that a man is not iustified by the works of the Law, but by the faith of Iesus Christ, euen we haue beleeued in Iesus Christ, that we might be iustified by the faith of Christ, and not by the workes of the Law: for by the workes of the Law shall no flesh be iustified."
+            },
+            {
+               "verse": 17,
+               "text": "But if while we seeke to be iustified by Christ, wee our selues also are found sinners, is therefore Christ the minister of sinne? God forbid."
+            },
+            {
+               "verse": 18,
+               "text": "For if I build againe the things which I destroyed, I make my selfe a transgressour."
+            },
+            {
+               "verse": 19,
+               "text": "For I through &thorn; Law, am dead to the Law, that I might liue vnto God."
+            },
+            {
+               "verse": 20,
+               "text": "I am crucified with Christ. Neuertheles, I liue, yet not I, but Christ liueth in me, and the life which I now liue in the flesh, I liue by the faith of the sonne of God, who loued mee, and gaue himselfe for me."
+            },
+            {
+               "verse": 21,
+               "text": "I doe not frustrate the grace of God: for if righteousnes come by the Lawe, then Christ is dead in vaine."
+            }
+         ]
+      },
+      {
+         "chapter": 3,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "O foolish Galatians, who hath bewitched you, that you should not obey the trueth, before whose eyes Iesus Christ hath been euidently set forth, crucified among you?"
+            },
+            {
+               "verse": 2,
+               "text": "This onely would I learne of you, receiued ye the spirit, by the works of the Law, or by the hearing of faith?"
+            },
+            {
+               "verse": 3,
+               "text": "Are ye so foolish? hauing begun in the Spirit, are ye now made perfect by the flesh?"
+            },
+            {
+               "verse": 4,
+               "text": "Haue ye suffered so many things in vaine? if it be yet in vaine."
+            },
+            {
+               "verse": 5,
+               "text": "He therfore that ministreth to you the Spirit, and worketh miracles among you, doeth he it by the workes of the Law, or by the hearing of faith?"
+            },
+            {
+               "verse": 6,
+               "text": "Euen as Abraham beleeued God, and it was accounted to him for righteousnesse."
+            },
+            {
+               "verse": 7,
+               "text": "Knowe yee therefore, that they which are of faith, the same are the children of Abraham."
+            },
+            {
+               "verse": 8,
+               "text": "And the Scripture foreseeing that God would iustifie the heathen through faith, preached before the Gospel vnto Abraham, saying, In thee shall all nations be blessed."
+            },
+            {
+               "verse": 9,
+               "text": "So then, they which bee of faith, are blessed with faithfull Abraham."
+            },
+            {
+               "verse": 10,
+               "text": "For as many as are of the works of the lawe, are vnder the curse: for it is written, Cursed is euery one that continueth not in all things which are written in the booke of the Law to doe them."
+            },
+            {
+               "verse": 11,
+               "text": "But that no man is iustified by the Lawe in the sight of God, it is euident: for, The iust shall liue by faith."
+            },
+            {
+               "verse": 12,
+               "text": "And the Law is not of faith: but the man that doeth them, shall liue in them."
+            },
+            {
+               "verse": 13,
+               "text": "Christ hath redeemed vs from the curse of the Law, being made a curse for vs: for it is written, Cursed is euery one that hangeth on tree:"
+            },
+            {
+               "verse": 14,
+               "text": "That the blessing of Abraham might come on the Gentiles, through Iesus Christ: that wee might receiue the promise of the Spirit through faith."
+            },
+            {
+               "verse": 15,
+               "text": "Brethren, I speake after the maner of men: though it be but a mans couenant, yet if it bee confirmed, no man disanulleth, or addeth thereto."
+            },
+            {
+               "verse": 16,
+               "text": "Now to Abraham and his seede were the promises made. He saith not, And to seeds, as of many, but as of one, And to thy seed, which is Christ."
+            },
+            {
+               "verse": 17,
+               "text": "And this I say, that the Couenant that was confirmed before of God in Christ, the Lawe which was foure hundred and thirtie yeres after, cannot disanul, that it should make the promise of none effect."
+            },
+            {
+               "verse": 18,
+               "text": "For if the inheritance bee of the Law, it is no more of promise: but God gaue it to Abraham by promise."
+            },
+            {
+               "verse": 19,
+               "text": "Wherefore then serueth the Law? it was added because of transgressions, till the seed should come, to whome the promise was made, and it was ordeyned by Angels in the hand of a Mediatour."
+            },
+            {
+               "verse": 20,
+               "text": "Now a mediatour is not a Mediatour of one, but God is one."
+            },
+            {
+               "verse": 21,
+               "text": "Is the Lawe then against the promises of God? God forbid: for if there had beene a Lawe giuen which could haue giuen life, verily righteousnesse should haue bene by the Law."
+            },
+            {
+               "verse": 22,
+               "text": "But the Scripture hath concluded all vnder sinne, that the promise by faith of Iesus Christ might be giuen to them that beleeue."
+            },
+            {
+               "verse": 23,
+               "text": "But before faith came, wee were kept vnder the Law, shut vp vnto the faith, which should afterwards bee reuealed."
+            },
+            {
+               "verse": 24,
+               "text": "Wherefore the Law was our Schoolemaster to bring vs vnto Christ, that we might be iustified by Faith."
+            },
+            {
+               "verse": 25,
+               "text": "But after that Faith is come, we are no longer vnder a Schoolemaster."
+            },
+            {
+               "verse": 26,
+               "text": "For ye are all the children of God by faith in Christ Iesus."
+            },
+            {
+               "verse": 27,
+               "text": "For as many of you as haue bene baptized into Christ, haue put on Christ."
+            },
+            {
+               "verse": 28,
+               "text": "There is neither Iewe, nor Greeke, there is neither bond nor free, there is neither male nor female: for ye are all one in Christ Iesus."
+            },
+            {
+               "verse": 29,
+               "text": "And if yee be Christs, then are ye Abrahams seed, and heires according to the promise."
+            }
+         ]
+      },
+      {
+         "chapter": 4,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Now I say, that the heire, as long as hee is a child, differeth nothing from a seruant, though hee bee Lord of all,"
+            },
+            {
+               "verse": 2,
+               "text": "But is vnder tutors and gouernours vntill the time appointed of the father."
+            },
+            {
+               "verse": 3,
+               "text": "Euen so we, when wee were children, were in bondage vnder the Elements of the world:"
+            },
+            {
+               "verse": 4,
+               "text": "But when the fulnes of the time was come, God sent foorth his Sonne made of a woman, made vnder the Law,"
+            },
+            {
+               "verse": 5,
+               "text": "To redeeme them that were vnder the Law, that we might receiue the adoption of sonnes."
+            },
+            {
+               "verse": 6,
+               "text": "And because yee are sonnes, God hath sent foorth the spirit of his Sonne into your hearts, crying Abba, Father."
+            },
+            {
+               "verse": 7,
+               "text": "Wherefore thou art no more a seruant, but a sonne; and if a sonne, then an heire of God through Christ."
+            },
+            {
+               "verse": 8,
+               "text": "Howbeit, then when ye knew not God, yee did seruice vnto them which by nature are no Gods."
+            },
+            {
+               "verse": 9,
+               "text": "But now after that yee haue knowen God, or rather are knowen of God, how turne ye againe to the weak and beggerly Elements, whereunto ye desire againe to be in bondage?"
+            },
+            {
+               "verse": 10,
+               "text": "Yee obserue dayes, and moneths, and times, and yeeres."
+            },
+            {
+               "verse": 11,
+               "text": "I am afraide of you, lest I haue bestowed vpon you labour in vaine."
+            },
+            {
+               "verse": 12,
+               "text": "Brethren, I beseech you, be as I am; for I am as ye are, ye haue not iniured me at all."
+            },
+            {
+               "verse": 13,
+               "text": "Ye know how through infirmitie of the flesh, I preached the Gospel vnto you at the first."
+            },
+            {
+               "verse": 14,
+               "text": "And my temptation which was in my flesh ye despised not, nor reiected, but receiued mee as an Angel of God, euen as Christ Iesus."
+            },
+            {
+               "verse": 15,
+               "text": "Where is then the blessednes you spake of? for I beare you record, that if it had bin possible, ye would haue plucked out your own eyes, and haue giuen them to me."
+            },
+            {
+               "verse": 16,
+               "text": "Am I therefore become your enemie, because I tell you the trueth?"
+            },
+            {
+               "verse": 17,
+               "text": "They zelously affect you, but not well: yea, they would exclude you, that you might affect them."
+            },
+            {
+               "verse": 18,
+               "text": "But it is good to bee zealously affected alwayes in a good thing, and not onely when I am present with you."
+            },
+            {
+               "verse": 19,
+               "text": "My litle children, of whom I trauaile in birth againe, vntill Christ bee formed in you:"
+            },
+            {
+               "verse": 20,
+               "text": "I desire to bee present with you now, and to change my voyce, for I stand in doubt of you."
+            },
+            {
+               "verse": 21,
+               "text": "Tell me, ye that desire to be vnder the Law, doe ye not heare the Law?"
+            },
+            {
+               "verse": 22,
+               "text": "For it is written, that Abraham had two sonnes, the one by a bondmaid, the other by a freewoman."
+            },
+            {
+               "verse": 23,
+               "text": "But he who was of the bondwoman, was borne after the flesh: but hee of the freewoman, was by promise."
+            },
+            {
+               "verse": 24,
+               "text": "Which things are an Allegorie; for these are the two Couenants; the one from the mount Sinai, which gendereth to bondage, which is Agar."
+            },
+            {
+               "verse": 25,
+               "text": "For this Agar is mount Sinai in Arabia, and answereth to Ierusalem, which now is, and is in bondage with her children."
+            },
+            {
+               "verse": 26,
+               "text": "But Ierusalem which is aboue is free, which is the mother of vs all."
+            },
+            {
+               "verse": 27,
+               "text": "For it is written, Reioyce thou barren that bearest not, breake foorth and cry thou that traueilest not; for the desolate hath many moe children then she which hath an husband."
+            },
+            {
+               "verse": 28,
+               "text": "Now wee, brethren, as Isaac was, are the children of promise."
+            },
+            {
+               "verse": 29,
+               "text": "But as then hee that was borne after the flesh, persecuted him that was borne after the Spirit, euen so it is now."
+            },
+            {
+               "verse": 30,
+               "text": "Neuerthelesse, what saith the Scripture? Cast out the bondwoman and her sonne: for the son of the bondwoman shall not bee heire with the son of the freewoman."
+            },
+            {
+               "verse": 31,
+               "text": "So then, brethren, we are not children of the bondwoman, but of the free."
+            }
+         ]
+      },
+      {
+         "chapter": 5,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Stand fast therefore in the libertie wherewith Christ hath made vs free, and bee not intangled againe with the yoke of bondage."
+            },
+            {
+               "verse": 2,
+               "text": "Beholde, I Paul say vnto you that if ye be circumcised, Christ shal profite you nothing."
+            },
+            {
+               "verse": 3,
+               "text": "For I testifie againe to euery man that is circumcised, that he is a debtor to doe the whole Law."
+            },
+            {
+               "verse": 4,
+               "text": "Christ is become of no effect vnto you, whosoeuer of you are iustified by the Law: ye are fallen from grace."
+            },
+            {
+               "verse": 5,
+               "text": "For we through the spirit waite for the hope of righteousnesse by faith."
+            },
+            {
+               "verse": 6,
+               "text": "For in Iesus Christ, neither circumcision auaileth any thing, nor vncircumcision, but faith which worketh by loue."
+            },
+            {
+               "verse": 7,
+               "text": "Ye did run well; who did hinder you, that ye should not obey the trueth?"
+            },
+            {
+               "verse": 8,
+               "text": "This perswasion commeth not of him that calleth you."
+            },
+            {
+               "verse": 9,
+               "text": "A little leauen leaueneth the whole lumpe."
+            },
+            {
+               "verse": 10,
+               "text": "I haue confidence in you through the Lord, that you will be none otherwise minded; but he that troubleth you, shall beare his iudgement, whosoeuer hee be."
+            },
+            {
+               "verse": 11,
+               "text": "And I, brethren, if I yet preach circumcision, why doe I yet suffer persecution? then is the offence of the crosse ceased."
+            },
+            {
+               "verse": 12,
+               "text": "I would they were euen cut off which trouble you."
+            },
+            {
+               "verse": 13,
+               "text": "For brethren, ye haue beene called vnto liberty, onely vse not libertie for an occasion to the flesh, but by loue serue one another."
+            },
+            {
+               "verse": 14,
+               "text": "For all the Law is fulfilled in one word, euen in this: Thou shalt loue thy neighbour as thy selfe."
+            },
+            {
+               "verse": 15,
+               "text": "But if yee bite and deuoure one another, take heed ye be not consumed one of another."
+            },
+            {
+               "verse": 16,
+               "text": "This I say then, Walke in the spirit, and ye shall not fulfill the lust of the flesh."
+            },
+            {
+               "verse": 17,
+               "text": "For the flesh lusteth against the Spirit, and the spirit against the flesh: and these are contrary the one to the other: so that yee cannot doe the things that yee would."
+            },
+            {
+               "verse": 18,
+               "text": "But if yee be lead of the spirit, yee are not vnder the Law."
+            },
+            {
+               "verse": 19,
+               "text": "Nowe the workes of the flesh are manifest, which are these, adulterie, fornication, vncleannesse, lasciuiousnesse,"
+            },
+            {
+               "verse": 20,
+               "text": "Idolatrie, witchcraft, hatred, variance, emulations, wrath, strife, seditions, heresies,"
+            },
+            {
+               "verse": 21,
+               "text": "Enuyings, murthers, drunkennesse, reuellings, and such like: of the which I tell you before, as I haue also tolde you in time past, that they which do such things shall not inherite the kingdome of God."
+            },
+            {
+               "verse": 22,
+               "text": "But the fruit of the spirit is loue, ioy, peace, long suffering, gentlenesse, goodnesse, faith,"
+            },
+            {
+               "verse": 23,
+               "text": "Meekenesse, temperance: against such there is no law."
+            },
+            {
+               "verse": 24,
+               "text": "And they that are Christs, haue crucified the flesh with the affections and lustes."
+            },
+            {
+               "verse": 25,
+               "text": "If we liue in the Spirit, let vs also walke in the Spirit."
+            },
+            {
+               "verse": 26,
+               "text": "Let vs not be desirous of vaine glory, prouoking one another, enuying one another."
+            }
+         ]
+      },
+      {
+         "chapter": 6,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Brethren, if a man bee ouertaken in a fault: yee which are spirituall, restore such a one in the spirit of meeknesse, considering thy selfe least thou also be tempted."
+            },
+            {
+               "verse": 2,
+               "text": "Beare ye one anothers burthens, and so fulfill the Law of Christ."
+            },
+            {
+               "verse": 3,
+               "text": "For if a man thinke himselfe to be something, when he is nothing, hee deceiueth himselfe."
+            },
+            {
+               "verse": 4,
+               "text": "But let euery man prooue his owne worke, and then shall he haue reioycing in him selfe alone, and not in an other."
+            },
+            {
+               "verse": 5,
+               "text": "For euery man shall beare his owne burthen."
+            },
+            {
+               "verse": 6,
+               "text": "Let him that is taught in the word, communicate vnto him that teacheth, in all good things."
+            },
+            {
+               "verse": 7,
+               "text": "Be not deceiued, God is not mocked: for whatsoeuer a man soweth, that shall he also reape."
+            },
+            {
+               "verse": 8,
+               "text": "For hee that soweth to his flesh, shall of the flesh reape corruption: but he that soweth to the spirit, shall of the spirit reape life euerlasting."
+            },
+            {
+               "verse": 9,
+               "text": "And let vs not bee weary in well doing: for in due season we shall reape, if we faint not."
+            },
+            {
+               "verse": 10,
+               "text": "As we haue therefore opportunitie, let vs doe good vnto all men, especially vnto them who are of the household of faith."
+            },
+            {
+               "verse": 11,
+               "text": "Ye see how large a letter I haue written vnto you with mine owne hand."
+            },
+            {
+               "verse": 12,
+               "text": "As many as desire to make a faire shew in the flesh, they constraine you to be Circumcised: onely least they should suffer persecution for the Crosse of Christ."
+            },
+            {
+               "verse": 13,
+               "text": "For neither they themselues who are circumcised, keepe the Law, but desire to haue you circumcised, that they may glory in your flesh."
+            },
+            {
+               "verse": 14,
+               "text": "But God forbid that I should glory, saue in the Crosse of our Lord Iesus Christ, by whom the world is crucified vnto me, & I vnto the world."
+            },
+            {
+               "verse": 15,
+               "text": "For in Christ Iesus neither circumcision auaileth any thing nor vncircumcision, but a new creature."
+            },
+            {
+               "verse": 16,
+               "text": "And as many as walke according to this rule, peace be on them, and mercie, and vpon the Israel of God."
+            },
+            {
+               "verse": 17,
+               "text": "From henceforth let no man trouble mee, for I beare in my body the markes of the Lord Iesus."
+            },
+            {
+               "verse": 18,
+               "text": "Brethren, the grace of our Lord Iesus Christ be with your spirit. Amen. Unto the Galatians, written from Rome."
+            }
+         ]
+      }
+   ]
+}

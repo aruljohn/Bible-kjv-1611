@@ -1,0 +1,3821 @@
+{
+   "book": "Proverbs",
+   "chapter-count": "31",
+   "chapters": [
+      {
+         "chapter": 1,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The Prouerbes of Solomon the sonne of Dauid, King of Israel,"
+            },
+            {
+               "verse": 2,
+               "text": "To knowe wisedome and instruction, to perceiue the words of vnderstanding,"
+            },
+            {
+               "verse": 3,
+               "text": "To receiue the instruction of wisdome, iustice, and iudgement & equitie,"
+            },
+            {
+               "verse": 4,
+               "text": "To giue subtiltie to the simple, to the yong man knowledge and discretion."
+            },
+            {
+               "verse": 5,
+               "text": "A wise man wil heare, and wil increase learning: and a man of vnderstanding shall attaine vnto wise counsels:"
+            },
+            {
+               "verse": 6,
+               "text": "To vnderstand a prouerbe, and the interpretation; the wordes of the wise, and their darke sayings."
+            },
+            {
+               "verse": 7,
+               "text": "¶ The feare of the Lord is the beginning of knowledge: but fooles despise wisedome and instruction."
+            },
+            {
+               "verse": 8,
+               "text": "My sonne, heare the instruction of thy father, and forsake not the law of thy mother."
+            },
+            {
+               "verse": 9,
+               "text": "For they shall be an ornament of grace vnto thy head, and chaines about thy necke."
+            },
+            {
+               "verse": 10,
+               "text": "¶ My sonne, if sinners entise thee, consent thou not."
+            },
+            {
+               "verse": 11,
+               "text": "If they say, Come with vs, let vs lay wait for blood, let vs lurke priuily for the innocent without cause:"
+            },
+            {
+               "verse": 12,
+               "text": "Let vs swallow them vp aliue, as the graue, and whole, as those that goe downe into the pit:"
+            },
+            {
+               "verse": 13,
+               "text": "Wee shall finde all precious substance, wee shall fill our houses with spoile:"
+            },
+            {
+               "verse": 14,
+               "text": "Cast in thy lot among vs, let vs all haue one purse:"
+            },
+            {
+               "verse": 15,
+               "text": "My sonne, walke not thou in the way with them; refraine thy foot from their path:"
+            },
+            {
+               "verse": 16,
+               "text": "For their feete runne to euil, and make haste to shed blood."
+            },
+            {
+               "verse": 17,
+               "text": "Surely in vaine the net is spread in the sight of any bird."
+            },
+            {
+               "verse": 18,
+               "text": "And they lay wait for their owne blood, they lurke priuily for their owne liues."
+            },
+            {
+               "verse": 19,
+               "text": "So are the waies of euery one that is greedie of gaine: which taketh away the life of the owners thereof."
+            },
+            {
+               "verse": 20,
+               "text": "¶ Wisedome crieth without, she vttereth her voice in the streets:"
+            },
+            {
+               "verse": 21,
+               "text": "Shee crieth in the chiefe place of concourse, in the openings of the gates: in the city she vttereth her words, saying,"
+            },
+            {
+               "verse": 22,
+               "text": "How long, ye simple ones, will ye loue simplicitie? and the scorners delight in their scorning, and fooles hate knowledge?"
+            },
+            {
+               "verse": 23,
+               "text": "Turne you at my reproofe: behold, I will powre out my spirit vnto you, I will make knowen my wordes vnto you."
+            },
+            {
+               "verse": 24,
+               "text": "¶ Because I haue called, and yee refused, I haue stretched out my hand, and no man regarded:"
+            },
+            {
+               "verse": 25,
+               "text": "But ye haue set at nought all my counsell, & would none of my reproofe:"
+            },
+            {
+               "verse": 26,
+               "text": "I also will laugh at your calamitie, I wil mocke when your feare commeth."
+            },
+            {
+               "verse": 27,
+               "text": "When your feare commeth as desolation, and your destruction commeth as a whirlewinde; when distresse and anguish commeth vpon you:"
+            },
+            {
+               "verse": 28,
+               "text": "Then shall they call vpon mee, but I will not answere; they shall seeke me early, but they shall not finde me:"
+            },
+            {
+               "verse": 29,
+               "text": "For that they hated knowledge, and did not choose the feare of the Lord."
+            },
+            {
+               "verse": 30,
+               "text": "They would none of my counsel: they despised all my reproofe."
+            },
+            {
+               "verse": 31,
+               "text": "Therefore shall they eate of the fruite of their owne way, and be filled with their owne deuices."
+            },
+            {
+               "verse": 32,
+               "text": "For the turning away of the simple shall slay them, and the prosperity of fooles shall destroy them."
+            },
+            {
+               "verse": 33,
+               "text": "But who so hearkneth vnto mee, shall dwell safely, and shall be quiet from feare of euill."
+            }
+         ]
+      },
+      {
+         "chapter": 2,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "My sonne, if thou wilt receiue my words, and hide my commaundements with thee;"
+            },
+            {
+               "verse": 2,
+               "text": "So that thou incline thine eare vnto wisedome, and apply thine heart to vnderstanding:"
+            },
+            {
+               "verse": 3,
+               "text": "Yea if thou cryest after knowledge, and liftest vp thy voyce for vnderstanding:"
+            },
+            {
+               "verse": 4,
+               "text": "If thou seekest her as siluer, and searchest for her, as for hid treasures:"
+            },
+            {
+               "verse": 5,
+               "text": "Then shalt thou vnderstand the feare of the Lord, and find the knowledge of God."
+            },
+            {
+               "verse": 6,
+               "text": "For the Lord giueth wisedome: out of his mouth commeth knowledge, and vnderstanding."
+            },
+            {
+               "verse": 7,
+               "text": "He layeth vp sound wisedome for the righteous: he is a buckler to them that walke vprightly."
+            },
+            {
+               "verse": 8,
+               "text": "He keepeth the pathes of iudgement, and preserueth the way of his Saints."
+            },
+            {
+               "verse": 9,
+               "text": "Then shalt thou vnderstand righteousnesse, and iudgement, and equity; yea euery good path."
+            },
+            {
+               "verse": 10,
+               "text": "¶ When wisedome entreth into thine heart, and knowledge is pleasant vnto thy soule;"
+            },
+            {
+               "verse": 11,
+               "text": "Discretion shall preserue thee, vnderstanding shall keepe thee:"
+            },
+            {
+               "verse": 12,
+               "text": "To deliuer thee from the way of the euill man, from the man that speaketh froward things."
+            },
+            {
+               "verse": 13,
+               "text": "Who leaue the pathes of vprightnesse, to walke in the wayes of darkenesse:"
+            },
+            {
+               "verse": 14,
+               "text": "Who reioyce to doe euill, and delight in the frowardnesse of the wicked."
+            },
+            {
+               "verse": 15,
+               "text": "Whose wayes are crooked, and they froward in their pathes."
+            },
+            {
+               "verse": 16,
+               "text": "To deliuer thee from the strange woman, euen from the stranger, which flattereth with her words:"
+            },
+            {
+               "verse": 17,
+               "text": "Which forsaketh the guide of her youth, and forgetteth the couenant of her God."
+            },
+            {
+               "verse": 18,
+               "text": "For her house inclineth vnto death, and her pathes vnto the dead:"
+            },
+            {
+               "verse": 19,
+               "text": "None that goe vnto her, returne againe, neither take they hold of the pathes of life."
+            },
+            {
+               "verse": 20,
+               "text": "That thou mayest walke in the way of good men, and keepe the pathes of the righteous."
+            },
+            {
+               "verse": 21,
+               "text": "For the vpright shall dwell in the land, and the perfect shall remaine in it."
+            },
+            {
+               "verse": 22,
+               "text": "But the wicked shall be cut off from the earth, and the transgressours shalbe rooted out of it."
+            }
+         ]
+      },
+      {
+         "chapter": 3,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "My sonne, forget not my lawe; but let thine heart keepe my commaundements:"
+            },
+            {
+               "verse": 2,
+               "text": "For length of dayes, and long life, and peace shall they adde to thee."
+            },
+            {
+               "verse": 3,
+               "text": "Let not mercy and trueth forsake thee: bind them about thy necke, write them vpon the table of thine heart."
+            },
+            {
+               "verse": 4,
+               "text": "So shalt thou find fauour, and good vnderstanding in the sight of God, and man."
+            },
+            {
+               "verse": 5,
+               "text": "¶ Trust in the Lord with all thine heart; and leaue not vnto thine owne vnderstanding."
+            },
+            {
+               "verse": 6,
+               "text": "In all thy wayes acknowledge him, and he shall direct thy pathes."
+            },
+            {
+               "verse": 7,
+               "text": "¶ Be not wise in thine owne eyes: feare the Lord, and depart from euill."
+            },
+            {
+               "verse": 8,
+               "text": "It shalbe health to thy nauill, and marrow to thy bones."
+            },
+            {
+               "verse": 9,
+               "text": "Honour the Lord with thy substance, and with the first fruits of all thine increase."
+            },
+            {
+               "verse": 10,
+               "text": "So shall thy barnes be filled with plenty, and thy presses shall burst out with new wine."
+            },
+            {
+               "verse": 11,
+               "text": "¶ My sonne, despise not the chastening of the Lord: neither be weary of his correction."
+            },
+            {
+               "verse": 12,
+               "text": "For whom the Lord loueth, he correcteth, euen as a father the sonne, in whom he delighteth."
+            },
+            {
+               "verse": 13,
+               "text": "¶ Happy is the man that findeth wisedome, and the man that getteth vnderstanding."
+            },
+            {
+               "verse": 14,
+               "text": "For the merchandise of it is better then the merchandise of siluer, and the gaine thereof, then fine gold."
+            },
+            {
+               "verse": 15,
+               "text": "She is more precious then Rubies: and all the things thou canst desire, are not to be compared vnto her."
+            },
+            {
+               "verse": 16,
+               "text": "Length of dayes is in her right hand: and in her left hand, riches and honour."
+            },
+            {
+               "verse": 17,
+               "text": "Her wayes are wayes of plesantnesse: and all her pathes are peace."
+            },
+            {
+               "verse": 18,
+               "text": "She is a tree of life, to them that lay hold vpon her: and happy is euery one that retaineth her."
+            },
+            {
+               "verse": 19,
+               "text": "The Lord by wisedome hath founded the earth; by vnderstanding hath he established the heauens."
+            },
+            {
+               "verse": 20,
+               "text": "By his knowledge the depthes are broken vp; and the cloudes droppe downe the dew."
+            },
+            {
+               "verse": 21,
+               "text": "¶ My sonne, let not them depart from thine eyes: keepe sound wisedome and discretion."
+            },
+            {
+               "verse": 22,
+               "text": "So shall they bee life vnto thy soule, and grace to thy necke."
+            },
+            {
+               "verse": 23,
+               "text": "Then shalt thou walke in thy way safely, & thy foot shall not stumble."
+            },
+            {
+               "verse": 24,
+               "text": "When thou lyest downe, thou shalt not be afraide: yea, thou shalt lye downe, and thy sleepe shalbe sweet."
+            },
+            {
+               "verse": 25,
+               "text": "Be not afraid of sudden feare, neither of the desolation of the wicked, when it commeth."
+            },
+            {
+               "verse": 26,
+               "text": "For the Lord shalbe thy confidence, and shall keepe thy foote from being taken."
+            },
+            {
+               "verse": 27,
+               "text": "¶ Withhold not good from them to whom it is due, when it is in the power of thine hand to doe it."
+            },
+            {
+               "verse": 28,
+               "text": "Say not vnto thy neighbour, Goe, and come againe, and to morrow I will giue, when thou hast it by thee."
+            },
+            {
+               "verse": 29,
+               "text": "Deuise not euil against thy neighbour, seeing hee dwelleth securely by thee."
+            },
+            {
+               "verse": 30,
+               "text": "¶ Striue not with a man without cause, if hee haue done thee no harme."
+            },
+            {
+               "verse": 31,
+               "text": "¶ Enuie thou not the oppressour, and choose none of his wayes."
+            },
+            {
+               "verse": 32,
+               "text": "For the froward is abomination to the Lord: but his secret is with the righteous."
+            },
+            {
+               "verse": 33,
+               "text": "¶ The curse of the Lord is in the house of the wicked: but he blesseth the habitation of the iust."
+            },
+            {
+               "verse": 34,
+               "text": "Surely he scorneth the scorners: but he giueth grace vnto the lowly."
+            },
+            {
+               "verse": 35,
+               "text": "The wise shall inherite glory, but shame shalbe the promotion of fooles."
+            }
+         ]
+      },
+      {
+         "chapter": 4,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Heare, ye children, the instruction of a father, and attend to know vnderstanding."
+            },
+            {
+               "verse": 2,
+               "text": "For I giue you good doctrine: forsake you not my law."
+            },
+            {
+               "verse": 3,
+               "text": "For I was my fathers sonne, tender and onely beloued in the sight of my mother."
+            },
+            {
+               "verse": 4,
+               "text": "He taught me also, and said vnto me, Let thine heart reteine my wordes: keepe my commandements, and liue."
+            },
+            {
+               "verse": 5,
+               "text": "Get wisedome, get vnderstanding: forget it not, neither decline from the wordes of my mouth."
+            },
+            {
+               "verse": 6,
+               "text": "Forsake her not, and she shall preserue thee: loue her, and she shall keepe thee."
+            },
+            {
+               "verse": 7,
+               "text": "Wisedome is the principall thing, therefore get wisedome: and with all thy getting, get vnderstanding."
+            },
+            {
+               "verse": 8,
+               "text": "Exalt her, and shee shall promote thee: shee shall bring thee to honour, when thou doest imbrace her."
+            },
+            {
+               "verse": 9,
+               "text": "She shall giue to thine head an ornament of grace, a crowne of glory shall she deliuer to thee."
+            },
+            {
+               "verse": 10,
+               "text": "Heare, O my sonne, and receiue my sayings: and the yeeres of thy life shalbe many."
+            },
+            {
+               "verse": 11,
+               "text": "I haue taught thee in the way of wisedome: I haue lead thee in right pathes."
+            },
+            {
+               "verse": 12,
+               "text": "When thou goest, thy steps shall not be straitned, and when thou runnest, thou shalt not stumble."
+            },
+            {
+               "verse": 13,
+               "text": "Take fast hold of instruction, let her not goe; keepe her, for she is thy life."
+            },
+            {
+               "verse": 14,
+               "text": "¶ Enter not into the path of the wicked, and goe not in the way of euill men."
+            },
+            {
+               "verse": 15,
+               "text": "Auoid it, passe not by it, turne from it, and passe away."
+            },
+            {
+               "verse": 16,
+               "text": "For they sleepe not except they haue done mischiefe: and their sleepe is taken away vnlesse they cause some to fall."
+            },
+            {
+               "verse": 17,
+               "text": "For they eate the bread of wickednesse, and drinke the wine of violence."
+            },
+            {
+               "verse": 18,
+               "text": "But the path of the iust is as the shining light that shineth more and more vnto the perfect day."
+            },
+            {
+               "verse": 19,
+               "text": "The way of the wicked is as darknes: they know not at what they stumble."
+            },
+            {
+               "verse": 20,
+               "text": "¶ My sonne, attend to my words, incline thine eare vnto my sayings."
+            },
+            {
+               "verse": 21,
+               "text": "Let them not depart from thine eyes: keepe them in the midst of thine heart."
+            },
+            {
+               "verse": 22,
+               "text": "For they are life vnto those that find them, and health to all their flesh."
+            },
+            {
+               "verse": 23,
+               "text": "¶ Keepe thy heart with all diligence: for out of it are the issues of life."
+            },
+            {
+               "verse": 24,
+               "text": "Put away from thee a froward mouth, and peruerse lips put farre from thee."
+            },
+            {
+               "verse": 25,
+               "text": "Let thine eyes looke right on, and let thine eye lids looke straight before thee."
+            },
+            {
+               "verse": 26,
+               "text": "Ponder the path of thy feet, and let all thy wayes be established."
+            },
+            {
+               "verse": 27,
+               "text": "Turne not to the right hande nor to the left: remoue thy foot fr&#333; euil."
+            }
+         ]
+      },
+      {
+         "chapter": 5,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "My sonne, attend vnto my wisedome, and bowe thine eare to my vnderstanding."
+            },
+            {
+               "verse": 2,
+               "text": "That thou mayest regard discretion, and that thy lips may keepe knowledge."
+            },
+            {
+               "verse": 3,
+               "text": "¶ For the lips of a strange woman drop as an hony combe, and her mouth is smoother then oyle."
+            },
+            {
+               "verse": 4,
+               "text": "But her end is bitter as wormewood, sharpe as a two edged sword."
+            },
+            {
+               "verse": 5,
+               "text": "Her feete goe downe to death: her steps take hold on hell."
+            },
+            {
+               "verse": 6,
+               "text": "Lest thou shouldest ponder the path of life, her wayes are moueable, that thou canst not know them."
+            },
+            {
+               "verse": 7,
+               "text": "Heare me now therefore, O yee children: & depart not from the words of my mouth."
+            },
+            {
+               "verse": 8,
+               "text": "Remoue thy way farre from her, and come not nie the doore of her house:"
+            },
+            {
+               "verse": 9,
+               "text": "Lest thou giue thine honour vnto others, and thy yeeres vnto the cruell:"
+            },
+            {
+               "verse": 10,
+               "text": "Lest strangers be filled with thy wealth, and thy labors be in the house of a stranger,"
+            },
+            {
+               "verse": 11,
+               "text": "And thou mourne at the last, when thy flesh and thy body are consumed,"
+            },
+            {
+               "verse": 12,
+               "text": "And say, How haue I hated instruction, and my heart despised reproofe?"
+            },
+            {
+               "verse": 13,
+               "text": "And haue not obeyed the voyce of my teachers, nor inclined mine eare to them that instructed me?"
+            },
+            {
+               "verse": 14,
+               "text": "I was almost in all euill, in the midst of the congregation & assembly."
+            },
+            {
+               "verse": 15,
+               "text": "¶ Drinke waters out of thine owne cisterne, and running waters out of thine owne well."
+            },
+            {
+               "verse": 16,
+               "text": "Let thy fountaines bee dispersed abroad, and riuers of waters in the streets."
+            },
+            {
+               "verse": 17,
+               "text": "Let them be onely thine owne, and not strangers with thee."
+            },
+            {
+               "verse": 18,
+               "text": "Let thy fountaine be blessed: and reioyce with the wife of thy youth."
+            },
+            {
+               "verse": 19,
+               "text": "Let her bee as the louing Hinde and pleasant Roe, let her breasts satisfie thee at all times, and be thou rauisht alwayes with her loue."
+            },
+            {
+               "verse": 20,
+               "text": "And why wilt thou, my sonne, be rauisht with a strange woman, and imbrace the bosome of a stranger?"
+            },
+            {
+               "verse": 21,
+               "text": "For the wayes of man are before the eyes of the Lord, and he pondereth all his goings."
+            },
+            {
+               "verse": 22,
+               "text": "¶ His owne iniquities shall take the wicked himselfe, and he shall be holden with the coards of his sinnes."
+            },
+            {
+               "verse": 23,
+               "text": "He shall die without instruction, and in the greatnesse of his folly he shal goe astray."
+            }
+         ]
+      },
+      {
+         "chapter": 6,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "My sonne, if thou bee surety for thy friend, it thou hast stricken thy hand with a stranger,"
+            },
+            {
+               "verse": 2,
+               "text": "Thou art snared with the words of thy mouth, thou art taken with the wordes of thy mouth."
+            },
+            {
+               "verse": 3,
+               "text": "Doe this now, my sonne, and deliuer thy selfe, when thou art come into the hand of thy friend: goe, humble thy selfe, and make sure thy friend."
+            },
+            {
+               "verse": 4,
+               "text": "Giue not sleepe to thine eyes, nor slumber to thine eyelids."
+            },
+            {
+               "verse": 5,
+               "text": "Deliuer thy selfe as a Roe from the hand of the hunter, and as a bird from the hand of the fowler."
+            },
+            {
+               "verse": 6,
+               "text": "¶ Goe to the Ant, thou sluggard, consider her wayes, and be wise."
+            },
+            {
+               "verse": 7,
+               "text": "Which hauing no guide, ouerseer, or ruler,"
+            },
+            {
+               "verse": 8,
+               "text": "Prouideth her meat in the Summer, and gathereth her food in the haruest."
+            },
+            {
+               "verse": 9,
+               "text": "How long wilt thou sleepe, O sluggard? when wilt thou arise out of thy sleepe?"
+            },
+            {
+               "verse": 10,
+               "text": "Yet a little sleepe, a little slumber, a little folding of the hands to sleepe."
+            },
+            {
+               "verse": 11,
+               "text": "So shall thy pouertie come as one that trauaileth, and thy want as an armed man."
+            },
+            {
+               "verse": 12,
+               "text": "¶ A naughtie person, a wicked man walketh with a froward mouth."
+            },
+            {
+               "verse": 13,
+               "text": "He winketh with his eyes, he speaketh with his feete, hee teacheth with his fingers."
+            },
+            {
+               "verse": 14,
+               "text": "Frowardnesse is in his heart, he deuiseth mischiefe continually, he soweth discord."
+            },
+            {
+               "verse": 15,
+               "text": "Therefore shall his calamitie come suddenly; suddenly shall hee be broken without remedie."
+            },
+            {
+               "verse": 16,
+               "text": "¶ These sixe things doeth the Lord hate; yea seuen are an abomination vnto him:"
+            },
+            {
+               "verse": 17,
+               "text": "A proude looke, a lying tongue, and hands that shed innocent blood:"
+            },
+            {
+               "verse": 18,
+               "text": "An heart that deuiseth wicked imaginations, feet that be swift in running to mischiefe:"
+            },
+            {
+               "verse": 19,
+               "text": "A false witnesse that speaketh lies; and him that soweth discord among brethren."
+            },
+            {
+               "verse": 20,
+               "text": "¶ My sonne, keepe thy fathers commandement, and forsake not the law of thy mother."
+            },
+            {
+               "verse": 21,
+               "text": "Binde them continually vpon thine heart, and tie them about thy necke."
+            },
+            {
+               "verse": 22,
+               "text": "When thou goest, it shall leade thee; when thou sleepest, it shall keepe thee; and when thou awakest, it shall talke with thee."
+            },
+            {
+               "verse": 23,
+               "text": "For the Commandement is a lampe, and the Lawe is light: and reproofes of instruction are the way of life:"
+            },
+            {
+               "verse": 24,
+               "text": "To keepe thee from the euill woman, from the flatterie of the tongue of a strange woman."
+            },
+            {
+               "verse": 25,
+               "text": "Lust not after her beautie in thine heart; neither let her take thee with her eyelids."
+            },
+            {
+               "verse": 26,
+               "text": "For by meanes of a whorish woman, a man is brought to a piece of bread: and the adulteresse will hunt for the precious life."
+            },
+            {
+               "verse": 27,
+               "text": "Can a man take fire in his bosome, and his clothes not be burnt?"
+            },
+            {
+               "verse": 28,
+               "text": "Can one goe vpon hote coales, and his feete not be burnt?"
+            },
+            {
+               "verse": 29,
+               "text": "So he that goeth in to his neighbours wife; whosoeuer toucheth her, shall not be innocent."
+            },
+            {
+               "verse": 30,
+               "text": "Men doe not despise a thiefe, if he steale to satisfie his soule, when hee is hungry:"
+            },
+            {
+               "verse": 31,
+               "text": "But if he be found, he shall restore seuenfold, he shall giue all the substance of his house."
+            },
+            {
+               "verse": 32,
+               "text": "But who so committeth adultery with a woman, lacketh vnderstanding: hee that doeth it, destroyeth his owne soule."
+            },
+            {
+               "verse": 33,
+               "text": "A wound and dishonour shall he get, and his reproch shall not be wiped away."
+            },
+            {
+               "verse": 34,
+               "text": "For iealousie is the rage of a man: therefore he will not spare in the day of vengeance."
+            },
+            {
+               "verse": 35,
+               "text": "He will not regard any ransome; neither will hee rest content, though thou giuest many giftes."
+            }
+         ]
+      },
+      {
+         "chapter": 7,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "My sonne, keepe my words, and lay vp my commaundements with thee."
+            },
+            {
+               "verse": 2,
+               "text": "Keepe my commandements, and liue: and my law as the apple of thine eye."
+            },
+            {
+               "verse": 3,
+               "text": "Bind them vpon thy fingers, write them vpon the table of thine heart."
+            },
+            {
+               "verse": 4,
+               "text": "Say vnto Wisedome, Thou art my sister, and call Understanding thy kinse woman,"
+            },
+            {
+               "verse": 5,
+               "text": "That they may keepe thee from the strange woman, from the stranger which flattereth with her words."
+            },
+            {
+               "verse": 6,
+               "text": "¶ For at the windowe of my house I looked through my casement,"
+            },
+            {
+               "verse": 7,
+               "text": "And behelde among the simple ones, I discerned among the youths, a yong man void of vnderstanding,"
+            },
+            {
+               "verse": 8,
+               "text": "Passing through the streete neere her corner, and he went the way to her house,"
+            },
+            {
+               "verse": 9,
+               "text": "In the twilight in the euening, in the blacke and darke night:"
+            },
+            {
+               "verse": 10,
+               "text": "And behold, there met him a woman, with the attire of an harlot, and subtill of heart."
+            },
+            {
+               "verse": 11,
+               "text": "(She is loud and stubburne, her feet abide not in her house:"
+            },
+            {
+               "verse": 12,
+               "text": "Now is shee without, now in the streetes, and lieth in waite at euery corner.)"
+            },
+            {
+               "verse": 13,
+               "text": "So she caught him, and kissed him, and with an impudent face, said vnto him,"
+            },
+            {
+               "verse": 14,
+               "text": "I haue peace offerings with me: this day haue I paid my vowes."
+            },
+            {
+               "verse": 15,
+               "text": "Therefore came I forth to meete thee, diligently to seeke thy face, and I haue found thee."
+            },
+            {
+               "verse": 16,
+               "text": "I haue deckt my bed with couerings of tapestrie, with carued workes, with fine linnen of Egypt."
+            },
+            {
+               "verse": 17,
+               "text": "I haue perfumed my bed with myrrhe, aloes, and cynamom."
+            },
+            {
+               "verse": 18,
+               "text": "Come, let vs take our fill of loue vntill the morning, let vs solace our selues with loues."
+            },
+            {
+               "verse": 19,
+               "text": "For the good-man is not at home, he is gone a long iourney."
+            },
+            {
+               "verse": 20,
+               "text": "He hath taken a bag of money with him, and will come home at the day appointed."
+            },
+            {
+               "verse": 21,
+               "text": "With much faire speech she caused him to yeeld, with the flattering of her lips she forced him."
+            },
+            {
+               "verse": 22,
+               "text": "He goeth after her straightway, as an oxe goeth to the slaughter, or as a foole to the correction of the stocks,"
+            },
+            {
+               "verse": 23,
+               "text": "Til a dart strike through his liuer, as a bird hasteth to the snare, and knoweth not that it is for his life."
+            },
+            {
+               "verse": 24,
+               "text": "¶ Hearken vnto me now therefore, O ye children, and attend to the words of my mouth."
+            },
+            {
+               "verse": 25,
+               "text": "Let not thine heart decline to her wayes, goe not astray in her paths."
+            },
+            {
+               "verse": 26,
+               "text": "For shee hath cast downe many wounded: yea many strong men haue bene slaine by her."
+            },
+            {
+               "verse": 27,
+               "text": "Her house is the way to hell, going downe to the chambers of death."
+            }
+         ]
+      },
+      {
+         "chapter": 8,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Doeth not Wisedome crie? & Understanding put foorth her voice?"
+            },
+            {
+               "verse": 2,
+               "text": "Shee standeth in the top of high places, by the way in the places of the pathes."
+            },
+            {
+               "verse": 3,
+               "text": "She cryeth at the gates, at the entrie of the citie, at the comming in at the doores."
+            },
+            {
+               "verse": 4,
+               "text": "Unto you, O men, I call, and my voice is to the sonnes of man."
+            },
+            {
+               "verse": 5,
+               "text": "O yee simple, vnderstand wisedome: and yee fooles, be yee of an vnderstanding heart."
+            },
+            {
+               "verse": 6,
+               "text": "Heare, for I will speake of excellent things: and the opening of my lippes shalbe right things."
+            },
+            {
+               "verse": 7,
+               "text": "For my mouth shall speake truth, and wickednesse is an abomination to my lippes."
+            },
+            {
+               "verse": 8,
+               "text": "All the words of my mouth are in righteousnes, there is nothing froward or peruerse in them."
+            },
+            {
+               "verse": 9,
+               "text": "They are all plaine to him that vnderstandeth: and right to them that find knowledge."
+            },
+            {
+               "verse": 10,
+               "text": "Receiue my instruction, and not siluer: and knowledge rather then choise gold."
+            },
+            {
+               "verse": 11,
+               "text": "For wisedome is better then rubies: and all the things that may be desired, are not to be compared to it."
+            },
+            {
+               "verse": 12,
+               "text": "I wisedome dwell with prudence, and find out knowledge of witty inuentions."
+            },
+            {
+               "verse": 13,
+               "text": "The feare of the Lord is to hate euill: pride and arrogancie, and the euill way, and the froward mouth doe I hate."
+            },
+            {
+               "verse": 14,
+               "text": "Counsell is mine, and sound wisedome: I am vnderstanding, I haue strength."
+            },
+            {
+               "verse": 15,
+               "text": "By me kings reigne, and princes decree iustice."
+            },
+            {
+               "verse": 16,
+               "text": "By me Princes rule, and Nobles, euen all the Iudges of the earth."
+            },
+            {
+               "verse": 17,
+               "text": "I loue them that loue me, and those that seeke me early, shall find me."
+            },
+            {
+               "verse": 18,
+               "text": "Riches and honour are with me, yea durable riches and righteousnesse."
+            },
+            {
+               "verse": 19,
+               "text": "My fruite is better then gold, yea then fine gold, and my reuenue then choise siluer."
+            },
+            {
+               "verse": 20,
+               "text": "I leade in the way of righteousnesse, in the midst of the pathes of iudgment."
+            },
+            {
+               "verse": 21,
+               "text": "That I may cause those that loue me, to inherite substance: and I will fill their treasures."
+            },
+            {
+               "verse": 22,
+               "text": "The Lord possessed me in the beginning of his way, before his works of old."
+            },
+            {
+               "verse": 23,
+               "text": "I was set vp from euerlasting, from the beginning, or euer the earth was."
+            },
+            {
+               "verse": 24,
+               "text": "When there were no depthes, I was brought forth: when there were no fountaines abounding with water."
+            },
+            {
+               "verse": 25,
+               "text": "Before the mountaines were setled: before the hilles, was I brought foorth:"
+            },
+            {
+               "verse": 26,
+               "text": "While as yet he had not made the earth, nor the fields, nor the highest part of the dust of the world."
+            },
+            {
+               "verse": 27,
+               "text": "When hee prepared the heauens, I was there: when he set a compasse vpon the face of the depth."
+            },
+            {
+               "verse": 28,
+               "text": "When he established the cloudes aboue: when he strengthned the fountaines of the deepe."
+            },
+            {
+               "verse": 29,
+               "text": "When he gaue to the sea his decree, that the waters should not passe his commandement: when he appointed the foundations of the earth:"
+            },
+            {
+               "verse": 30,
+               "text": "Then I was by him, as one brought vp with him: and I was daily his delight, reioycing alwayes before him:"
+            },
+            {
+               "verse": 31,
+               "text": "Reioycing in the habitable part of his earth, and my delights were with the sonnes of men."
+            },
+            {
+               "verse": 32,
+               "text": "Nowe therefore hearken vnto me, O yee children: for blessed are they that keepe my wayes."
+            },
+            {
+               "verse": 33,
+               "text": "Heare instruction, and bee wise, and refuse it not."
+            },
+            {
+               "verse": 34,
+               "text": "Blessed is the man that heareth me: watching daily at my gates, waiting at the postes of my doores."
+            },
+            {
+               "verse": 35,
+               "text": "For whoso findeth mee, findeth life, and shall obtaine fauour of the Lord."
+            },
+            {
+               "verse": 36,
+               "text": "But hee that sinneth against me, wrongeth his owne soule; all they that hate me, loue death."
+            }
+         ]
+      },
+      {
+         "chapter": 9,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Wisedome hath builded her house: she hath hewen out her seuen pillars."
+            },
+            {
+               "verse": 2,
+               "text": "She hath killed her beastes; she hath mingled her wine: she hath also furnished her table."
+            },
+            {
+               "verse": 3,
+               "text": "She hath sent forth her maidens; she cryeth vpon the highest places of the citie."
+            },
+            {
+               "verse": 4,
+               "text": "Who so is simple, let him turne in hither: as for him that wanteth vnderstanding, she sayth to him:"
+            },
+            {
+               "verse": 5,
+               "text": "Come, eate of my bread, and drinke of the wine, which I haue mingled."
+            },
+            {
+               "verse": 6,
+               "text": "Forsake the foolish, and liue; and goe in the way of vnderstanding."
+            },
+            {
+               "verse": 7,
+               "text": "He that reproueth a scorner, getteth to himselfe shame: and he that rebuketh a wicked man, getteth himselfe a blot."
+            },
+            {
+               "verse": 8,
+               "text": "Reproue not a scorner, lest hee hate thee: rebuke a wise man, and hee will loue thee."
+            },
+            {
+               "verse": 9,
+               "text": "Giue instruction to a wise man, and he will be yet wiser: teach a iust man, and he will increase in learning."
+            },
+            {
+               "verse": 10,
+               "text": "The feare of the Lord is the beginning of wisedome: and the knowledge of the holy is vnderstanding."
+            },
+            {
+               "verse": 11,
+               "text": "For by me thy dayes shall be multiplied: and the yeeres of thy life shalbe increased."
+            },
+            {
+               "verse": 12,
+               "text": "If thou be wise, thou shalt be wise for thy selfe: but if thou scornest, thou alone shalt beare it."
+            },
+            {
+               "verse": 13,
+               "text": "¶ A foolish woman is clamorous: she is simple, & knoweth nothing."
+            },
+            {
+               "verse": 14,
+               "text": "For she sitteth at the doore of her house on a seate, in the high places of the Citie:"
+            },
+            {
+               "verse": 15,
+               "text": "To call passengers who go right on their wayes:"
+            },
+            {
+               "verse": 16,
+               "text": "Who so is simple, let him turne in hither: and as for him that wanteth vnderstanding, she saith to him;"
+            },
+            {
+               "verse": 17,
+               "text": "Stollen waters are sweet, and bread eaten in secret is pleasant."
+            },
+            {
+               "verse": 18,
+               "text": "But hee knoweth not that the dead are there, and that her guests are in the depths of hell."
+            }
+         ]
+      },
+      {
+         "chapter": 10,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The Prouerbes of Solomon: A wise sonne maketh a glad father: but a foolish sonne is the heauinesse of his mother."
+            },
+            {
+               "verse": 2,
+               "text": "Treasures of wickednesse profit nothing: but righteousnes deliuereth from death."
+            },
+            {
+               "verse": 3,
+               "text": "The Lord will not suffer the soule of the righteous to famish: but he casteth away the substance of the wicked."
+            },
+            {
+               "verse": 4,
+               "text": "Hee becommeth poore that dealeth with a slacke hand: but the hand of the diligent, maketh rich."
+            },
+            {
+               "verse": 5,
+               "text": "Hee that gathereth in Summer, is a wise sonne: but hee that sleepeth in haruest, is a sonne that causeth shame."
+            },
+            {
+               "verse": 6,
+               "text": "Blessings are vpon the head of the iust: but violence couereth the mouth of the wicked."
+            },
+            {
+               "verse": 7,
+               "text": "The memorie of the iust is blessed: but the name of the wicked shall rot."
+            },
+            {
+               "verse": 8,
+               "text": "The wise in heart will receiue commaundements: but a prating foole shall fall."
+            },
+            {
+               "verse": 9,
+               "text": "He that walketh vprightly, walketh surely: but he that peruerteth his wayes, shalbe knowen."
+            },
+            {
+               "verse": 10,
+               "text": "Hee that winketh with the eye, causeth sorrow: but a prating foole shall fall."
+            },
+            {
+               "verse": 11,
+               "text": "The mouth of a righteous man is a well of life: but violence couereth the mouth of the wicked."
+            },
+            {
+               "verse": 12,
+               "text": "Hatred stirreth vp strifes: but loue couereth all sinnes."
+            },
+            {
+               "verse": 13,
+               "text": "In the lips of him that hath vnderstanding, wisedome is found: but a rod is for the backe of him that is voyd of vnderstanding."
+            },
+            {
+               "verse": 14,
+               "text": "Wise men lay vp knowledge: but the mouth of the foolish is neere destruction."
+            },
+            {
+               "verse": 15,
+               "text": "The rich mans wealth is his strong citie: the destruction of the poore is their pouertie."
+            },
+            {
+               "verse": 16,
+               "text": "The labour of the righteous tendeth to life: the fruite of the wicked to sinne."
+            },
+            {
+               "verse": 17,
+               "text": "He is in the way of life that keepeth instruction: but hee that refuseth reproofe, erreth."
+            },
+            {
+               "verse": 18,
+               "text": "Hee that hideth hatred with lying lippes, and he that vttereth a slander, is a foole."
+            },
+            {
+               "verse": 19,
+               "text": "In the multitude of words there wanteth not sinne: but he that refraineth his lippes, is wise."
+            },
+            {
+               "verse": 20,
+               "text": "The tongue of the iust is as choise siluer: the heart of the wicked is little worth."
+            },
+            {
+               "verse": 21,
+               "text": "The lippes of the righteous feed many: but fooles die for want of wisedome."
+            },
+            {
+               "verse": 22,
+               "text": "The blessing of the Lord, it maketh rich, and hee addeth no sorrow with it."
+            },
+            {
+               "verse": 23,
+               "text": "It is as a sport to a foole to doe mischiefe: but a man of vnderstanding hath wisedome."
+            },
+            {
+               "verse": 24,
+               "text": "The feare of the wicked, it shall come vpon him: but the desire of the righteous shalbe granted."
+            },
+            {
+               "verse": 25,
+               "text": "As the whirlewinde passeth, so is the wicked no more: but the righteous is an euerlasting foundation."
+            },
+            {
+               "verse": 26,
+               "text": "As vineger to the teeth, and as smoke to the eyes, so is the sluggard to them that send him."
+            },
+            {
+               "verse": 27,
+               "text": "The feare of the Lord prolongeth dayes: but the yeeres of the wicked shalbe shortened."
+            },
+            {
+               "verse": 28,
+               "text": "The hope of the righteous shall bee gladnesse: but the expectation of the wicked shall perish."
+            },
+            {
+               "verse": 29,
+               "text": "The way of the Lord is strength to the vpright: but destruction shall bee to the workers of iniquitie."
+            },
+            {
+               "verse": 30,
+               "text": "The righteous shall neuer bee remooued: but the wicked shall not inhabite the earth."
+            },
+            {
+               "verse": 31,
+               "text": "The mouth of the iust bringeth foorth wisedome: but the froward tongue shalbe cut out."
+            },
+            {
+               "verse": 32,
+               "text": "The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardnesse."
+            }
+         ]
+      },
+      {
+         "chapter": 11,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "A false ballance is abomination to the Lord: but a iust weight is his delight."
+            },
+            {
+               "verse": 2,
+               "text": "When pride commeth, then commeth shame: but with the lowly is wisedome."
+            },
+            {
+               "verse": 3,
+               "text": "The integritie of the vpright shall guide them: but the peruersenesse of transgressours shall destroy them."
+            },
+            {
+               "verse": 4,
+               "text": "Riches profite not in the day of wrath: but righteousnesse deliuereth from death."
+            },
+            {
+               "verse": 5,
+               "text": "The righteousnesse of the perfect shall direct his way: but the wicked shall fall by his owne wickednesse."
+            },
+            {
+               "verse": 6,
+               "text": "The righteousnesse of the vpright shall deliuer them: but transgressours shall be taken in their owne naughtinesse."
+            },
+            {
+               "verse": 7,
+               "text": "When a wicked man dieth, his expectation shall perish: and the hope of vniust men perisheth."
+            },
+            {
+               "verse": 8,
+               "text": "The righteous is deliuered out of trouble, and the wicked commeth in his stead."
+            },
+            {
+               "verse": 9,
+               "text": "An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the iust be deliuered."
+            },
+            {
+               "verse": 10,
+               "text": "When it goeth well with the righteous, the citie reioyceth: and when the wicked perish, there is shouting."
+            },
+            {
+               "verse": 11,
+               "text": "By the blessing of the vpright the citie is exalted; but it is ouerthrowen by the mouth of the wicked."
+            },
+            {
+               "verse": 12,
+               "text": "He that is void of wisedome, despiseth his neighbour: but a man of vnderstanding holdeth his peace."
+            },
+            {
+               "verse": 13,
+               "text": "A tale-bearer reuealeth secrets: but hee that is of a faithfull spirit, concealeth the matter."
+            },
+            {
+               "verse": 14,
+               "text": "Where no counsell is, the people fall: but in the multitude of counsellers there is safetie."
+            },
+            {
+               "verse": 15,
+               "text": "Hee that is suretie for a stranger, shall smart for it: and hee that hateth suretiship, is sure."
+            },
+            {
+               "verse": 16,
+               "text": "A gracious woman retaineth honour: and strong men retaine riches."
+            },
+            {
+               "verse": 17,
+               "text": "The mercifull man doeth good to his owne soule: but he that is cruell, troubleth his owne flesh."
+            },
+            {
+               "verse": 18,
+               "text": "The wicked worketh a deceitfull worke: but to him that soweth righteousnesse, shall be a sure reward."
+            },
+            {
+               "verse": 19,
+               "text": "As righteousnesse tendeth to life: so he that pursueth euill, pursueth it to his owne death."
+            },
+            {
+               "verse": 20,
+               "text": "They that are of a froward heart, are abomination to the Lord: but such as are vpright in their way, are his delight."
+            },
+            {
+               "verse": 21,
+               "text": "Though hand ioyne in hand, the wicked shall not be vnpunished: but the seede of the righteous shall be deliuered."
+            },
+            {
+               "verse": 22,
+               "text": "As a iewell of golde in a swines snowt; so is a faire woman which is without discretion."
+            },
+            {
+               "verse": 23,
+               "text": "The desire of the righteous is onely good: but the expectation of the wicked is wrath."
+            },
+            {
+               "verse": 24,
+               "text": "There is that scattereth, and yet increaseth; and there is that withholdeth more then is meete, but it tendeth to pouertie."
+            },
+            {
+               "verse": 25,
+               "text": "The liberall soule shalbe made fat: and he that watereth, shall be watered also himselfe."
+            },
+            {
+               "verse": 26,
+               "text": "Hee that withholdeth corne, the people shall curse him: but blessing shall be vpon the head of him that selleth it."
+            },
+            {
+               "verse": 27,
+               "text": "He that diligently seeketh good, procureth fauour: but hee that seeketh mischiefe, it shall come vnto him."
+            },
+            {
+               "verse": 28,
+               "text": "He that trusteth in his riches, shall fall: but the righteous shall flourish as a branch."
+            },
+            {
+               "verse": 29,
+               "text": "He that troubleth his owne house, shall inherite the winde: and the foole shall be seruant to the wise of heart."
+            },
+            {
+               "verse": 30,
+               "text": "The fruit of the righteous is a tree of life: and hee that winneth soules, is wise."
+            },
+            {
+               "verse": 31,
+               "text": "Behold, the righteous shalbe recompensed in the earth: much more the wicked and the sinner."
+            }
+         ]
+      },
+      {
+         "chapter": 12,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Whoso loueth instruction, loueth knowledge: but he that hateth reproofe, is brutish."
+            },
+            {
+               "verse": 2,
+               "text": "A good man obtaineth fauour of the Lord: but a man of wicked deuices will he condemne."
+            },
+            {
+               "verse": 3,
+               "text": "A man shall not bee established by wickednesse: but the roote of the righteous shall not be mooued."
+            },
+            {
+               "verse": 4,
+               "text": "A vertuous woman is a crowne to her husband: but she that maketh ashamed, is as rottennesse in his bones."
+            },
+            {
+               "verse": 5,
+               "text": "The thoughts of the righteous are right: but the counsels of the wicked are deceit."
+            },
+            {
+               "verse": 6,
+               "text": "The words of the wicked are to lie in waite for blood: but the mouth of the vpright shall deliuer them."
+            },
+            {
+               "verse": 7,
+               "text": "The wicked are ouerthrowen, and are not: but the house of the righteous shall stand."
+            },
+            {
+               "verse": 8,
+               "text": "A man shall be commended according to his wisedome: but hee that is of a peruerse heart, shall be despised."
+            },
+            {
+               "verse": 9,
+               "text": "Hee that is despised and hath a seruant, is better then he that honoureth himselfe, and lacketh bread."
+            },
+            {
+               "verse": 10,
+               "text": "A righteous man regardeth the life of his beast: but the tender mercies of the wicked are cruell."
+            },
+            {
+               "verse": 11,
+               "text": "Hee that tilleth his land, shall bee satisfied with bread: but he that followeth vaine persons, is void of vnderstanding."
+            },
+            {
+               "verse": 12,
+               "text": "The wicked desireth the net of euill men: but the roote of the righteous yeeldeth fruit."
+            },
+            {
+               "verse": 13,
+               "text": "The wicked is snared by the transgression of his lippes: but the iust shall come out of trouble."
+            },
+            {
+               "verse": 14,
+               "text": "A man shall bee satisfied with good by the fruit of his mouth, and the recompence of a mans hands shall bee rendred vnto him."
+            },
+            {
+               "verse": 15,
+               "text": "The way of a foole is right in his owne eyes: but he that hearkeneth vnto counsell, is wise."
+            },
+            {
+               "verse": 16,
+               "text": "A fooles wrath is presently knowen: but a prudent man couereth shame."
+            },
+            {
+               "verse": 17,
+               "text": "He that speaketh trueth, sheweth foorth righteousnesse: but a false witnesse, deceit."
+            },
+            {
+               "verse": 18,
+               "text": "There is that speaketh like the pearcings of a sword: but the tongue of the wise is health."
+            },
+            {
+               "verse": 19,
+               "text": "The lippe of trueth shall bee established for euer: but a lying tongue is but for a moment."
+            },
+            {
+               "verse": 20,
+               "text": "Deceit is in the heart of them that imagine euill: but to the counsellours of peace, is ioy."
+            },
+            {
+               "verse": 21,
+               "text": "There shall no euill happen to the iust: but the wicked shall bee filled with mischiefe."
+            },
+            {
+               "verse": 22,
+               "text": "Lying lippes are abomination to the Lord: but they that deale truely, are his delight."
+            },
+            {
+               "verse": 23,
+               "text": "A prudent man concealeth knowledge: but the heart of fooles proclaimeth foolishnesse."
+            },
+            {
+               "verse": 24,
+               "text": "The hand of the diligent shall beare rule: but the slouthfull shall bee vnder tribute."
+            },
+            {
+               "verse": 25,
+               "text": "Heauinesse in the heart of man maketh it stoope: but a good word maketh it glad."
+            },
+            {
+               "verse": 26,
+               "text": "The righteous is more excellent then his neighbour: but the way of the wicked seduceth them."
+            },
+            {
+               "verse": 27,
+               "text": "The slouthfull man rosteth not that which he tooke in hunting: but the substance of a diligent man is precious."
+            },
+            {
+               "verse": 28,
+               "text": "In the way of righteousnesse is life, and in the path-way thereof there is no death."
+            }
+         ]
+      },
+      {
+         "chapter": 13,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "A wise sonne heareth his fathers instruction: but a scorner heareth not rebuke."
+            },
+            {
+               "verse": 2,
+               "text": "A man shall eate good by the fruit of his mouth: but the soule of the transgressours, shall eate violence."
+            },
+            {
+               "verse": 3,
+               "text": "He that keepeth his mouth, keepeth his life: but hee that openeth wide his lips, shall haue destruction."
+            },
+            {
+               "verse": 4,
+               "text": "The soule of the sluggard desireth, and hath nothing: but the soule of the diligent shall be made fat."
+            },
+            {
+               "verse": 5,
+               "text": "A righteous man hateth lying: but a wicked man is loathsome, and commeth to shame."
+            },
+            {
+               "verse": 6,
+               "text": "Righteousnesse keepeth him that is vpright in the way: but wickednesse ouerthroweth the sinner."
+            },
+            {
+               "verse": 7,
+               "text": "There is that maketh himselfe rich, yet hath nothing: there is that maketh himselfe poore, yet hath great riches."
+            },
+            {
+               "verse": 8,
+               "text": "The ransome of a mans life are his riches: but the poore heareth not rebuke."
+            },
+            {
+               "verse": 9,
+               "text": "The light of the righteous reioyceth: but the lampe of the wicked shall be put out."
+            },
+            {
+               "verse": 10,
+               "text": "Onely by pride commeth contention: but with the well aduised is wisedome."
+            },
+            {
+               "verse": 11,
+               "text": "Wealth gotten by vanitie shall be diminished: but he that gathereth by labour, shall increase."
+            },
+            {
+               "verse": 12,
+               "text": "Hope deferred maketh the heart sicke: but when the desire commeth, it is a tree of life."
+            },
+            {
+               "verse": 13,
+               "text": "Whoso despiseth the word, shall be destroyed: but he that feareth the commaundement, shall be rewarded."
+            },
+            {
+               "verse": 14,
+               "text": "The lawe of the wise is a fountaine of life, to depart from the snares of death."
+            },
+            {
+               "verse": 15,
+               "text": "Good vnderstanding giueth fauour: but the way of transgressours is hard."
+            },
+            {
+               "verse": 16,
+               "text": "Euery prudent man dealeth with knowledge: but a foole layeth open his folly."
+            },
+            {
+               "verse": 17,
+               "text": "A wicked messenger falleth into mischiefe: but a faithfull ambassadour is health."
+            },
+            {
+               "verse": 18,
+               "text": "Pouerty and shame shall be to him that refuseth instruction: but he that regardeth reproofe, shall be honoured."
+            },
+            {
+               "verse": 19,
+               "text": "The desire accomplished is sweet to the soule: but it is abomination to fooles to depart from euill."
+            },
+            {
+               "verse": 20,
+               "text": "He that walketh with wise men, shall be wise: but a companion of fooles shall be destroyed."
+            },
+            {
+               "verse": 21,
+               "text": "Euill pursueth sinners: but to the righteous, good shall be repayd."
+            },
+            {
+               "verse": 22,
+               "text": "A good man leaueth an inheritance to his childrens children: and the wealth of the sinner is layd vp for the iust."
+            },
+            {
+               "verse": 23,
+               "text": "Much food is in the tillage of the poore: but there is that is destroyed for want of iudgement."
+            },
+            {
+               "verse": 24,
+               "text": "He that spareth his rod, hateth his sonne: but he that loueth him, chasteneth him betimes."
+            },
+            {
+               "verse": 25,
+               "text": "The righteous eateth to the satisfying of his soule: but the belly of the wicked shall want."
+            }
+         ]
+      },
+      {
+         "chapter": 14,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Euery wise woman buildeth her house; but the foolish plucketh it downe with her hands."
+            },
+            {
+               "verse": 2,
+               "text": "He that walketh in his vprightnesse, feareth the Lord: but he that is peruerse in his wayes, despiseth him."
+            },
+            {
+               "verse": 3,
+               "text": "In the mouth of the foolish is a rod of pride: but the lippes of the wise shall preserue them."
+            },
+            {
+               "verse": 4,
+               "text": "Where no Oxen are, the crib is cleane: but much increase is by the strength of the Oxe."
+            },
+            {
+               "verse": 5,
+               "text": "A faithfull witnesse will not lye: but a false witnesse will vtter lyes."
+            },
+            {
+               "verse": 6,
+               "text": "A scorner seeketh wisedome, and findeth it not: but knowledge is easie vnto him that vnderstandeth."
+            },
+            {
+               "verse": 7,
+               "text": "Goe from the presence of a foolish man, when thou perceiuest not in him the lippes of knowledge."
+            },
+            {
+               "verse": 8,
+               "text": "The wisedome of the prudent is to vnderstand his way: but the folly of fooles is deceit."
+            },
+            {
+               "verse": 9,
+               "text": "Fooles make a mocke at sinne: but among the righteous there is fauour."
+            },
+            {
+               "verse": 10,
+               "text": "The heart knoweth his owne bitternesse; and a stranger doth not intermeddle with his ioy."
+            },
+            {
+               "verse": 11,
+               "text": "The house of the wicked shall bee ouerthrowen: but the tabernacle of the vpright shall flourish."
+            },
+            {
+               "verse": 12,
+               "text": "There is a way which seemeth right vnto a man: but the end thereof are the wayes of death."
+            },
+            {
+               "verse": 13,
+               "text": "Euen in laughter the heart is sorrowfull; and the end of that mirth is heauinesse."
+            },
+            {
+               "verse": 14,
+               "text": "The backslider in heart shall be filled with his owne wayes: and a good man shall be satisfied from himselfe."
+            },
+            {
+               "verse": 15,
+               "text": "The simple beleeueth euery word: but the prudent man looketh well to his going."
+            },
+            {
+               "verse": 16,
+               "text": "A wise man feareth, and departeth from euill: but the foole rageth, and is confident."
+            },
+            {
+               "verse": 17,
+               "text": "Hee that is soone angry, dealeth foolishly: and a man of wicked deuices is hated."
+            },
+            {
+               "verse": 18,
+               "text": "The simple inherite folly: but the prudent are crowned with knowledge."
+            },
+            {
+               "verse": 19,
+               "text": "The euill bowe before the good: and the wicked at the gates of the righteous."
+            },
+            {
+               "verse": 20,
+               "text": "The poore is hated euen of his owne neighbour: but the rich hath many friends."
+            },
+            {
+               "verse": 21,
+               "text": "He that despiseth his neighbour, sinneth: but he that hath mercy on the poore, happy is he."
+            },
+            {
+               "verse": 22,
+               "text": "Doe they not erre that deuise euil? but mercy and trueth shall be to them that deuise good."
+            },
+            {
+               "verse": 23,
+               "text": "In all labour there is profit: but the talke of the lippes tendeth onely to penury."
+            },
+            {
+               "verse": 24,
+               "text": "The crowne of the wise is their riches: but the foolishnesse of fooles is folly."
+            },
+            {
+               "verse": 25,
+               "text": "A true witnesse deliuereth soules: but a deceitfull witnesse speaketh lyes."
+            },
+            {
+               "verse": 26,
+               "text": "In the feare of the Lord is strong confidence: and his children shall haue a place of refuge."
+            },
+            {
+               "verse": 27,
+               "text": "The feare of the Lord, is a fountaine of life, to depart from the snares of death."
+            },
+            {
+               "verse": 28,
+               "text": "In the multitude of people is the kings honour: but in the want of people is the destruction of the prince."
+            },
+            {
+               "verse": 29,
+               "text": "Hee that is slow to wrath, is of great vnderstanding: but hee that is hasty of spirit, exalteth folly."
+            },
+            {
+               "verse": 30,
+               "text": "A sound heart, is the life of the flesh: but enuie, the rottennesse of the bones."
+            },
+            {
+               "verse": 31,
+               "text": "Hee that oppresseth the poore, reprocheth his Maker: but hee that honoureth him, hath mercy on the poore."
+            },
+            {
+               "verse": 32,
+               "text": "The wicked is driuen away in his wickednes: but the righteous hath hope in his death."
+            },
+            {
+               "verse": 33,
+               "text": "Wisedome resteth in the heart of him that hath vnderstanding: but that which is in the midst of fooles, is made knowen."
+            },
+            {
+               "verse": 34,
+               "text": "Righteousnes exalteth a nation: but sinne is a reproch to any people."
+            },
+            {
+               "verse": 35,
+               "text": "The Kings fauour is toward a wise seruant: but his wrath, is against him that causeth shame."
+            }
+         ]
+      },
+      {
+         "chapter": 15,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "A soft answere turneth away wrath: but grieuous words stirre vp anger."
+            },
+            {
+               "verse": 2,
+               "text": "The tongue of the wise, vseth knowledge aright: but the mouth of fooles, powreth out foolishnes."
+            },
+            {
+               "verse": 3,
+               "text": "The eyes of the Lord are in euery place, beholding the euill & the good."
+            },
+            {
+               "verse": 4,
+               "text": "A wholesome tongue is a tree of life: but peruersnesse therein is a breach in the spirit."
+            },
+            {
+               "verse": 5,
+               "text": "A foole despiseth his fathers instruction: but hee that regardeth reproofe, is prudent."
+            },
+            {
+               "verse": 6,
+               "text": "In the house of the righteous is much treasure: but in the reuenues of the wicked is trouble."
+            },
+            {
+               "verse": 7,
+               "text": "The lippes of the wise disperse knowledge: but the heart of the foolish, doeth not so."
+            },
+            {
+               "verse": 8,
+               "text": "The sacrifice of the wicked is an abomination to the Lord: but the prayer of the vpright is his delight."
+            },
+            {
+               "verse": 9,
+               "text": "The way of the wicked is an abomination vnto the Lord: but he loueth him that followeth after righteousnes."
+            },
+            {
+               "verse": 10,
+               "text": "Correction is grieuous vnto him that forsaketh the way: and he that hateth reproofe, shall die."
+            },
+            {
+               "verse": 11,
+               "text": "Hell and destruction are before the Lord: how much more then, the hearts of the children of men?"
+            },
+            {
+               "verse": 12,
+               "text": "A scorner loueth not one that reproueth him: neither will he goe vnto the wise."
+            },
+            {
+               "verse": 13,
+               "text": "A merry heart maketh a cheerefull countenance: but by sorrow of the heart, the spirit is broken."
+            },
+            {
+               "verse": 14,
+               "text": "The heart of him that hath vnderstanding, seeketh knowledge: but the mouth of fooles feedeth on foolishnesse."
+            },
+            {
+               "verse": 15,
+               "text": "All the dayes of the afflicted are euill: but he that is of a merry heart, hath a continuall feast."
+            },
+            {
+               "verse": 16,
+               "text": "Better is little with the feare of the Lord, then great treasure, and trouble therewith."
+            },
+            {
+               "verse": 17,
+               "text": "Better is a dinner of herbes where loue is, then a stalled oxe, and hatred therewith."
+            },
+            {
+               "verse": 18,
+               "text": "A wrathfull man stirreth vp strife: but he that is slow to anger, appeaseth strife."
+            },
+            {
+               "verse": 19,
+               "text": "The way of the slouthfull man is as an hedge of thornes: but the way of the righteous is made plaine."
+            },
+            {
+               "verse": 20,
+               "text": "A wise sonne maketh a glad father: but a foolish man despiseth his mother."
+            },
+            {
+               "verse": 21,
+               "text": "Folly is ioy to him that is destitute of wisedome: but a man of vnderstanding walketh vprightly."
+            },
+            {
+               "verse": 22,
+               "text": "Without counsell, purposes are disappointed: but in the multitude of counsellours they are established."
+            },
+            {
+               "verse": 23,
+               "text": "A man hath ioy by the answere of his mouth: and a word spoken in due season, how good is it?"
+            },
+            {
+               "verse": 24,
+               "text": "The way of life is aboue to the wise, that he may depart from hell beneath."
+            },
+            {
+               "verse": 25,
+               "text": "The Lord will destroy the house of the proud: but he will establish the border of the widow."
+            },
+            {
+               "verse": 26,
+               "text": "The thoughts of the wicked are an abomination to the Lord: but the wordes of the pure, are pleasant words."
+            },
+            {
+               "verse": 27,
+               "text": "Hee that is greedy of gaine, troubleth his owne house: but he that hateth gifts, shall liue."
+            },
+            {
+               "verse": 28,
+               "text": "The heart of the righteous studieth to answere: but the mouth of the wicked, powreth out euil things."
+            },
+            {
+               "verse": 29,
+               "text": "The Lord is farre from the wicked: but hee heareth the prayer of the righteous."
+            },
+            {
+               "verse": 30,
+               "text": "The light of the eyes reioyceth the heart: and a good report maketh the bones fat."
+            },
+            {
+               "verse": 31,
+               "text": "The eare that heareth the reproofe of life, abideth among the wise."
+            },
+            {
+               "verse": 32,
+               "text": "He that refuseth instruction, despiseth his owne soule: but he that heareth reproofe, getteth vnderstanding."
+            },
+            {
+               "verse": 33,
+               "text": "The feare of the Lord is the instruction of wisedome; and before honour is humilitie."
+            }
+         ]
+      },
+      {
+         "chapter": 16,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The preparations of the heart in man, and the answere of the tongue, is from the Lord."
+            },
+            {
+               "verse": 2,
+               "text": "All the wayes of a man are cleane in his owne eyes: but the Lord weigheth the spirits."
+            },
+            {
+               "verse": 3,
+               "text": "Commit thy workes vnto the Lord, and thy thoughts shalbe established."
+            },
+            {
+               "verse": 4,
+               "text": "The Lord hath made all things for himselfe: yea, euen the wicked for the day of euill."
+            },
+            {
+               "verse": 5,
+               "text": "Euery one that is proud in heart, is an abomination to the Lord: though hand ioyne in hand, he shall not be vnpunished."
+            },
+            {
+               "verse": 6,
+               "text": "By mercy and trueth iniquitie is purged: and by the feare of the Lord, men depart from euill."
+            },
+            {
+               "verse": 7,
+               "text": "When a mans wayes please the Lord, he maketh euen his enemies to be at peace with him."
+            },
+            {
+               "verse": 8,
+               "text": "Better is a little with righteousnesse, then great reuenewes without right."
+            },
+            {
+               "verse": 9,
+               "text": "A mans heart deuiseth his way: but the Lord directeth his steps."
+            },
+            {
+               "verse": 10,
+               "text": "A diuine sentence is in the lips of the king: his mouth transgresseth not in iudgement."
+            },
+            {
+               "verse": 11,
+               "text": "A iust weight and ballance are the Lords: all the weights of the bagge are his worke."
+            },
+            {
+               "verse": 12,
+               "text": "It is an abomination to kings to commit wickednesse: for the throne is established by righteousnesse."
+            },
+            {
+               "verse": 13,
+               "text": "Righteous lips are the delight of kings: and they loue him that speaketh right."
+            },
+            {
+               "verse": 14,
+               "text": "The wrath of a king is as messengers of death: but a wise man will pacifie it."
+            },
+            {
+               "verse": 15,
+               "text": "In the light of the kings countenance is life, and his fauour is as a cloude of the latter raine."
+            },
+            {
+               "verse": 16,
+               "text": "How much better is it to get wisedome, then gold? and to get vnderstanding, rather to be chosen then siluer?"
+            },
+            {
+               "verse": 17,
+               "text": "The high way of the vpright is to depart from euill: hee that keepeth his way, preserueth his soule."
+            },
+            {
+               "verse": 18,
+               "text": "Pride goeth before destruction: and an hautie spirit before a fall."
+            },
+            {
+               "verse": 19,
+               "text": "Better it is to be of an humble spirit with the lowly, then to diuide the spoile with the proud."
+            },
+            {
+               "verse": 20,
+               "text": "He that handleth a matter wisely, shall finde good: and who so trusteth in the Lord, happy is hee."
+            },
+            {
+               "verse": 21,
+               "text": "The wise in heart shall be called prudent; and the sweetnesse of the lips increaseth learning."
+            },
+            {
+               "verse": 22,
+               "text": "Understanding is a well-spring of life vnto him that hath it: but the instruction of fooles is folly."
+            },
+            {
+               "verse": 23,
+               "text": "The heart of the wise teacheth his mouth, and addeth learning to his lippes."
+            },
+            {
+               "verse": 24,
+               "text": "Pleasant words are as an honycombe, sweete to the soule, and health to the bones."
+            },
+            {
+               "verse": 25,
+               "text": "There is a way that seemeth right vnto a man; but the end thereof are the wayes of death."
+            },
+            {
+               "verse": 26,
+               "text": "Hee that laboureth, laboureth for himselfe; for his mouth craueth it of him."
+            },
+            {
+               "verse": 27,
+               "text": "An vngodly man diggeth vp euill: and in his lips there is as a burning fire."
+            },
+            {
+               "verse": 28,
+               "text": "A froward man soweth strife; & a whisperer separateth chiefe friends."
+            },
+            {
+               "verse": 29,
+               "text": "A violent man enticeth his neighbour, and leadeth him into the way that is not good."
+            },
+            {
+               "verse": 30,
+               "text": "He shutteth his eyes to deuise froward things: moouing his lips he bringeth euill to passe."
+            },
+            {
+               "verse": 31,
+               "text": "The hoary head is a crowne of glory, if it be found in the way of righteousnesse."
+            },
+            {
+               "verse": 32,
+               "text": "He that is slow to anger, is better then the mighty: and he that ruleth his spirit, then he that taketh a citie."
+            },
+            {
+               "verse": 33,
+               "text": "The lot is cast into the lap: but the whole disposing thereof is of the Lord."
+            }
+         ]
+      },
+      {
+         "chapter": 17,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Better is a drie morsell, and quietnesse therewith; then an house full of sacrifices with strife."
+            },
+            {
+               "verse": 2,
+               "text": "A wise seruant shall haue rule ouer a son that causeth shame: and shall haue part of the inheritance among the brethren."
+            },
+            {
+               "verse": 3,
+               "text": "The fining pot is for siluer, and the furnace for gold: but the Lord trieth the hearts."
+            },
+            {
+               "verse": 4,
+               "text": "A wicked doer giueth heed to false lips: and a liar giueth eare to a naughtie tongue."
+            },
+            {
+               "verse": 5,
+               "text": "Whoso mocketh the poore, reproacheth his maker: and he that is glad at calamities, shall not be vnpunished."
+            },
+            {
+               "verse": 6,
+               "text": "Childrens children are the crowne of old men: and the glory of children are their fathers."
+            },
+            {
+               "verse": 7,
+               "text": "Excellent speech becommeth not a foole: much lesse doe lying lippes a prince."
+            },
+            {
+               "verse": 8,
+               "text": "A gift is as a precious stone in the eyes of him that hath it: whithersoeuer it turneth, it prospereth."
+            },
+            {
+               "verse": 9,
+               "text": "He that couereth a transgression, seeketh loue; but he that repeateth a matter, separateth very friends."
+            },
+            {
+               "verse": 10,
+               "text": "A reproofe entreth more into a wise man, then an hundred stripes into a foole."
+            },
+            {
+               "verse": 11,
+               "text": "An euill man seeketh onely rebellion; therefore a cruell messenger shall be sent against him."
+            },
+            {
+               "verse": 12,
+               "text": "Let a beare robbed of her whelps meet a man, rather then a foole in his folly."
+            },
+            {
+               "verse": 13,
+               "text": "Whoso rewardeth euill for good, euill shall not depart from his house."
+            },
+            {
+               "verse": 14,
+               "text": "The beginning of strife is as when one letteth out water: therfore leaue off contention, before it be medled with."
+            },
+            {
+               "verse": 15,
+               "text": "He that iustifieth the wicked, and he that condemneth the iust: euen they both are abomination to the Lord."
+            },
+            {
+               "verse": 16,
+               "text": "Wherfore is there a price in the hand of a foole to get wisedome, seeing he hath no heart to it?"
+            },
+            {
+               "verse": 17,
+               "text": "A friend loueth at all times, and a brother is borne for aduersitie."
+            },
+            {
+               "verse": 18,
+               "text": "A man void of vnderstanding striketh hands, and becommeth suretie in the presence of his friend."
+            },
+            {
+               "verse": 19,
+               "text": "He loueth transgression, that loueth strife: and he that exalteth his gate, seeketh destruction."
+            },
+            {
+               "verse": 20,
+               "text": "He that hath a froward heart, findeth no good, and he that hath a peruerse tongue, falleth into mischiefe."
+            },
+            {
+               "verse": 21,
+               "text": "He that begetteth a foole, doth it to his sorrow: and the father of a foole hath no ioy."
+            },
+            {
+               "verse": 22,
+               "text": "A merrie heart doth good like a medicine: but a broken spirit drieth the bones."
+            },
+            {
+               "verse": 23,
+               "text": "A wicked man taketh a gift out of the bosome, to peruert the wayes of iudgement."
+            },
+            {
+               "verse": 24,
+               "text": "Wisedome is before him that hath vnderstanding: but the eyes of a foole are in the ends of the earth."
+            },
+            {
+               "verse": 25,
+               "text": "A foolish sonne is a griefe to his father, & bitternes to her that bare him."
+            },
+            {
+               "verse": 26,
+               "text": "Also to punish the iust is not good, nor to strike princes for equitie."
+            },
+            {
+               "verse": 27,
+               "text": "He that hath knowledge, spareth his words: and a man of vnderstanding is of an excellent spirit."
+            },
+            {
+               "verse": 28,
+               "text": "Euen a foole, when he holdeth his peace, is counted wise: and he that shutteth his lips, is esteemed a man of vnderstanding."
+            }
+         ]
+      },
+      {
+         "chapter": 18,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Through desire a man hauing separated himselfe, seeketh and intermedleth with all wisedome."
+            },
+            {
+               "verse": 2,
+               "text": "A foole hath no delight in vnderstanding, but that his heart may discouer it selfe."
+            },
+            {
+               "verse": 3,
+               "text": "When the wicked commeth, then commeth also contempt, and with ignominie, reproch."
+            },
+            {
+               "verse": 4,
+               "text": "The words of a mans mouth, are as deepe waters, and the well-spring of wisedome as a flowing brooke."
+            },
+            {
+               "verse": 5,
+               "text": "It is not good to accept the person of the wicked, to ouerthrowe the righteous in iudgement."
+            },
+            {
+               "verse": 6,
+               "text": "A fooles lips enter into contention, and his mouth calleth for strokes."
+            },
+            {
+               "verse": 7,
+               "text": "A fooles mouth is his destruction, and his lips are the snare of his soule."
+            },
+            {
+               "verse": 8,
+               "text": "The words of a tale bearer are as wounds, and they goe downe into the innermost parts of the belly."
+            },
+            {
+               "verse": 9,
+               "text": "Hee also that is slouthful in his worke, is brother to him that is a great waster."
+            },
+            {
+               "verse": 10,
+               "text": "The name of the Lord is a a strong tower: the righteous runneth into it, and is safe."
+            },
+            {
+               "verse": 11,
+               "text": "The rich mans wealth is his strong citie: and as an high wall in his owne conceit."
+            },
+            {
+               "verse": 12,
+               "text": "Before destruction the heart of man is haughtie, and before honour is humilitie."
+            },
+            {
+               "verse": 13,
+               "text": "He that answereth a matter before he heareth it, it is folly and shame vnto him."
+            },
+            {
+               "verse": 14,
+               "text": "The spirit of a man will sustaine his infirmitie: but a wounded spirit who can beare?"
+            },
+            {
+               "verse": 15,
+               "text": "The heart of the prudent getteth knowledge; and the eare of the wise seeketh knowledge."
+            },
+            {
+               "verse": 16,
+               "text": "A mans gift maketh roome for him, & bringeth him before great men."
+            },
+            {
+               "verse": 17,
+               "text": "He that is first in his owne cause, seemeth iust; but his neighbour commeth and searcheth him."
+            },
+            {
+               "verse": 18,
+               "text": "The lot causeth contentions to cease, and parteth betweene the mighty."
+            },
+            {
+               "verse": 19,
+               "text": "A brother offended is harder to be wonne then a strong citie: and their contentions are like the barres of a castle."
+            },
+            {
+               "verse": 20,
+               "text": "A mans belly shall be satisfied with the fruite of his mouth; and with the increase of his lippes shall he be filled."
+            },
+            {
+               "verse": 21,
+               "text": "Death and life are in the power of the tongue; and they that loue it shall eate the fruite thereof."
+            },
+            {
+               "verse": 22,
+               "text": "Who so findeth a wife, findeth a good thing, and obtaineth fauour of the Lord."
+            },
+            {
+               "verse": 23,
+               "text": "The poore vseth intreaties, but the rich answereth roughly."
+            },
+            {
+               "verse": 24,
+               "text": "A man that hath friends must shewe himselfe friendly: and there is a friend that sticketh closer then a brother."
+            }
+         ]
+      },
+      {
+         "chapter": 19,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Better is the poore that walketh in his integrity, then he that is peruerse in his lippes, and is a foole."
+            },
+            {
+               "verse": 2,
+               "text": "Also, that the soule be without knowledge, it is not good, and hee that hasteth with his feete, sinneth."
+            },
+            {
+               "verse": 3,
+               "text": "The foolishnesse of man peruerteth his way: and his heart fretteth against the Lord."
+            },
+            {
+               "verse": 4,
+               "text": "Wealth maketh many friends: but the poore is separated from his neighbour."
+            },
+            {
+               "verse": 5,
+               "text": "A false witnesse shall not be vnpunished: and he that speaketh lyes, shal not escape."
+            },
+            {
+               "verse": 6,
+               "text": "Many will entreate the fauour of the Prince: and euery man is a friend to him that giueth gifts."
+            },
+            {
+               "verse": 7,
+               "text": "All the brethren of the poore doe hate him: howe much more doe his friends goe farre from him? Hee pursueth them with words, yet they are wanting to him."
+            },
+            {
+               "verse": 8,
+               "text": "He that getteth wisedome loueth his owne soule: he that keepeth vnderstanding shall find good."
+            },
+            {
+               "verse": 9,
+               "text": "A false witnesse shall not be vnpunished, and hee that speaketh lyes, shall perish."
+            },
+            {
+               "verse": 10,
+               "text": "Delight is not seemely for a foole: much lesse for a seruant to haue rule ouer princes."
+            },
+            {
+               "verse": 11,
+               "text": "The discretion of a man deferreth his anger: and it is his glory to passe ouer a transgression."
+            },
+            {
+               "verse": 12,
+               "text": "The kings wrath is as the roaring of a lyon: but his fauour is as dewe vpon the grasse."
+            },
+            {
+               "verse": 13,
+               "text": "A foolish sonne is the calamity of his father; and the contentions of a wife are a continuall dropping."
+            },
+            {
+               "verse": 14,
+               "text": "House and riches, are the inheritance of fathers; and a prudent wife is from the Lord."
+            },
+            {
+               "verse": 15,
+               "text": "Slouthfulnesse casteth into a deep sleepe: and an idle soule shall suffer hunger."
+            },
+            {
+               "verse": 16,
+               "text": "He that keepeth the commandement, keepeth his owne soule: but hee that despiseth his wayes, shall die."
+            },
+            {
+               "verse": 17,
+               "text": "Hee that hath pity vpon the poore, lendeth vnto the Lord; and that which he hath giuen, will he pay him againe."
+            },
+            {
+               "verse": 18,
+               "text": "Chasten thy sonne while there is hope; and let not thy soule spare for his crying."
+            },
+            {
+               "verse": 19,
+               "text": "A man of great wrath shall suffer punishment: for if thou deliuer him, yet thou must doe it againe."
+            },
+            {
+               "verse": 20,
+               "text": "Heare counsell, and receiue instruction, that thou mayest be wise in thy latter end."
+            },
+            {
+               "verse": 21,
+               "text": "There are many deuices in a mans heart: neuerthelesse the counsell of the Lord, that shall stand."
+            },
+            {
+               "verse": 22,
+               "text": "The desire of a man is his kindnesse: and a poore man is better then a lyar."
+            },
+            {
+               "verse": 23,
+               "text": "The feare of the Lord tendeth to life, and he that hath it shall abide satisfied: he shall not be visited with euill."
+            },
+            {
+               "verse": 24,
+               "text": "A slouthfull man hideth his hand in his bosome, and wil not so much as bring it to his mouth againe."
+            },
+            {
+               "verse": 25,
+               "text": "Smite a scorner, and the simple will beware; and reprooue one that hath vnderstanding, and he will vnderstand knowledge."
+            },
+            {
+               "verse": 26,
+               "text": "He that wasteth his father, and chaseth away his mother, is a sonne that causeth shame, and bringeth reproch."
+            },
+            {
+               "verse": 27,
+               "text": "Cease, my sonne, to heare the instruction, that causeth to erre from the words of knowledge."
+            },
+            {
+               "verse": 28,
+               "text": "An vngodly witnesse scorneth iudgement: and the mouth of the wicked deuoureth iniquitie."
+            },
+            {
+               "verse": 29,
+               "text": "Iudgements are prepared for scorners, and stripes for the backe of fooles."
+            }
+         ]
+      },
+      {
+         "chapter": 20,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Wine is a mocker, strong drinke is raging: and whosoeuer is deceiued thereby, is not wise."
+            },
+            {
+               "verse": 2,
+               "text": "The feare of a king, is as the roaring of a Lion: who so prouoketh him to anger, sinneth against his owne soule."
+            },
+            {
+               "verse": 3,
+               "text": "It is an honour for a man to cease from strife: but euery foole will be medling."
+            },
+            {
+               "verse": 4,
+               "text": "The sluggard will not plow by reason of the cold; therefore shall he begge in haruest, and haue nothing."
+            },
+            {
+               "verse": 5,
+               "text": "Counsell in the heart of man is like deepe water: but a man of vnderstanding will draw it out."
+            },
+            {
+               "verse": 6,
+               "text": "Most men will proclaime euery one his owne goodnes: but a faithfull man who can finde?"
+            },
+            {
+               "verse": 7,
+               "text": "The iust man walketh in his integritie: his children are blessed after him."
+            },
+            {
+               "verse": 8,
+               "text": "A king that sitteth in the throne of iudgement, scattereth away all euill with his eyes."
+            },
+            {
+               "verse": 9,
+               "text": "Who can say, I haue made my heart cleane, I am pure from my sinne?"
+            },
+            {
+               "verse": 10,
+               "text": "Diuers weights, and diuers measures, both of them are alike abomination to the Lord."
+            },
+            {
+               "verse": 11,
+               "text": "Euen a childe is knowen by his doings, whether his worke be pure, and whether it be right."
+            },
+            {
+               "verse": 12,
+               "text": "The hearing eare, and the seeing eye, the Lord hath made euen both of them."
+            },
+            {
+               "verse": 13,
+               "text": "Loue not sleepe, lest thou come to pouertie: open thine eyes, and thou shalt be satisfied with bread."
+            },
+            {
+               "verse": 14,
+               "text": "It is nought, it is nought (saith the buyer:) but when he is gone his way, then he boasteth."
+            },
+            {
+               "verse": 15,
+               "text": "There is gold, and a multitude of Rubies: but the lips of knowledge are a precious iewell."
+            },
+            {
+               "verse": 16,
+               "text": "Take his garment that is suerty for a stranger: and take a pledge of him for a strange woman."
+            },
+            {
+               "verse": 17,
+               "text": "Bread of deceit is sweet to a man: but afterwards his mouth shall be filled with grauell."
+            },
+            {
+               "verse": 18,
+               "text": "Euery purpose is established by counsell: and with good aduice make warre."
+            },
+            {
+               "verse": 19,
+               "text": "He that goeth about as a tale-bearer, reueileth secrets; therefore meddle not with him that flattereth with his lippes."
+            },
+            {
+               "verse": 20,
+               "text": "Who so curseth his father or his mother, his lampe shall be put out in obscure darkenesse."
+            },
+            {
+               "verse": 21,
+               "text": "An inheritance may be gotten hastily at the beginning: but the ende thereof shall not be blessed."
+            },
+            {
+               "verse": 22,
+               "text": "Say not thou, I will recompence euil: but wait on the Lord, and he shall saue thee."
+            },
+            {
+               "verse": 23,
+               "text": "Diuers waights are an abomination vnto the Lord: and a false ballance is not good."
+            },
+            {
+               "verse": 24,
+               "text": "Mans goings are of the Lord; how can a man then vnderstand his owne way?"
+            },
+            {
+               "verse": 25,
+               "text": "It is a snare to the man who deuoureth that which is holy: and after vowes, to make inquirie."
+            },
+            {
+               "verse": 26,
+               "text": "A wise king scattereth the wicked, & bringeth the wheele ouer them."
+            },
+            {
+               "verse": 27,
+               "text": "The spirit of man is the candle of the Lord, searching all the inward parts of the belly."
+            },
+            {
+               "verse": 28,
+               "text": "Mercy and trueth preserue the king: and his throne is vpholden by mercy."
+            },
+            {
+               "verse": 29,
+               "text": "The glory of yong men is their strength: and the beautie of old men is the gray head."
+            },
+            {
+               "verse": 30,
+               "text": "The blewnes of a wound cleanseth away euill: so doe stripes the inward parts of the belly."
+            }
+         ]
+      },
+      {
+         "chapter": 21,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The kings heart is in the hand of the Lord, as the riuers of water: hee turneth it whithersoeuer he will."
+            },
+            {
+               "verse": 2,
+               "text": "Euery way of a man is right in his owne eyes: but the Lord pondereth the hearts."
+            },
+            {
+               "verse": 3,
+               "text": "To doe iustice and iudgement, is more acceptable to the Lord, then sacrifice."
+            },
+            {
+               "verse": 4,
+               "text": "An high looke, and a proud heart, and the plowing of the wicked, is sinne."
+            },
+            {
+               "verse": 5,
+               "text": "The thoughts of the diligent tend onely to plenteousnes: but of euery one that is hastie, onely to want."
+            },
+            {
+               "verse": 6,
+               "text": "The getting of treasures by a lying tongue, is a vanitie tossed to and fro of them that seeke death."
+            },
+            {
+               "verse": 7,
+               "text": "The robbery of the wicked shall destroy them; because they refuse to doe iudgement."
+            },
+            {
+               "verse": 8,
+               "text": "The way of man is froward and strange: but as for the pure; his worke is right."
+            },
+            {
+               "verse": 9,
+               "text": "It is better to dwell in a corner of the house top; then with a brawling woman in a wide house."
+            },
+            {
+               "verse": 10,
+               "text": "The soule of the wicked desireth euill: his neighbour findeth no fauour in his eyes."
+            },
+            {
+               "verse": 11,
+               "text": "When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiueth knowledge."
+            },
+            {
+               "verse": 12,
+               "text": "The righteous man wisely considereth the house of the wicked: but God ouerthroweth the wicked for their wickednesse."
+            },
+            {
+               "verse": 13,
+               "text": "Whoso stoppeth his eares at the cry of the poore, hee also shall cry himselfe, but shall not be heard."
+            },
+            {
+               "verse": 14,
+               "text": "A gift in secret pacifieth anger; and a reward in the bosome, strong wrath."
+            },
+            {
+               "verse": 15,
+               "text": "It is ioy to the iust to doe iudgement: but destruction shalbe to the workers of iniquitie."
+            },
+            {
+               "verse": 16,
+               "text": "The man that wandreth out of the way of vnderstanding, shall remaine in the congregation of the dead."
+            },
+            {
+               "verse": 17,
+               "text": "He that loueth pleasure, shall be a poore man: hee that loueth wine and oyle, shall not be rich."
+            },
+            {
+               "verse": 18,
+               "text": "The wicked shalbe a ransome for the righteous; and the transgressour for the vpright."
+            },
+            {
+               "verse": 19,
+               "text": "It is better to dwell in the wildernesse, then with a contentious and an angry woman."
+            },
+            {
+               "verse": 20,
+               "text": "There is treasure to be desired, and oyle in the dwelling of the wise: but a foolish man spendeth it vp."
+            },
+            {
+               "verse": 21,
+               "text": "Hee that followeth after righteousnesse and mercy, findeth life, righteousnesse and honour."
+            },
+            {
+               "verse": 22,
+               "text": "A wise man scaleth the citie of the mightie, and casteth downe the strength of the confidence thereof."
+            },
+            {
+               "verse": 23,
+               "text": "Whoso keepeth his mouth and his tongue, keepeth his soule from troubles."
+            },
+            {
+               "verse": 24,
+               "text": "Proud and haughtie scorner, is his name, who dealeth in proud wrath."
+            },
+            {
+               "verse": 25,
+               "text": "The desire of the slouthfull killeth him: for his hands refuse to labour."
+            },
+            {
+               "verse": 26,
+               "text": "Hee coueteth greedily all the day long: but the righteous giueth and spareth not."
+            },
+            {
+               "verse": 27,
+               "text": "The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked minde?"
+            },
+            {
+               "verse": 28,
+               "text": "A false witnesse shall perish: but the man that heareth, speaketh constantly."
+            },
+            {
+               "verse": 29,
+               "text": "A wicked man hardeneth his face: but as for the vpright, he directeth his way."
+            },
+            {
+               "verse": 30,
+               "text": "There is no wisedome, nor vnderstanding, nor counsell against the Lord."
+            },
+            {
+               "verse": 31,
+               "text": "The horse is prepared against the day of battell: but safetie is of the Lord."
+            }
+         ]
+      },
+      {
+         "chapter": 22,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "A Good name is rather to be chosen then great riches, and louing fauour rather then siluer & golde."
+            },
+            {
+               "verse": 2,
+               "text": "The rich and poore meet together: the Lord is the maker of them all."
+            },
+            {
+               "verse": 3,
+               "text": "A prudent man foreseeth the euill, and hideth himselfe: but the simple passe on, and are punished."
+            },
+            {
+               "verse": 4,
+               "text": "By humilitie and the feare of the Lord, are riches, and honour, and life."
+            },
+            {
+               "verse": 5,
+               "text": "Thornes and snares are in the way of the froward: he that doeth keepe his soule, shalbe farre from them."
+            },
+            {
+               "verse": 6,
+               "text": "Traine vp a childe in the way he should goe: and when he is olde, hee will not depart from it."
+            },
+            {
+               "verse": 7,
+               "text": "The rich ruleth ouer the poore, and the borrower is seruant to the lender."
+            },
+            {
+               "verse": 8,
+               "text": "Hee that soweth iniquitie, shall reape vanitie: and the rodde of his anger shall faile."
+            },
+            {
+               "verse": 9,
+               "text": "Hee that hath a bountifull eye, shall bee blessed: for hee giueth of his bread to the poore."
+            },
+            {
+               "verse": 10,
+               "text": "Cast out the scorner, and contention shall goe out; yea strife, and reproch shall cease."
+            },
+            {
+               "verse": 11,
+               "text": "He that loueth purenesse of heart, for the grace of his lips the king shall be his friend."
+            },
+            {
+               "verse": 12,
+               "text": "The eyes of the Lord preserue knowledge, and he ouerthroweth the words of the transgressour."
+            },
+            {
+               "verse": 13,
+               "text": "The slothfull man sayth, There is a lyon without, I shall be slaine in the streetes."
+            },
+            {
+               "verse": 14,
+               "text": "The mouth of strange women is a deepe pit: he that is abhorred of the Lord shall fall therein."
+            },
+            {
+               "verse": 15,
+               "text": "Foolishnesse is bound in the heart of a child: but the rod of correction shal driue it farre from him."
+            },
+            {
+               "verse": 16,
+               "text": "Hee that oppresseth the poore to increase his riches, and he that giueth to the rich, shall surely come to want."
+            },
+            {
+               "verse": 17,
+               "text": "Bow downe thine eare, and heare the words of the wise, and apply thine heart vnto my knowledge."
+            },
+            {
+               "verse": 18,
+               "text": "For it is a pleasant thing, if thou keepe them within thee; they shall withall be fitted in thy lippes."
+            },
+            {
+               "verse": 19,
+               "text": "That thy trust may bee in the Lord, I haue made knowen to thee this day, euen to thee."
+            },
+            {
+               "verse": 20,
+               "text": "Haue not I written to thee excellent things in counsailes and knowledge:"
+            },
+            {
+               "verse": 21,
+               "text": "That I might make thee knowe the certainty of the words of truth; that thou mightest answere the words of trueth to them that send vnto thee?"
+            },
+            {
+               "verse": 22,
+               "text": "Rob not the poore because he is poore, neither oppresse the afflicted in the gate."
+            },
+            {
+               "verse": 23,
+               "text": "For the Lord will plead their cause, and spoile the soule of those that spoiled them."
+            },
+            {
+               "verse": 24,
+               "text": "Make no friendship with an angrie man: and with a furious man thou shalt not goe;"
+            },
+            {
+               "verse": 25,
+               "text": "Lest thou learne his wayes, and get a snare to thy soule."
+            },
+            {
+               "verse": 26,
+               "text": "Be not thou one of them that strike hands, or of them that are sureties for debts."
+            },
+            {
+               "verse": 27,
+               "text": "If thou hast nothing to pay, why should he take away thy bed from vnder thee?"
+            },
+            {
+               "verse": 28,
+               "text": "Remoue not the ancient land marke, which thy fathers haue set."
+            },
+            {
+               "verse": 29,
+               "text": "Seest thou a man diligent in his businesse? hee shall stand before kings, he shall not stand before meane men."
+            }
+         ]
+      },
+      {
+         "chapter": 23,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "When thou sittest to eate with a ruler, consider diligently what is before thee."
+            },
+            {
+               "verse": 2,
+               "text": "And put a knife to thy throate, if thou be a man giuen to appetite."
+            },
+            {
+               "verse": 3,
+               "text": "Be not desirous of his dainties: for they are deceitfull meate."
+            },
+            {
+               "verse": 4,
+               "text": "Labour not to bee rich: cease from thine owne wisedome."
+            },
+            {
+               "verse": 5,
+               "text": "Wilt thou set thine eyes vpon that which is not? for riches certainly make themselues wings, they fly away as an Eagle toward heauen."
+            },
+            {
+               "verse": 6,
+               "text": "Eate thou not the bread of him that hath an euill eye, neither desire thou his dainty meates."
+            },
+            {
+               "verse": 7,
+               "text": "For as he thinketh in his heart, so is he: Eate, and drinke, sayth he to thee, but his heart is not with thee."
+            },
+            {
+               "verse": 8,
+               "text": "The morsell which thou hast eaten, shalt thou vomite vp, and loose thy sweete words."
+            },
+            {
+               "verse": 9,
+               "text": "Speake not in the eares of a foole: for hee will despise the wisedome of thy words."
+            },
+            {
+               "verse": 10,
+               "text": "Remoue not the old landmarke; and enter not into the fields of the fatherlesse."
+            },
+            {
+               "verse": 11,
+               "text": "For their redeemer is mighty; he shall plead their cause with thee."
+            },
+            {
+               "verse": 12,
+               "text": "Apply thine heart vnto instruction, and thine eares to the words of knowledge."
+            },
+            {
+               "verse": 13,
+               "text": "Withhold not correction from the child: for if thou beatest him with the rod, he shall not die."
+            },
+            {
+               "verse": 14,
+               "text": "Thou shalt beate him with the rod, and shalt deliuer his soule from hell."
+            },
+            {
+               "verse": 15,
+               "text": "My sonne, if thine heart be wise, my heart shall reioyce, euen mine."
+            },
+            {
+               "verse": 16,
+               "text": "Yea my reines shall reioyce, when thy lippes speake right things."
+            },
+            {
+               "verse": 17,
+               "text": "Let not thine heart enuy sinners, but be thou in the feare of the Lord all the day long."
+            },
+            {
+               "verse": 18,
+               "text": "For surely there is an end, and thine expectation shall not be cut off."
+            },
+            {
+               "verse": 19,
+               "text": "Heare thou, my sonne, and be wise, and guide thine heart in the way."
+            },
+            {
+               "verse": 20,
+               "text": "Be not amongst wine-bibbers; amongst riotous eaters of flesh."
+            },
+            {
+               "verse": 21,
+               "text": "For the drunkard and the glutton shall come to pouerty; and drousinesse shall cloath a man with ragges."
+            },
+            {
+               "verse": 22,
+               "text": "Hearken vnto thy father that begate thee, and despise not thy mother when she is old."
+            },
+            {
+               "verse": 23,
+               "text": "Buy the trueth, and sell it not; also wisedome and instruction and vnderstanding."
+            },
+            {
+               "verse": 24,
+               "text": "The father of the righteous shall greatly reioyce: and he that begetteth a wise child, shall haue ioy of him."
+            },
+            {
+               "verse": 25,
+               "text": "Thy father and thy mother shall be glad, and she that bare thee shall reioyce."
+            },
+            {
+               "verse": 26,
+               "text": "My sonne, giue me thine heart, and let thine eyes obserue my wayes."
+            },
+            {
+               "verse": 27,
+               "text": "For an whore is a deepe ditch; and a strange woman is a narrow pit."
+            },
+            {
+               "verse": 28,
+               "text": "She also lyeth in wait as for a pray, and increaseth the transgressours among men."
+            },
+            {
+               "verse": 29,
+               "text": "Who hath woe? who hath sorrow? who hath contentions? who hath babbling? who hath wounds without cause? who hath rednesse of eyes?"
+            },
+            {
+               "verse": 30,
+               "text": "They that tarry long at the wine, they that goe to seeke mixt wine."
+            },
+            {
+               "verse": 31,
+               "text": "Looke not thou vpon the wine when it is red, when it giueth his colour in the cup, when it moueth it selfe aright."
+            },
+            {
+               "verse": 32,
+               "text": "At the last it biteth like a serpent, and stingeth like an adder."
+            },
+            {
+               "verse": 33,
+               "text": "Thine eyes shall behold strange women, and thine heart shall vtter peruerse things."
+            },
+            {
+               "verse": 34,
+               "text": "Yea thou shalt be as he that lyeth downe in the midst of the sea, or as he that lyeth vpon the top of a mast."
+            },
+            {
+               "verse": 35,
+               "text": "They haue striken me, shalt thou say, and I was not sicke: they haue beaten me, and I felt it not: when shall I awake? I will seeke it yet againe."
+            }
+         ]
+      },
+      {
+         "chapter": 24,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Be not thou enuious against euill men, neither desire to be with them."
+            },
+            {
+               "verse": 2,
+               "text": "For their heart studieth destruction, and their lippes talke of mischiefe."
+            },
+            {
+               "verse": 3,
+               "text": "Through wisedome is an house builded, and by vnderstanding it is established."
+            },
+            {
+               "verse": 4,
+               "text": "And by knowledge shall the chambers bee filled with all precious and pleasant riches."
+            },
+            {
+               "verse": 5,
+               "text": "A wise man is strong, yea a man of knowledge encreaseth strength."
+            },
+            {
+               "verse": 6,
+               "text": "For by wise counsell thou shalt make thy warre: and in multitude of counsellers there is safetie."
+            },
+            {
+               "verse": 7,
+               "text": "Wisedome is too high for a foole: he openeth not his mouth in the gate."
+            },
+            {
+               "verse": 8,
+               "text": "He that deuiseth to doe euill, shall be called a mischieuous person."
+            },
+            {
+               "verse": 9,
+               "text": "The thought of foolishnesse is sinne: and the scorner is an abomination to men."
+            },
+            {
+               "verse": 10,
+               "text": "If thou faint in the day of aduersitie, thy strength is small:"
+            },
+            {
+               "verse": 11,
+               "text": "If thou forbeare to deliuer them that are drawen vnto death, and those that are ready to be slaine:"
+            },
+            {
+               "verse": 12,
+               "text": "If thou sayest, Behold, we knew it not: doth not he that pondereth the heart, consider it? and he that keepeth thy soule, doth not he know it? and shall not hee render to euery man according to his workes?"
+            },
+            {
+               "verse": 13,
+               "text": "My sonne, eate thou honie, because it is good, and the honie combe, which is sweete to thy taste."
+            },
+            {
+               "verse": 14,
+               "text": "So shall the knowledge of wisedome be vnto thy soule: when thou hast found it, then there shall be a reward, and thy expectation shall not be cut off."
+            },
+            {
+               "verse": 15,
+               "text": "Lay not waite, (O wicked man) against the dwelling of the righteous: spoile not his resting place."
+            },
+            {
+               "verse": 16,
+               "text": "For a iust man falleth seuen times, and riseth vp againe: but the wicked shall fall into mischiefe."
+            },
+            {
+               "verse": 17,
+               "text": "Reioyce not when thine enemie falleth: and let not thine heart be glad when he stumbleth:"
+            },
+            {
+               "verse": 18,
+               "text": "Lest the Lord see it, and it displease him, and hee turne away his wrath from him."
+            },
+            {
+               "verse": 19,
+               "text": "Fret not thy selfe because of euill men; neither be thou enuious at the wicked."
+            },
+            {
+               "verse": 20,
+               "text": "For there shall be no reward to the euill man: the candle of the wicked shall be put out."
+            },
+            {
+               "verse": 21,
+               "text": "My sonne, feare thou the Lord, and the king: and medle not with them that are giuen to change."
+            },
+            {
+               "verse": 22,
+               "text": "For their calamity shall rise suddenly, and who knoweth the ruine of them both?"
+            },
+            {
+               "verse": 23,
+               "text": "These things also belong to the wise: It is not good to haue respect of persons in iudgement."
+            },
+            {
+               "verse": 24,
+               "text": "He that sayth vnto the wicked, Thou art righteous, him shall the people curse; nations shall abhorre him:"
+            },
+            {
+               "verse": 25,
+               "text": "But to them that rebuke him shall be delight, and a good blessing shall come vpon them."
+            },
+            {
+               "verse": 26,
+               "text": "Euery man shall kisse his lippes that giueth a right answere."
+            },
+            {
+               "verse": 27,
+               "text": "Prepare thy worke without, and make it fit for thy selfe in the field; and afterwards build thine house."
+            },
+            {
+               "verse": 28,
+               "text": "Be not a witnesse against thy neighbour without cause: and deceiue not with thy lippes."
+            },
+            {
+               "verse": 29,
+               "text": "Say not, I will doe so to him as he hath done to mee: I will render to the man according to his worke."
+            },
+            {
+               "verse": 30,
+               "text": "I went by the field of the slouthfull, and by the vineyard of the man voyd of vnderstanding:"
+            },
+            {
+               "verse": 31,
+               "text": "And loe, it was all growen ouer with thornes, and nettles had couered the face thereof, and the stone wall therof was broken downe:"
+            },
+            {
+               "verse": 32,
+               "text": "Then I saw, and considered it well, I looked vpon it, and receiued instruction."
+            },
+            {
+               "verse": 33,
+               "text": "Yet a little sleepe, a little slumber, a little folding of the handes to sleepe:"
+            },
+            {
+               "verse": 34,
+               "text": "So shall thy pouertie come, as one that traueileth, and thy want, as an armed man."
+            }
+         ]
+      },
+      {
+         "chapter": 25,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "These are also Prouerbes of Solomon, which the men of Hezekiah king of Iudah copied out."
+            },
+            {
+               "verse": 2,
+               "text": "It is the glory of God to conceale a thing: but the honour of Kings is to search out a matter."
+            },
+            {
+               "verse": 3,
+               "text": "The heauen for height, and the earth for depth, and the heart of Kings is vnsearchable."
+            },
+            {
+               "verse": 4,
+               "text": "Take away the drosse from the siluer, and there shall come foorth a vessell for the finer."
+            },
+            {
+               "verse": 5,
+               "text": "Take away the wicked from before the king, and his throne shalbe established in righteousnes."
+            },
+            {
+               "verse": 6,
+               "text": "Put not forth thy selfe in the presence of the king, and stand not in the place of great men."
+            },
+            {
+               "verse": 7,
+               "text": "For better it is that it be said vnto thee, Come vp hither; then that thou shouldest be put lower in the presence of the Prince whom thine eies haue seene."
+            },
+            {
+               "verse": 8,
+               "text": "Goe not forth hastily to striue, lest thou know not what to doe in the ende thereof, when thy neighbour hath put thee to shame."
+            },
+            {
+               "verse": 9,
+               "text": "Debate thy cause with thy neighbour himselfe; and discouer not a secret to another:"
+            },
+            {
+               "verse": 10,
+               "text": "Lest he that heareth it, put thee to shame, and thine infamie turne not away."
+            },
+            {
+               "verse": 11,
+               "text": "A word fitly spoken is like apples of gold in pictures of siluer."
+            },
+            {
+               "verse": 12,
+               "text": "As an eare-ring of gold, and an ornament of fine gold, so is a wise reprouer vpon an obedient eare."
+            },
+            {
+               "verse": 13,
+               "text": "As the cold of snow in the time of haruest, so is a faithfull messenger to them that send him: for hee refresheth the soule of his masters."
+            },
+            {
+               "verse": 14,
+               "text": "Who so boasteth himselfe of a false gift, is like cloudes and winde without raine."
+            },
+            {
+               "verse": 15,
+               "text": "By long forbearing is a Prince perswaded, and a soft tongue breaketh the bone."
+            },
+            {
+               "verse": 16,
+               "text": "Hast thou found hony? eate so much as is sufficient for thee: lest thou be filled therewith, and vomit it."
+            },
+            {
+               "verse": 17,
+               "text": "Withdraw thy foote from thy neighbours house: lest he be weary of thee, and so hate thee."
+            },
+            {
+               "verse": 18,
+               "text": "A man that beareth false witnes against his neighbour, is a maule, and a sword, and a sharpe arrow."
+            },
+            {
+               "verse": 19,
+               "text": "Confidence in an vnfaithfull man in time of trouble, is like a broken tooth, and a foot out of ioynt."
+            },
+            {
+               "verse": 20,
+               "text": "As hee that taketh away a garment in cold weather; and as vineger vpon nitre; so is he that singeth songs to an heauy heart."
+            },
+            {
+               "verse": 21,
+               "text": "If thine enemie be hungry, giue him bread to eate: and if hee be thirstie, giue him water to drinke."
+            },
+            {
+               "verse": 22,
+               "text": "For thou shalt heape coales of fire vpon his head, and the Lord shall reward thee."
+            },
+            {
+               "verse": 23,
+               "text": "The North winde driueth away raine: so doeth an angrie countenance a backbiting tongue."
+            },
+            {
+               "verse": 24,
+               "text": "It is better to dwell in a corner of the house top, then with a brawling woman, and in a wide house."
+            },
+            {
+               "verse": 25,
+               "text": "As cold waters to a thirstie soule: so is good newes from a farre countrey."
+            },
+            {
+               "verse": 26,
+               "text": "A righteous man falling downe before the wicked, is as a troubled fountaine, aud a corrupt spring."
+            },
+            {
+               "verse": 27,
+               "text": "It is not good to eat much hony: so for men to search their owne glory, is not glory."
+            },
+            {
+               "verse": 28,
+               "text": "Hee that hath no rule ouer his owne spirit, is like a citie that is broken downe, and without walles."
+            }
+         ]
+      },
+      {
+         "chapter": 26,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "As snow in summer, and as raine in haruest: so honour is not seemely for a foole."
+            },
+            {
+               "verse": 2,
+               "text": "As the bird by wandring, as the swallow by flying: so the curse causelesse shall not come."
+            },
+            {
+               "verse": 3,
+               "text": "A whip for the horse, a bridle for the asse; and a rod for the fooles backe."
+            },
+            {
+               "verse": 4,
+               "text": "Answere not a foole according to his folly, lest thou also be like vnto him."
+            },
+            {
+               "verse": 5,
+               "text": "Answere a foole according to his folly, lest hee be wise in his owne conceit."
+            },
+            {
+               "verse": 6,
+               "text": "He that sendeth a message by the hand of a foole, cutteth off the feete, and drinketh dammage."
+            },
+            {
+               "verse": 7,
+               "text": "The legges of the lame are not equall: so is a parable in the mouth of fooles."
+            },
+            {
+               "verse": 8,
+               "text": "As hee that bindeth a stone in a sling; so is hee that giueth honour to a foole."
+            },
+            {
+               "verse": 9,
+               "text": "As a thorne goeth vp into the hand of a drunkard; so is a parable in the mouth of fooles."
+            },
+            {
+               "verse": 10,
+               "text": "The great God that formed all things, both rewardeth the foole, and rewardeth transgressours."
+            },
+            {
+               "verse": 11,
+               "text": "As a dogge returneth to his vomite: so a foole returneth to his folly."
+            },
+            {
+               "verse": 12,
+               "text": "Seest thou a man wise in his owne conceit? there is more hope of a foole then of him."
+            },
+            {
+               "verse": 13,
+               "text": "The slothfull man sayth, There is a lion in the way, a lion is in the streets."
+            },
+            {
+               "verse": 14,
+               "text": "As the doore turneth vpon his hinges: so doeth the slothfull vpon his bedde."
+            },
+            {
+               "verse": 15,
+               "text": "The slothfull hideth his hand in his bosome, it grieueth him to bring it againe to his mouth."
+            },
+            {
+               "verse": 16,
+               "text": "The sluggard is wiser in his owne conceit, then seuen men that can render a reason."
+            },
+            {
+               "verse": 17,
+               "text": "He that passeth by, and medleth with strife belonging not to him, is like one that taketh a dog by the eares."
+            },
+            {
+               "verse": 18,
+               "text": "As a mad man, who casteth firebrands, arrowes, and death:"
+            },
+            {
+               "verse": 19,
+               "text": "So is the man that deceiueth his neighbour, & sayth, Am not I in sport?"
+            },
+            {
+               "verse": 20,
+               "text": "Where no wood is, there the fire goeth out: so where there is no tale-bearer, the strife ceaseth."
+            },
+            {
+               "verse": 21,
+               "text": "As coales are to burning coales, and wood to fire; so is a contentious man to kindle strife."
+            },
+            {
+               "verse": 22,
+               "text": "The words of a tale-bearer are as woundes, and they goe downe into the innermost parts of the belly."
+            },
+            {
+               "verse": 23,
+               "text": "Burning lips, and a wicked heart, are like a potsheard couered with siluer drosse."
+            },
+            {
+               "verse": 24,
+               "text": "Hee that hateth, dissembleth with his lips, and layeth vp deceit within him."
+            },
+            {
+               "verse": 25,
+               "text": "When he speaketh faire, beleeue him not: for there are seuen abominations in his heart."
+            },
+            {
+               "verse": 26,
+               "text": "Whose hatred is couered by deceit, his wickednesse shall be shewed before the whole congregation."
+            },
+            {
+               "verse": 27,
+               "text": "Whoso diggeth a pit, shall fall therein: and he that rolleth a stone, it will returne vpon him."
+            },
+            {
+               "verse": 28,
+               "text": "A lying tongue hateth those that are afflicted by it, and a flattering mouth worketh ruine."
+            }
+         ]
+      },
+      {
+         "chapter": 27,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Boast not thy selfe of to morrow: for thou knowest not what a day may bring foorth."
+            },
+            {
+               "verse": 2,
+               "text": "Let another man praise thee, and not thine owne mouth; a stranger, and not thine owne lips."
+            },
+            {
+               "verse": 3,
+               "text": "A stone is heauie, and the sand weightie: but a fooles wrath is heauier then them both."
+            },
+            {
+               "verse": 4,
+               "text": "Wrath is cruell, and anger is outragious: but who is able to stand before enuie?"
+            },
+            {
+               "verse": 5,
+               "text": "Open rebuke is better then secret loue."
+            },
+            {
+               "verse": 6,
+               "text": "Faithfull are the woundes of a friend: but the kisses of an enemy are deceitfull."
+            },
+            {
+               "verse": 7,
+               "text": "The full soule loatheth an honie combe: but to the hungry soule euery bitter thing is sweete."
+            },
+            {
+               "verse": 8,
+               "text": "As a bird that wandreth from her nest: so is a man that wandreth from his place."
+            },
+            {
+               "verse": 9,
+               "text": "Oyntment and perfume reioyce the heart: so doeth the sweetnesse of a mans friend by heartie counsell."
+            },
+            {
+               "verse": 10,
+               "text": "Thine owne friend and thy fathers friend forsake not; neither goe in to thy brothers house in the day of thy calamitie: for better is a neighbour that is neere, then a brother farre off."
+            },
+            {
+               "verse": 11,
+               "text": "My sonne, be wise, and make my heart glad, that I may answere him that reprocheth me."
+            },
+            {
+               "verse": 12,
+               "text": "A prudent man foreseeth the euil, and hideth himselfe: but the simple passe on, and are punished."
+            },
+            {
+               "verse": 13,
+               "text": "Take his garment that is surety for a stranger, and take a pledge of him for a strange woman."
+            },
+            {
+               "verse": 14,
+               "text": "He that blesseth his friend with a loud voice, rising earely in the morning, it shall be counted a curse to him."
+            },
+            {
+               "verse": 15,
+               "text": "A continuall dropping in a very rainie day, and a contentious woman, are alike."
+            },
+            {
+               "verse": 16,
+               "text": "Whosoeuer hideth her, hideth the wind, and the ointment of his right hand which be wrayeth it selfe."
+            },
+            {
+               "verse": 17,
+               "text": "Iron sharpeneth iron: so a man sharpeneth the countenance of his friend."
+            },
+            {
+               "verse": 18,
+               "text": "Whoso keepeth the figtree, shall eate the fruit therof: so he that waiteth on his master, shall be honoured."
+            },
+            {
+               "verse": 19,
+               "text": "As in water face answereth to face: so the heart of man to man."
+            },
+            {
+               "verse": 20,
+               "text": "Hell and destruction are neuer full: so the eyes of man are neuer satisfied."
+            },
+            {
+               "verse": 21,
+               "text": "As the fining pot for siluer, and the furnace for gold: so is a man to his praise."
+            },
+            {
+               "verse": 22,
+               "text": "Though thou shouldest bray a foole in a morter among wheate with a pestell, yet will not his foolishnesse depart from him."
+            },
+            {
+               "verse": 23,
+               "text": "Be thou diligent to knowe the state of thy flocks, and looke well to thy herds."
+            },
+            {
+               "verse": 24,
+               "text": "For riches are not for euer: and doth the crowne endure to euery generation?"
+            },
+            {
+               "verse": 25,
+               "text": "The hay appeareth, and the tender grasse sheweth it selfe, and herbes of the mountaines are gathered."
+            },
+            {
+               "verse": 26,
+               "text": "The lambes are for thy clothing, and the goates are the price of thy field."
+            },
+            {
+               "verse": 27,
+               "text": "And thou shalt haue goats milke enough for thy food, for the food of thy houshold, and for the maintenance for thy maidens."
+            }
+         ]
+      },
+      {
+         "chapter": 28,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The wicked flee when no man pursueth: but the righteous are bolde as a lyon."
+            },
+            {
+               "verse": 2,
+               "text": "For the transgression of a land, many are the princes thereof: but by a man of vnderstanding and knowledge the state thereof shall bee prolonged."
+            },
+            {
+               "verse": 3,
+               "text": "A poore man that oppresseth the poore, is like a sweeping raine which leaueth no food."
+            },
+            {
+               "verse": 4,
+               "text": "They that forsake the law, praise the wicked: but such as keepe the Law, contend with them."
+            },
+            {
+               "verse": 5,
+               "text": "Euill men vnderstand not iudgement: but they that seeke the Lord, vnderstand all things."
+            },
+            {
+               "verse": 6,
+               "text": "Better is the poore that walketh in his vprightnesse, then he that is peruerse in his wayes, though he be rich."
+            },
+            {
+               "verse": 7,
+               "text": "Whoso keepeth the law, is a wise sonne: but he that is a companion of riotous men, shameth his father."
+            },
+            {
+               "verse": 8,
+               "text": "He that by vsurie and vniust gaine increaseth his substance, he shall gather it for him that wil pity the poore."
+            },
+            {
+               "verse": 9,
+               "text": "He that turneth away his eare from hearing the law, euen his prayer shalbe abomination."
+            },
+            {
+               "verse": 10,
+               "text": "Who so causeth the righteous to goe astray in an euill way, he shall fall himselfe into his owne pit: but the vpright shall haue good things in possession."
+            },
+            {
+               "verse": 11,
+               "text": "The rich man is wise in his owne conceit: but the poore that hath vnderstanding searcheth him out."
+            },
+            {
+               "verse": 12,
+               "text": "When righteous men do reioyce, there is great glory: but when the wicked rise, a man is hidden."
+            },
+            {
+               "verse": 13,
+               "text": "He that couereth his sinnes, shall not prosper: but who so confesseth and forsaketh them, shall haue mercie."
+            },
+            {
+               "verse": 14,
+               "text": "Happy is the man that feareth always: but he that hardeneth his heart, shall fall into mischiefe."
+            },
+            {
+               "verse": 15,
+               "text": "As a roaring lyon and a ranging beare: so is a wicked ruler ouer the poore people."
+            },
+            {
+               "verse": 16,
+               "text": "The prince that wanteth vnderstanding, is also a great oppressour: but he that hateth couetousnesse, shall prolong his dayes."
+            },
+            {
+               "verse": 17,
+               "text": "A man that doth violence to the blood of any person, shall flie to the pit, let no man stay him."
+            },
+            {
+               "verse": 18,
+               "text": "Whoso walketh vprightly, shall be saued: but he that is peruerse in his wayes, shall fall at once."
+            },
+            {
+               "verse": 19,
+               "text": "He that tilleth his land, shal haue plentie of bread: but he that followeth after vaine persons, shall haue pouerty enough."
+            },
+            {
+               "verse": 20,
+               "text": "A faithfull man shall abound with blessings: but hee that maketh haste to be rich, shall not be innocent."
+            },
+            {
+               "verse": 21,
+               "text": "To haue respect of persons, is not good: for, for a piece of bread that man will transgresse."
+            },
+            {
+               "verse": 22,
+               "text": "He that hasteth to bee rich, hath an euill eye, and considereth not that pouerty shall come vpon him."
+            },
+            {
+               "verse": 23,
+               "text": "He that rebuketh a man, afterwards shall find more fauour, then he that flattereth with the tongue."
+            },
+            {
+               "verse": 24,
+               "text": "Who so robbeth his father or his mother, and saith, it is no transgression, the same is the companion of a destroyer."
+            },
+            {
+               "verse": 25,
+               "text": "He that is of a proud heart, stirreth vp strife: but he that putteth his trust in the Lord, shalbe made fat."
+            },
+            {
+               "verse": 26,
+               "text": "Hee that trusteth in his owne heart, is a foole: but who so walketh wisely, he shall be deliuered."
+            },
+            {
+               "verse": 27,
+               "text": "He that giueth vnto the poore, shall not lacke: but he that hideth his eyes, shall haue many a curse."
+            },
+            {
+               "verse": 28,
+               "text": "When the wicked rise, men hide themselues: but when they perish, the righteous increase."
+            }
+         ]
+      },
+      {
+         "chapter": 29,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "He that being often reproued, hardeneth his necke, shal suddenly be destroied, and that without remedy."
+            },
+            {
+               "verse": 2,
+               "text": "When the righteous are in authoritie, the people reioyce: but when the wicked beareth rule, the people mourne."
+            },
+            {
+               "verse": 3,
+               "text": "Whoso loueth wisedome, reioyceth his father: but hee that keepeth company with harlots, spendeth his substance."
+            },
+            {
+               "verse": 4,
+               "text": "The king by iudgement stablisheth the land: but he that receiueth gifts, ouerthroweth it."
+            },
+            {
+               "verse": 5,
+               "text": "A man that flattereth his neighbour, spreadeth a net for his feet."
+            },
+            {
+               "verse": 6,
+               "text": "In the transgression of an euill man there is a snare: but the righteous doth sing and reioyce."
+            },
+            {
+               "verse": 7,
+               "text": "The righteous considereth the cause of the poore: but the wicked regardeth not to know it."
+            },
+            {
+               "verse": 8,
+               "text": "Scornefull men bring a citie into a snare: but wise men turne away wrath."
+            },
+            {
+               "verse": 9,
+               "text": "If a wise man contendeth with a foolish man, whether hee rage or laugh, there is no rest."
+            },
+            {
+               "verse": 10,
+               "text": "The bloodthirstie hate the vpright: but the iust seeke his soule."
+            },
+            {
+               "verse": 11,
+               "text": "A foole vttereth all his mind: but a wise man keepeth it in till afterwards."
+            },
+            {
+               "verse": 12,
+               "text": "If a ruler hearken to lies, all his seruants are wicked."
+            },
+            {
+               "verse": 13,
+               "text": "The poore and the deceitful man meet together: the Lord lightneth both their eyes."
+            },
+            {
+               "verse": 14,
+               "text": "The King that faithfully iudgeth the poore, his throne shall be established for euer."
+            },
+            {
+               "verse": 15,
+               "text": "The rod and reproofe giue wisedome: but a child left to himselfe bringeth his mother to shame."
+            },
+            {
+               "verse": 16,
+               "text": "When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall."
+            },
+            {
+               "verse": 17,
+               "text": "Correct thy sonne, and hee shall giue thee rest: yea he shall giue delight vnto thy soule."
+            },
+            {
+               "verse": 18,
+               "text": "Where there is no vision, the people perish: but he that keepeth the Law, happy is he."
+            },
+            {
+               "verse": 19,
+               "text": "A seruant will not be corrected by words: for though hee vnderstand, hee will not answere."
+            },
+            {
+               "verse": 20,
+               "text": "Seest thou a man that is hasty in his words? there is more hope of a foole then of him."
+            },
+            {
+               "verse": 21,
+               "text": "He that delicately bringeth vp his seruant from a child, shall haue him become his sonne at the length."
+            },
+            {
+               "verse": 22,
+               "text": "An angry man stirreth vp strife, and a furious man aboundeth in transgression."
+            },
+            {
+               "verse": 23,
+               "text": "A mans pride shall bring him lowe: but honour shall vpholde the humble in spirit."
+            },
+            {
+               "verse": 24,
+               "text": "Who so is partner with a thiefe, hateth his owne soule: hee heareth cursing, and bewrayeth it not."
+            },
+            {
+               "verse": 25,
+               "text": "The feare of man bringeth a snare: but who so putteth his trust in the Lord, shall be safe."
+            },
+            {
+               "verse": 26,
+               "text": "Many seeke the rulers fauour, but euery mans iudgement commeth from the Lord."
+            },
+            {
+               "verse": 27,
+               "text": "An vniust man is an abomination to the iust: and he that is vpright in the way, is abomination to the wicked."
+            }
+         ]
+      },
+      {
+         "chapter": 30,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The words of Agur the sonne of Iakeh, euen the prophecy: The man spake vnto Ithiel, euen vnto Ithiel and Ucal."
+            },
+            {
+               "verse": 2,
+               "text": "Surely I am more brutish then any man, and haue not the vnderstanding of a man."
+            },
+            {
+               "verse": 3,
+               "text": "I neither learned wisedome, nor haue the knowledge of the holy."
+            },
+            {
+               "verse": 4,
+               "text": "Who hath ascended vp into heauen, or descended? who hath gathered the wind in his fists? who hath bound the waters in a garment? who hath established all the ends of the earth? what is his name, and what is his sonnes name, if thou canst tell?"
+            },
+            {
+               "verse": 5,
+               "text": "Euery word of God is pure: he is a shield vnto them that put their trust in him."
+            },
+            {
+               "verse": 6,
+               "text": "Adde thou not vnto his words, lest he reproue thee, and thou be found a lyar."
+            },
+            {
+               "verse": 7,
+               "text": "Two things haue I required of thee, deny me them not before I die."
+            },
+            {
+               "verse": 8,
+               "text": "Remoue farre from mee vanity, and lyes; giue me neither pouerty, nor riches, feede me with food conuenient for me."
+            },
+            {
+               "verse": 9,
+               "text": "Lest I be full, and deny thee, and say, Who is the Lord? or lest I be poore, and steale, and take the name of my God in vaine."
+            },
+            {
+               "verse": 10,
+               "text": "Accuse not a seruant vnto his master; lest he curse thee, and thou be found guilty."
+            },
+            {
+               "verse": 11,
+               "text": "There is a generation that curseth their father, and doth not blesse their mother."
+            },
+            {
+               "verse": 12,
+               "text": "There is a generation that are pure in their owne eyes, and yet is not washed from their filthinesse."
+            },
+            {
+               "verse": 13,
+               "text": "There is a generation, O howe lofty are their eyes! and their eye-lids are lifted vp."
+            },
+            {
+               "verse": 14,
+               "text": "There is a generation, whose teeth are as swords, and their iaw-teeth as kniues, to deuoure the poore from off the earth, and the needy from among men."
+            },
+            {
+               "verse": 15,
+               "text": "The horse-leach hath two daughters, crying, Giue, giue. There are three things that are neuer satisfied, yea foure things say not, It is enough:"
+            },
+            {
+               "verse": 16,
+               "text": "The graue; and the barren wombe; the earth that is not filled with water; and the fire that saith not, It is enough."
+            },
+            {
+               "verse": 17,
+               "text": "The eye that mocketh at his father, and despiseth to obey his mother; the rauens of the valley shall picke it out, and the young Eagles shall eate it."
+            },
+            {
+               "verse": 18,
+               "text": "There be three things which are too wonderfull for me; yea foure, which I know not:"
+            },
+            {
+               "verse": 19,
+               "text": "The way of an Eagle in the ayre; the way of a serpent vpon a rocke; the the way of a ship in the midst of the sea; and the way of a man with a maid."
+            },
+            {
+               "verse": 20,
+               "text": "Such is the way of an adulterous woman: she eateth, and wipeth her mouth, and saith, I haue done no wickednesse."
+            },
+            {
+               "verse": 21,
+               "text": "For three things the earth is disquieted, and for foure which it cannot beare:"
+            },
+            {
+               "verse": 22,
+               "text": "For a seruant when he reigneth, and a foole when hee is filled with meate:"
+            },
+            {
+               "verse": 23,
+               "text": "For an odious woman when shee is married, and an handmayd that is heire to her mistresse."
+            },
+            {
+               "verse": 24,
+               "text": "There be foure things which are little vpon the earth; but they are exceeding wise:"
+            },
+            {
+               "verse": 25,
+               "text": "The Ants are a people not strong, yet they prepare their meate in the summer."
+            },
+            {
+               "verse": 26,
+               "text": "The conies are but a feeble folke, yet make they their houses in the rocks"
+            },
+            {
+               "verse": 27,
+               "text": "The locustes haue no king, yet goe they forth all of them by bands."
+            },
+            {
+               "verse": 28,
+               "text": "The spider taketh hold with her hands, and is in kings palaces."
+            },
+            {
+               "verse": 29,
+               "text": "There be three things which goe well, yea foure are comely in going:"
+            },
+            {
+               "verse": 30,
+               "text": "A lyon which is strongest among beastes, and turneth not away for any:"
+            },
+            {
+               "verse": 31,
+               "text": "A gray-hound; an hee-goate also; and a king, against whom there is no rising vp."
+            },
+            {
+               "verse": 32,
+               "text": "If thou hast done foolishly in lifting vp thy selfe, or if thou hast thought euill, lay thine hand vpon thy mouth."
+            },
+            {
+               "verse": 33,
+               "text": "Surely the churning of milke bringeth forth butter; and the wringing of the nose bringeth forth blood: so the forcing of wrath bringeth forth strife."
+            }
+         ]
+      },
+      {
+         "chapter": 31,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The wordes of King Lemuel, the prophecie that his mother taught him."
+            },
+            {
+               "verse": 2,
+               "text": "What, my sonne! and what, the sonne of my wombe! and what, the sonne of my vowes!"
+            },
+            {
+               "verse": 3,
+               "text": "Giue not thy strength vnto women, nor thy wayes to that which destroyeth kings."
+            },
+            {
+               "verse": 4,
+               "text": "It is not for kings, O Lemuel, it is not for kings to drinke wine, nor for Princes, strong drinke:"
+            },
+            {
+               "verse": 5,
+               "text": "Lest they drinke, and forget the Law, and peruert the iudgement of any of the afflicted."
+            },
+            {
+               "verse": 6,
+               "text": "Giue strong drinke vnto him that is ready to perish, and wine vnto those that be of heauie hearts."
+            },
+            {
+               "verse": 7,
+               "text": "Let him drinke, and forget his pouertie, and remember his misery no more."
+            },
+            {
+               "verse": 8,
+               "text": "Open thy mouth for the dumbe in the cause of all such as are appointed to destruction."
+            },
+            {
+               "verse": 9,
+               "text": "Open thy mouth, iudge righteously, and plead the cause of the poore and needy."
+            },
+            {
+               "verse": 10,
+               "text": "¶ Who can finde a vertuous woman? for her price is farre aboue Rubies."
+            },
+            {
+               "verse": 11,
+               "text": "The heart of her husband doeth safely trust in her, so that he shall haue no need of spoile."
+            },
+            {
+               "verse": 12,
+               "text": "She will doe him good, and not euill, all the dayes of her life."
+            },
+            {
+               "verse": 13,
+               "text": "She seeketh wooll and flaxe, and worketh willingly with her hands."
+            },
+            {
+               "verse": 14,
+               "text": "She is like the merchants ships, she bringeth her food from afarre."
+            },
+            {
+               "verse": 15,
+               "text": "Shee riseth also while it is yet night, and giueth meate to her household, and a portion to her maydens."
+            },
+            {
+               "verse": 16,
+               "text": "She considereth a field, and buyeth it: with the fruit of her handes she planteth a Uineyard."
+            },
+            {
+               "verse": 17,
+               "text": "She girdeth her loynes with strength, and strengtheneth her armes."
+            },
+            {
+               "verse": 18,
+               "text": "She perceiueth that her merchandise is good; her candle goeth not out by night."
+            },
+            {
+               "verse": 19,
+               "text": "She layeth her handes to the spindle, and her handes hold the distaffe."
+            },
+            {
+               "verse": 20,
+               "text": "She stretcheth out her hand to the poore, yea she reacheth foorth her handes to the needy."
+            },
+            {
+               "verse": 21,
+               "text": "She is not afraid of the snow for her houshold: for all her houshold are cloathed with scarlet."
+            },
+            {
+               "verse": 22,
+               "text": "She maketh herselfe couerings of tapestrie; her cloathing is silke and purple."
+            },
+            {
+               "verse": 23,
+               "text": "Her husband is knowen in the gates, when he sitteth among the Elders of the land."
+            },
+            {
+               "verse": 24,
+               "text": "She maketh fine linnen, and selleth it, and deliuereth girdles vnto the merchant."
+            },
+            {
+               "verse": 25,
+               "text": "Strength and honour are her cloathing; and she shall reioyce in time to come."
+            },
+            {
+               "verse": 26,
+               "text": "She openeth her mouth with wisedome; and in her tongue is the law of kindnesse."
+            },
+            {
+               "verse": 27,
+               "text": "She looketh well to the wayes of her housholde, and eateth not the bread of idlenesse."
+            },
+            {
+               "verse": 28,
+               "text": "Her children arise vp, and call her blessed; her husband also, and he praiseth her."
+            },
+            {
+               "verse": 29,
+               "text": "Many daughters haue done vertuously, but thou excellest them all."
+            },
+            {
+               "verse": 30,
+               "text": "Fauour is deceitfull, and beautie is vaine: but a woman that feareth the Lord, she shalbe praised."
+            },
+            {
+               "verse": 31,
+               "text": "Giue her of the fruit of her hands, and let her owne workes praise her in the gates."
+            }
+         ]
+      }
+   ]
+}

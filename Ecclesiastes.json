@@ -1,0 +1,954 @@
+{
+   "book": "Ecclesiastes",
+   "chapter-count": "12",
+   "chapters": [
+      {
+         "chapter": 1,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "The wordes of the Preacher, the son of Dauid, King in Ierusalem."
+            },
+            {
+               "verse": 2,
+               "text": "Uanitie of vanities, saith the Preacher, vanitie of vanities, all is vanitie."
+            },
+            {
+               "verse": 3,
+               "text": "What profite hath a man of all his labour which hee taketh vnder the Sunne?"
+            },
+            {
+               "verse": 4,
+               "text": "One generation passeth away, and another generation commeth: but the earth abideth for euer."
+            },
+            {
+               "verse": 5,
+               "text": "The Sunne also ariseth, and the Sunne goeth downe, and hasteth to the place where he arose."
+            },
+            {
+               "verse": 6,
+               "text": "The winde goeth toward the South, and turneth about vnto the North; it whirleth about continually, and the winde returneth againe according to his circuits."
+            },
+            {
+               "verse": 7,
+               "text": "All the riuers runne into the sea, yet the Sea is not full: vnto the place from whence the riuers come, thither they returne againe."
+            },
+            {
+               "verse": 8,
+               "text": "All things are full of labour, man cannot vtter it: the eye is not satisfied with seeing, nor the eare filled with hearing."
+            },
+            {
+               "verse": 9,
+               "text": "The thing that hath beene, it is that which shall be: and that which is done, is that which shall be done; and there is no new thing vnder the sunne."
+            },
+            {
+               "verse": 10,
+               "text": "Is there any thing, whereof it may be sayd, See, this is new? it hath beene already of olde time, which was before vs."
+            },
+            {
+               "verse": 11,
+               "text": "There is no remembrance of former things; neither shall there bee any remembrance of things that are to come, with those that shall come after."
+            },
+            {
+               "verse": 12,
+               "text": "¶ I the Preacher was king ouer Israel in Ierusalem."
+            },
+            {
+               "verse": 13,
+               "text": "And I gaue my heart to seeke and search out by wisedome, concerning all things that are done vnder heauen: this sore trauell hath God giuen to the sonnes of man, to be exercised therewith."
+            },
+            {
+               "verse": 14,
+               "text": "I haue seene all the workes that are done vnder the Sunne, and behold, all is vanitie, and vexation of spirit."
+            },
+            {
+               "verse": 15,
+               "text": "That which is crooked, cannot be made straight: and that which is wanting cannot be numbred."
+            },
+            {
+               "verse": 16,
+               "text": "I communed with mine owne heart, saying, Loe, I am come to great estate, and haue gotten more wisedome then all they that haue beene before me in Ierusalem: yea my heart had great experience of wisedome & knowledge."
+            },
+            {
+               "verse": 17,
+               "text": "And I gaue my heart to know wisedome, and to know madnesse and folly: I perceiued that this also is vexation of spirit."
+            },
+            {
+               "verse": 18,
+               "text": "For in much wisedome is much griefe: and hee that increaseth knowledge, increaseth sorrow."
+            }
+         ]
+      },
+      {
+         "chapter": 2,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "I said in mine heart, Goe to now, I wil prooue thee with mirth, therfore enioy pleasure: and behold, this also is vanitie."
+            },
+            {
+               "verse": 2,
+               "text": "I saide of laughter, It is mad: and of mirth, What doeth it?"
+            },
+            {
+               "verse": 3,
+               "text": "I sought in mine heart to giue my selfe vnto wine, (yet acquainting mine heart with wisedome) and to lay hold on folly, till I might see what was that good for the sonnes of men, which they should doe vnder the heauen all the dayes of their life."
+            },
+            {
+               "verse": 4,
+               "text": "I made me great workes, I builded mee houses, I planted mee Uineyards."
+            },
+            {
+               "verse": 5,
+               "text": "I made mee gardens & orchards, and I planted trees in them of all kinde of fruits."
+            },
+            {
+               "verse": 6,
+               "text": "I made mee pooles of water, to water therewith the wood that bringeth foorth trees:"
+            },
+            {
+               "verse": 7,
+               "text": "I got me seruants and maydens, and had seruants borne in my house; also I had great possessions of great and small cattell, aboue all that were in Ierusalem before me."
+            },
+            {
+               "verse": 8,
+               "text": "I gathered mee also siluer and gold, and the peculiar treasure of kings and of the prouinces: I gate mee men singers and women singers, and the delights of the sonnes of men, as musical instruments, and that of all sorts."
+            },
+            {
+               "verse": 9,
+               "text": "So I was great, and increased more then all that were before mee in Ierusalem; also my wisedome remained with me."
+            },
+            {
+               "verse": 10,
+               "text": "And whatsoeuer mine eyes desired, I kept not from them; I withheld not my heart from any ioy: for my heart reioyced in all my labour; and this was my portion of all my labour."
+            },
+            {
+               "verse": 11,
+               "text": "Then I looked on all the workes that my hands had wrought, and on the labour that I had laboured to doe: and behold, all was vanitie, and vexation of spirit, and there was no profit vnder the Sunne."
+            },
+            {
+               "verse": 12,
+               "text": "¶ And I turned my selfe to behold wisedome, and madnesse and folly: for what can the man doe, that commeth after the king? euen that which hath bene already done."
+            },
+            {
+               "verse": 13,
+               "text": "Then I saw that wisedome excelleth folly, as farre as light excelleth darkenesse."
+            },
+            {
+               "verse": 14,
+               "text": "The wise mans eyes are in his head, but the foole walketh in darknes: and I my selfe perceiued also that one euent happeneth to them all."
+            },
+            {
+               "verse": 15,
+               "text": "Then said I in my heart, As it happeneth to the foole, so it happeneth euen to me, and why was I then more wise? then I said in my heart, That this also is vanitie."
+            },
+            {
+               "verse": 16,
+               "text": "For there is no remembrance of the wise, more then of the foole for euer; seeing that which now is, in the dayes to come shall be forgotten; and how dieth the wise man? as the foole."
+            },
+            {
+               "verse": 17,
+               "text": "Therefore I hated life, because the worke that is wrought vnder the Sunne is grieuous vnto mee: for all is vanitie, and vexation of spirit."
+            },
+            {
+               "verse": 18,
+               "text": "¶ Yea I hated all my labour which I had taken vnder the Sunne: because I should leaue it vnto the man that shalbe after mee."
+            },
+            {
+               "verse": 19,
+               "text": "And who knoweth whether he shall be a wise man or a foole? yet shall he haue rule ouer all my labour, wherein I haue laboured, and wherein I haue shewed my selfe wise vnder the Sunne. This is also vanitie."
+            },
+            {
+               "verse": 20,
+               "text": "Therefore I went about to cause my heart to despaire of all the labour which I tooke vnder the Sunne."
+            },
+            {
+               "verse": 21,
+               "text": "For there is a man whose labour is in wisedome and in knowledge, and in equitie: yet to a man that hath not laboured therein, shall hee leaue it for his portion; This also is vanitie, and a great euill."
+            },
+            {
+               "verse": 22,
+               "text": "For what hath man of all his labour, and of the vexation of his heart wherein hee hath laboured vnder the Sunne?"
+            },
+            {
+               "verse": 23,
+               "text": "For all his dayes are sorrowes, and his traueile, griefe; yea his heart taketh not rest in the night. This is also vanitie."
+            },
+            {
+               "verse": 24,
+               "text": "¶ There is nothing better for a man, then that he should eat and drinke, and that he should make his soule enioy good in his labour. This also I saw, that it was from the hand of God."
+            },
+            {
+               "verse": 25,
+               "text": "For who can eate? or who else can hasten hereunto more then I?"
+            },
+            {
+               "verse": 26,
+               "text": "For God giueth to a man that is good in his sight, wisedome, and knowledge, and ioy: but to the sinner hee giueth traueile, to gather and to heape vp that he may giue to him that is good before God: This also is vanitie and vexation of spirit."
+            }
+         ]
+      },
+      {
+         "chapter": 3,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "To euery thing there is a season, and a time to euery purpose vnder the heauen."
+            },
+            {
+               "verse": 2,
+               "text": "A time to be borne, and a time to die: a time to plant, and a time to pluck vp that which is planted."
+            },
+            {
+               "verse": 3,
+               "text": "A time to kill, and a time to heale: a time to breake downe, and a time to build vp."
+            },
+            {
+               "verse": 4,
+               "text": "A time to weepe, and a time to laugh: a time to mourne, and a time to dance."
+            },
+            {
+               "verse": 5,
+               "text": "A time to cast away stones, and a time to gather stones together: a time to imbrace, and a time to refraine from imbracing."
+            },
+            {
+               "verse": 6,
+               "text": "A time to get, and a time to lose: a time to keepe, and a time to cast away."
+            },
+            {
+               "verse": 7,
+               "text": "A time to rent, and a time to sow: a time to keepe silence, and a time to speake."
+            },
+            {
+               "verse": 8,
+               "text": "A time to loue, and a time to hate: a time of warre, and a time of peace."
+            },
+            {
+               "verse": 9,
+               "text": "What profite hath hee that worketh, in that wherein he laboureth?"
+            },
+            {
+               "verse": 10,
+               "text": "I haue seene the trauaile which God hath giuen to the sonnes of men, to be exercised in it."
+            },
+            {
+               "verse": 11,
+               "text": "He hath made euery thing beautifull in his time: also hee hath set the world in their heart, so that no man can finde out the worke that God maketh from the beginning to the end."
+            },
+            {
+               "verse": 12,
+               "text": "I know that there is no good in them, but for a man to reioyce, and to doe good in his life."
+            },
+            {
+               "verse": 13,
+               "text": "And also that euery man should eate and drinke, and enioy the good of all his labour: it is the gift of God."
+            },
+            {
+               "verse": 14,
+               "text": "I know that whatsoeuer God doeth, it shalbe for euer: nothing can be put to it, nor any thing taken from it: and God doth it, that men should feare before him."
+            },
+            {
+               "verse": 15,
+               "text": "That which hath beene, is now: and that which is to be, hath alreadie beene, and God requireth that which is past."
+            },
+            {
+               "verse": 16,
+               "text": "¶ And moreouer, I sawe vnder the Sunne the place of iudgement, that wickednesse was there; and the place of righteousnesse, that iniquitie was there."
+            },
+            {
+               "verse": 17,
+               "text": "I said in mine heart, God shall iudge the righteous and the wicked: for there is a time there, for euery purpose and for euery worke."
+            },
+            {
+               "verse": 18,
+               "text": "I said in my heart concerning the estate of the sonnes of men, that God might manifest them, and that they might see that they themselues are beasts."
+            },
+            {
+               "verse": 19,
+               "text": "For that which befalleth the sonnes of men, befalleth beastes, euen one thing befalleth them: as the one dieth, so dieth the other; yea they haue all one breath, so that a man hath no preheminence aboue a beast; for all is vanitie."
+            },
+            {
+               "verse": 20,
+               "text": "All goe vnto one place, all are of the dust, and all turne to dust againe."
+            },
+            {
+               "verse": 21,
+               "text": "Who knoweth the spirit of man that goeth vpward; and the spirit of the beast that goeth downeward to the earth?"
+            },
+            {
+               "verse": 22,
+               "text": "Wherefore I perceiue that there is nothing better, then that a man should reioyce in his owne workes: for that is his portion; for who shall bring him to see what shalbe after him?"
+            }
+         ]
+      },
+      {
+         "chapter": 4,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "So I returned, and considered all the oppressions that are done vnder the sunne; & behold the teares of such as were oppressed, and they had no comforter: and on the side of their oppressours there was power, but they had no comforter."
+            },
+            {
+               "verse": 2,
+               "text": "Wherefore I praised the dead which are already dead, more then the liuing which are yet aliue."
+            },
+            {
+               "verse": 3,
+               "text": "Yea better is he then both they, which hath not yet been, who hath not seene the euill worke that is done vnder the Sunne."
+            },
+            {
+               "verse": 4,
+               "text": "¶ Againe I considered all trauaile, and euery right worke, that for this a man is enuied of his neighbour: this is also vanitie, and vexation of spirit."
+            },
+            {
+               "verse": 5,
+               "text": "The foole foldeth his hands together, and eateth his owne flesh."
+            },
+            {
+               "verse": 6,
+               "text": "Better is an handfull with quietnesse, then both the hands full with trauell and vexation of spirit."
+            },
+            {
+               "verse": 7,
+               "text": "¶ Then I returned, and I saw vanitie vnder the Sunne."
+            },
+            {
+               "verse": 8,
+               "text": "There is one alone, and there is not a second; yea, he hath neither childe nor brother: yet is there no end of all his labour, neither is his eye satisfied with riches, neither sayth hee, For whom doe I labour, and bereaue my soule of good? this is also vanitie, yea it is a sore trauell."
+            },
+            {
+               "verse": 9,
+               "text": "¶ Two are better then one; because they haue a good reward for their labour."
+            },
+            {
+               "verse": 10,
+               "text": "For if they fall, the one will lift vp his fellow; but woe to him that is alone, when he falleth: for he hath not another to helpe him vp."
+            },
+            {
+               "verse": 11,
+               "text": "Againe, if two lye together, then they haue heate; but howe can one be warme alone?"
+            },
+            {
+               "verse": 12,
+               "text": "And if one preuaile against him, two shall withstand him; and a threefold coard is not quickly broken."
+            },
+            {
+               "verse": 13,
+               "text": "¶ Better is a poore and a wise child, then an old and foolish king who will no more be admonished."
+            },
+            {
+               "verse": 14,
+               "text": "For out of prison hee commeth to raigne, whereas also he that is borne in his kingdome, becommeth poore."
+            },
+            {
+               "verse": 15,
+               "text": "I considered all the liuing which walke vnder the sunne, with the second child that shall stand vp in his stead."
+            },
+            {
+               "verse": 16,
+               "text": "There is no end of all the people, euen of all that haue beene before them: they also that come after, shall not reioyce in him: surely this also is vanitie, and vexation of spirit."
+            }
+         ]
+      },
+      {
+         "chapter": 5,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Kepe thy foote when thou goest to the house of God, and be more ready to heare, then to giue the sacrifice of fooles: for they consider not that they doe euill."
+            },
+            {
+               "verse": 2,
+               "text": "Be not rash with thy mouth, and let not thine heart be hasty to vtter any thing before God: for God is in heauen, and thou vpon earth: therefore let thy words be few."
+            },
+            {
+               "verse": 3,
+               "text": "For a dreame commeth through the multitude of businesse, and a fooles voyce is knowen by multitude of words."
+            },
+            {
+               "verse": 4,
+               "text": "When thou vowest a vow vnto God, deferre not to pay it: for he hath no pleasure in fooles; pay that which thou hast vowed."
+            },
+            {
+               "verse": 5,
+               "text": "Better is it that thou shouldest not vowe, then that thou shouldest vowe and not pay."
+            },
+            {
+               "verse": 6,
+               "text": "Suffer not thy mouth to cause thy flesh to sinne, neither say thou before the Angel, that it was an errour: wherefore should God be angrie at thy voyce, and destroy the worke of thine hands?"
+            },
+            {
+               "verse": 7,
+               "text": "For in the multitude of dreames and many words, there are also diuers vanities: but feare thou God."
+            },
+            {
+               "verse": 8,
+               "text": "¶ If thou seest the oppression of the poore, and violent peruerting of iudgement, and iustice in a prouince, maruell not at the matter: for he that is higher then the highest, regardeth, and there be higher then they."
+            },
+            {
+               "verse": 9,
+               "text": "¶ Moreouer the profit of the earth is for all: the king himselfe is serued by the field."
+            },
+            {
+               "verse": 10,
+               "text": "Hee that loueth siluer shall not be satisfied with siluer; nor he that loueth abundance, with increase: this is also vanitie."
+            },
+            {
+               "verse": 11,
+               "text": "When goods increase, they are increased that eate them: and what good is there to the owners thereof, sauing the beholding of them with their eyes?"
+            },
+            {
+               "verse": 12,
+               "text": "The sleepe of a labouring man is sweete, whether he eate little or much: but the abundance of the rich will not suffer him to sleepe."
+            },
+            {
+               "verse": 13,
+               "text": "There is a sore euill which I haue seene vnder the Sun, namely riches kept for the owners therof to their hurt."
+            },
+            {
+               "verse": 14,
+               "text": "But those riches perish by euill trauell; and he begetteth a sonne, and there is nothing in his hand."
+            },
+            {
+               "verse": 15,
+               "text": "As he came forth of his mothers wombe, naked shall he returne to goe as he came, and shall take nothing of his labour, which he may carry away in his hand."
+            },
+            {
+               "verse": 16,
+               "text": "And this also is a sore euill, that in all points as he came, so shall hee goe: and what profit hath he that hath laboured for the winde?"
+            },
+            {
+               "verse": 17,
+               "text": "All his dayes also hee eateth in darkenesse, and he hath much sorrowe, and wrath with his sicknesse."
+            },
+            {
+               "verse": 18,
+               "text": "¶ Behold that which I haue seene: It is good and comely for one to eate and to drinke, and to enioy the good of all his labour that he taketh vnder the sunne, all the dayes of his life, which God giueth him: for it is his portion."
+            },
+            {
+               "verse": 19,
+               "text": "Euery man also to whom God hath giuen riches and wealth, and hath giuen him power to eate thereof, and to take his portion, and to reioyce in his labour; this is the gift of God."
+            },
+            {
+               "verse": 20,
+               "text": "For he shall not much remember the dayes of his life: because God answereth him in the ioy of his heart."
+            }
+         ]
+      },
+      {
+         "chapter": 6,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "There is an euill which I haue seen vnder the Sun, and it is common among men:"
+            },
+            {
+               "verse": 2,
+               "text": "A man to whom God hath giuen riches, wealth and honour, so that he wanteth nothing for his soule of all that he desireth, yet God giueth him not power to eate thereof, but a stranger eateth it: This is vanitie, and it is an euill disease."
+            },
+            {
+               "verse": 3,
+               "text": "¶ If a man beget an hundred children, and liue many yeeres, so that the dayes of his yeeres bee many: and his soule be not filled with good, and also that he haue no buriall, I say, that an vntimely birth is better then he."
+            },
+            {
+               "verse": 4,
+               "text": "For he commeth in with vanitie, and departeth in darkenesse, and his name shall be couered with darkenesse."
+            },
+            {
+               "verse": 5,
+               "text": "Moreouer hee hath not seene the Sunne, nor knowen any thing: this hath more rest then the other."
+            },
+            {
+               "verse": 6,
+               "text": "¶ Yea though he liue a thousand yeeres twice told, yet hath he seene no good: Doe not all goe to one place?"
+            },
+            {
+               "verse": 7,
+               "text": "All the labour of man is for his mouth, and yet the appetite is not filled."
+            },
+            {
+               "verse": 8,
+               "text": "For what hath the wise more then the foole? what hath the poore, that knoweth to walke before the liuing?"
+            },
+            {
+               "verse": 9,
+               "text": "¶ Better is the sight of the eyes, then the wandering of the desire: this is also vanitie and vexation of spirit."
+            },
+            {
+               "verse": 10,
+               "text": "That which hath bene, is named already, and it is knowen that it is man: neither may he contend with him that is mightier then he."
+            },
+            {
+               "verse": 11,
+               "text": "¶ Seeing there be many things that increase vanitie, what is man the better?"
+            },
+            {
+               "verse": 12,
+               "text": "For who knoweth what is good for man in this life, all the dayes of his vaine life, which he spendeth as a shadow? for who can tell a man what shal be after him vnder the sunne?"
+            }
+         ]
+      },
+      {
+         "chapter": 7,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "A Good name is better then precious ointment: and the day of death, then the day of ones birth."
+            },
+            {
+               "verse": 2,
+               "text": "¶ It is better to goe to the house of mourning, then to goe to the house of feasting: for that is the end of all men, and the liuing will lay it to his heart."
+            },
+            {
+               "verse": 3,
+               "text": "Sorrow is better then laughter: for by the sadnesse of the countenance the heart is made better."
+            },
+            {
+               "verse": 4,
+               "text": "The heart of the wise is in the house of mourning: but the heart of fooles is in the house of mirth."
+            },
+            {
+               "verse": 5,
+               "text": "It is better to heare the rebuke of the wise, then for a man to heare the song of fooles."
+            },
+            {
+               "verse": 6,
+               "text": "For as the crackling of thornes vnder a pot, so is the laughter of the foole: this also is vanitie."
+            },
+            {
+               "verse": 7,
+               "text": "¶ Surely oppression maketh a wise man mad: and a gift destroyeth the heart."
+            },
+            {
+               "verse": 8,
+               "text": "Better is the ende of a thing then the beginning thereof: and the patient in spirit is better then the proude in spirit."
+            },
+            {
+               "verse": 9,
+               "text": "Be not hastie in thy spirit to bee angry: for anger resteth in the bosome of fooles."
+            },
+            {
+               "verse": 10,
+               "text": "Say not thou, What is the cause that the former dayes were better then these? For thou doest not enquire wisely concerning this."
+            },
+            {
+               "verse": 11,
+               "text": "¶ Wisedome is good with an inheritance: and by it there is profite to them that see the sunne."
+            },
+            {
+               "verse": 12,
+               "text": "For wisedome is a defence, and money is a defence: but the excellencie of knowledge is, that wisedome giueth life to them that haue it."
+            },
+            {
+               "verse": 13,
+               "text": "Consider the worke of God: for who can make that straight, which hee hath made crooked?"
+            },
+            {
+               "verse": 14,
+               "text": "In the day of prosperitie be ioyfull, but in the day of aduersitie consider: God also hath set the one ouer against the other, to the end that man should find nothing after him."
+            },
+            {
+               "verse": 15,
+               "text": "All things haue I seene in the dayes of my vanitie: there is a iust man that perisheth in his righteousnes, and there is a wicked man that prolongeth his life in his wickednes."
+            },
+            {
+               "verse": 16,
+               "text": "Be not righteous ouer much, neither make thy selfe ouer wise: why shouldest thou destroy thy selfe?"
+            },
+            {
+               "verse": 17,
+               "text": "Be not ouermuch wicked, neither be thou foolish: why shouldest thou die before thy time?"
+            },
+            {
+               "verse": 18,
+               "text": "It is good that thou shouldest take holde of this, yea also from this withdraw not thine hand: for hee that feareth God, shall come foorth of them all."
+            },
+            {
+               "verse": 19,
+               "text": "Wisedome strengtheneth the wise, more then ten mightie men which are in the citie."
+            },
+            {
+               "verse": 20,
+               "text": "For there is not a iust man vpon earth, that doeth good, and sinneth not."
+            },
+            {
+               "verse": 21,
+               "text": "Also take no heede vnto all words that are spoken; lest thou heare thy seruant curse thee."
+            },
+            {
+               "verse": 22,
+               "text": "For often times also thine owne heart knoweth, that thou thy selfe likewise hast cursed others."
+            },
+            {
+               "verse": 23,
+               "text": "¶ All this haue I prooued by wisedome: I said, I will be wise, but it was farre from me."
+            },
+            {
+               "verse": 24,
+               "text": "That which is farre off, and exceeding deepe, who can finde it out?"
+            },
+            {
+               "verse": 25,
+               "text": "I applyed mine heart to know, and to search, and to seeke out wisdome, and the reason of things, aud to know the wickednes of folly, euen of foolishnesse and madnesse."
+            },
+            {
+               "verse": 26,
+               "text": "And I finde more bitter then death, the woman whose heart is snares & nets, and her handes as bands: who so pleaseth God, shall escape from her, but the sinner shall be taken by her."
+            },
+            {
+               "verse": 27,
+               "text": "Behold, this haue I found (saith the Preacher) counting one by one to finde out the account:"
+            },
+            {
+               "verse": 28,
+               "text": "Which yet my soule seeketh, but I finde not: one man among a thousand haue I found, but a woman among all those haue I not found."
+            },
+            {
+               "verse": 29,
+               "text": "Loe, this onely haue I found, that God hath made man vpright: but they haue sought out many inuentions."
+            }
+         ]
+      },
+      {
+         "chapter": 8,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Who is as the Wise man? and who knoweth the interpretation of a thing? a mans wisedome maketh his face to shine, and the boldnes of his face shalbe changed."
+            },
+            {
+               "verse": 2,
+               "text": "I counsell thee, to keepe the kings commandement, and that in regard of the oath of God."
+            },
+            {
+               "verse": 3,
+               "text": "Bee not hastie to goe out of his sight: stand not in an euill thing, for he doeth whatsoeuer pleaseth him."
+            },
+            {
+               "verse": 4,
+               "text": "Where the word of a king is, there is power: and who may say vnto him, What doest thou?"
+            },
+            {
+               "verse": 5,
+               "text": "Whoso keepeth the commandement, shall feele no euill thing: and a wise mans heart discerneth both time and iudgement."
+            },
+            {
+               "verse": 6,
+               "text": "¶ Because to euery purpose there is time, and iudgement; therefore the misery of man is great vpon him."
+            },
+            {
+               "verse": 7,
+               "text": "For hee knoweth not that which shall be: for who can tell him, when it shall be?"
+            },
+            {
+               "verse": 8,
+               "text": "There is no man that hath power ouer the spirit to retaine the spirit; neither hath he power in the day of death: and there is no discharge in that warre, neither shall wickednesse deliuer those that are giuen to it."
+            },
+            {
+               "verse": 9,
+               "text": "All this haue I seene, and applied my heart vnto euery worke that is done vnder the Sunne: there is a time wherein one man ruleth ouer another to his owne hurt."
+            },
+            {
+               "verse": 10,
+               "text": "And so I saw the wicked buried, who had come, and gone from the place of the Holy, and they were forgotten in the city, where they had so done: this is also vanitie."
+            },
+            {
+               "verse": 11,
+               "text": "Because sentence against an euill worke is not executed speedily; therefore the heart of the sonnes of men is fully set in them to doe euill."
+            },
+            {
+               "verse": 12,
+               "text": "¶ Though a sinner doe euill an hundred times, and his dayes be prolonged; yet surely I know that it shall be well with them that feare God, which feare before him."
+            },
+            {
+               "verse": 13,
+               "text": "But it shall not be well with the wicked, neither shall hee prolong his dayes which are as a shadow; because he feareth not before God."
+            },
+            {
+               "verse": 14,
+               "text": "There is a vanitie which is done vpon the earth, that there be iust men vnto whom it happeneth according to the worke of the wicked: againe, there be wicked men, to whom it happeneth according to the worke of the righteous: I said, that this also is vanitie."
+            },
+            {
+               "verse": 15,
+               "text": "Then I commended mirth, because a man hath no better thing vnder the Sunne, then to eate and to drinke, and to be merrie: for that shall abide with him of his labour, the dayes of his life, which God giueth him vnder the Sunne."
+            },
+            {
+               "verse": 16,
+               "text": "¶ When I applied mine heart to know wisedome, and to see the busines that is done vpon the earth: (for also there is that neither day nor night seeth sleepe with his eyes.)"
+            },
+            {
+               "verse": 17,
+               "text": "Then I behelde all the worke of God, that a man cannot finde out the worke that is done vnder the Sunne: because though a man labour to seeke it out, yea further though a wise man thinke to know it, yet shall hee not be able to finde it."
+            }
+         ]
+      },
+      {
+         "chapter": 9,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "For all this I considered in my heart, euen to declare all this, that the righteous, and the wise, and their workes, are in the hand of God: no man knoweth either loue, or hatred, by all that is before them."
+            },
+            {
+               "verse": 2,
+               "text": "All things come alike to all: there is one euent to the righteous and to the wicked, to the good and to the cleane, and to the vncleane; to him that sacrificeth, and to him that sacrificeth not: as is the good, so is the sinner, and hee that sweareth, as he that feareth an oath."
+            },
+            {
+               "verse": 3,
+               "text": "This is an euill among all things that are done vnder the Sunne, that there is one euent vnto all: yea also the heart of the sonnes of men is full of euill, and madnesse is in their heart while they liue, and after that they goe to the dead."
+            },
+            {
+               "verse": 4,
+               "text": "¶ For to him that is ioyned to all the liuing, there is hope: for a liuing dogge is better then a dead Lion."
+            },
+            {
+               "verse": 5,
+               "text": "For the liuing know that they shall die: but the dead know not any thing, neither haue they any more a reward, for the memorie of them is forgotten."
+            },
+            {
+               "verse": 6,
+               "text": "Also their loue, and their hatred, and their enuy is now perished; neither haue they any more a portion for euer in any thing that is done vnder the Sunne."
+            },
+            {
+               "verse": 7,
+               "text": "¶ Goe thy way, eate thy bread with ioy, and drinke thy wine with a merry heart; for God now accepteth thy workes."
+            },
+            {
+               "verse": 8,
+               "text": "Let thy garments bee alwayes white; and let thy head lacke no oyntment."
+            },
+            {
+               "verse": 9,
+               "text": "Liue ioyfully with the wife, whom thou louest, all the dayes of the life of thy vanitie, which he hath giuen thee vnder the Sunne, all the dayes of thy vanitie: for that is thy portion in this life, and in thy labour which thou takest vnder the Sunne."
+            },
+            {
+               "verse": 10,
+               "text": "Whatsoeuer thy hand findeth to doe, doe it with thy might: for there is no worke, nor deuice, nor knowledge, nor wisedome in the graue, whither thou goest."
+            },
+            {
+               "verse": 11,
+               "text": "¶ I returned, and saw vnder the Sunne, That the race is not to the swift, nor the battell to the strong, neither yet bread to the wise, nor yet riches to men of vnderstanding, nor yet fauour to men of skil; but time and chance happeneth to them all."
+            },
+            {
+               "verse": 12,
+               "text": "For man also knoweth not his time, as the fishes that are taken in an euil net, and as the birds that are caught in the snare; so are the sonnes of men snared in an euill time, when it falleth suddenly vpon them."
+            },
+            {
+               "verse": 13,
+               "text": "¶ This wisedome haue I seene also vnder the Sunne, and it seemed great vnto me:"
+            },
+            {
+               "verse": 14,
+               "text": "There was a little citie, and few men within it; and there came a great King against it, and besieged it, & built great bulwarks against it:"
+            },
+            {
+               "verse": 15,
+               "text": "Now there was found in it a poore wise man, and hee by his wisedome deliuered the citie; yet no man remembred that same poore man."
+            },
+            {
+               "verse": 16,
+               "text": "Then said I, Wisedome is better then strength: neuerthelesse, the poore mans wisedome is despised, and his words are not heard."
+            },
+            {
+               "verse": 17,
+               "text": "The words of wise men are heard in quiet, more then the cry of him that ruleth among fooles."
+            },
+            {
+               "verse": 18,
+               "text": "Wisedome is better then weapons of warre: but one sinner destroyeth much good."
+            }
+         ]
+      },
+      {
+         "chapter": 10,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Dead flies cause the oyntment of the Apothecarie to send foorth a stinking sauour: so doeth a little folly him that is in reputation for wisedome and honour."
+            },
+            {
+               "verse": 2,
+               "text": "A wise mans heart is at his right hand: but a fooles heart at his left."
+            },
+            {
+               "verse": 3,
+               "text": "Yea also when hee that is a foole walketh by the way, his wisedome faileth him, and hee saith to euery one that he is a foole."
+            },
+            {
+               "verse": 4,
+               "text": "If the spirit of the ruler rise vp against thee, leaue not thy place; for yeelding pacifieth great offences."
+            },
+            {
+               "verse": 5,
+               "text": "There is an euill which I haue seene vnder the Sunne, as an errour, which proceedeth from the ruler."
+            },
+            {
+               "verse": 6,
+               "text": "Folly is set in great dignitie; and the rich sit in lowe place."
+            },
+            {
+               "verse": 7,
+               "text": "I haue seene seruants vpon horses, and princes walking as seruants vpon the earth."
+            },
+            {
+               "verse": 8,
+               "text": "He that diggeth a pit, shall fall into it; and who so breaketh an hedge, a serpent shall bite him."
+            },
+            {
+               "verse": 9,
+               "text": "Who so remoueth stones, shall be hurt therewith: and hee that cleaueth wood, shalbe endangered thereby."
+            },
+            {
+               "verse": 10,
+               "text": "If the yron be blunt, and he doe not whet the edge, then must he put to more strength: but wisedome is profitable to direct."
+            },
+            {
+               "verse": 11,
+               "text": "Surely the serpent will bite without inchauntment, and a babbler is no better."
+            },
+            {
+               "verse": 12,
+               "text": "The words of a wise mans mouth are gratious: but the lips of a foole will swallow vp himselfe."
+            },
+            {
+               "verse": 13,
+               "text": "The beginning of the words of his mouth is foolishnesse: and the end of his talke is mischieuous madnesse."
+            },
+            {
+               "verse": 14,
+               "text": "A foole also is full of words; a man cannot tell what shall be; and what shall bee after him who can tell him?"
+            },
+            {
+               "verse": 15,
+               "text": "The labour of the foolish wearyeth euery one of them; because hee knoweth not how to goe to the citie."
+            },
+            {
+               "verse": 16,
+               "text": "¶ Woe to thee, O land, when thy king is a child, and thy princes eate in the morning."
+            },
+            {
+               "verse": 17,
+               "text": "Blessed art thou, O land, when thy king is the sonne of nobles, and thy princes eate in due season, for strength, and not for drunkennesse."
+            },
+            {
+               "verse": 18,
+               "text": "¶ By much slouthfulnesse the building decayeth; and through idlenesse of the hands the house droppeth through."
+            },
+            {
+               "verse": 19,
+               "text": "¶ A feast is made for laughter, and wine maketh merry: but money answereth all things."
+            },
+            {
+               "verse": 20,
+               "text": "¶ Curse not the king, no not in thy thought, and curse not the rich in thy bed-chamber: for a bird of the aire shall carry the voyce, and that which hath wings shall tell the matter."
+            }
+         ]
+      },
+      {
+         "chapter": 11,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Cast thy bread vpon the waters: for thou shalt find it after many dayes."
+            },
+            {
+               "verse": 2,
+               "text": "Giue a portion to seuen and also to eight; for thou knowest noc what euill shall be vpon the earth."
+            },
+            {
+               "verse": 3,
+               "text": "If the clouds be full of raine, they emptie themselues vpon the earth: and if the tree fall toward the South, or toward the North, in the place where the tree falleth, there it shall be."
+            },
+            {
+               "verse": 4,
+               "text": "He that obserueth the wind, shall not sow: and hee that regardeth the clouds, shall not reape."
+            },
+            {
+               "verse": 5,
+               "text": "As thou knowest not what is the way of the spirit, nor how the bones doe growe in the wombe of her that is with child: euen so thou knowest not the workes of God who maketh all."
+            },
+            {
+               "verse": 6,
+               "text": "In the morning sowe thy seede, and in the euening withhold not thine hand: for thou knowest not whether shall prosper, either this or that, or whether they both shall be alike good."
+            },
+            {
+               "verse": 7,
+               "text": "¶ Truly the light is sweet, and a pleasant thing is it for the eyes to behold the sunne."
+            },
+            {
+               "verse": 8,
+               "text": "But if a man liue many yeeres, and reioyce in them all; yet let him remember the dayes of darkenesse, for they shall be many. All that commeth is vanitie."
+            },
+            {
+               "verse": 9,
+               "text": "¶ Reioyce, O young man, in thy youth, and let thy heart cheere thee in the dayes of thy youth, and walke in the wayes of thine heart, and in the sight of thine eyes: but know thou, that for all these things, God will bring thee into iudgement."
+            },
+            {
+               "verse": 10,
+               "text": "Therefore remoue sorrow from thy heart, and put away euill from thy flesh; for child-hood & youth are vanitie."
+            }
+         ]
+      },
+      {
+         "chapter": 12,
+         "verses": [
+            {
+               "verse": 1,
+               "text": "Remember now thy Creatour in the dayes of thy youth, while the euil daies come not, nor the yeeres drawe nigh, when thou shalt say, I haue no pleasure in them:"
+            },
+            {
+               "verse": 2,
+               "text": "While the Sunne, or the light, or the moone, or the starres be not darkened, nor the cloudes returne after the raine:"
+            },
+            {
+               "verse": 3,
+               "text": "In the day when the keepers of the house shall tremble, and the strong men shall bowe themselues, and the grinders cease, because they are fewe, and those that looke out of the windowes be darkened:"
+            },
+            {
+               "verse": 4,
+               "text": "And the doores shal be shut in the streets, when the sound of the grinding is low, and he shall rise vp at the voice of the bird, and all the daughters of musicke shall be brought low."
+            },
+            {
+               "verse": 5,
+               "text": "Also when they shalbe afraid of that which is high, and feares shall bee in the way, and the Almond tree shall flourish, and the grashopper shall be a burden, and desire shall faile: because man goeth to his long home, and the mourners goe about the streets:"
+            },
+            {
+               "verse": 6,
+               "text": "Or euer the siluer corde be loosed, or the golden bowle be broken, or the pitcher be broken at the fountaine, or the wheele broken at the cisterne."
+            },
+            {
+               "verse": 7,
+               "text": "Then shall the dust returne to the earth as it was: and the spirit shall returne vnto God who gaue it."
+            },
+            {
+               "verse": 8,
+               "text": "¶ Uanitie of vanities (saith the preacher) all is vanitie."
+            },
+            {
+               "verse": 9,
+               "text": "And moreouer because the preacher was wise, he still taught the people knowledge, yea he gaue good heed, and sought out, and set in order many prouerbes."
+            },
+            {
+               "verse": 10,
+               "text": "The preacher sought to finde out acceptable words, and that which was written was vpright, euen wordes of trueth."
+            },
+            {
+               "verse": 11,
+               "text": "The wordes of the wise are as goads, and as nailes fastened by the masters of assemblies, which are giuen from one shepheard."
+            },
+            {
+               "verse": 12,
+               "text": "And further, by these, my sonne, be admonished: of making many bookes there is no end, and much studie is a wearinesse of the flesh."
+            },
+            {
+               "verse": 13,
+               "text": "¶ Let vs heare the conclusion of the whole matter: Feare God, and keepe his commandements, for this is the whole duetie of man."
+            },
+            {
+               "verse": 14,
+               "text": "For God shal bring euery worke into iudgement, with euer secret thing, whether it bee good, or whether it bee euill."
+            }
+         ]
+      }
+   ]
+}
